@@ -5,3 +5,4 @@ git config --global user.name "travis-data-auto-updater"
 git add data/
 git status
 git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
+git log -1
