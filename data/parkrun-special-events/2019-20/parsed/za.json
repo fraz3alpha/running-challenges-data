@@ -1,0 +1,252 @@
+{
+  "Christmas Day": {
+    "date": "2019-12-25",
+    "events": {
+      "Aliwal North parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Aliwal North parkrun",
+        "shortname": "aliwalnorth",
+        "time": "08:00"
+      },
+      "Bronberrik parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Bronberrik parkrun",
+        "shortname": "bronberrik",
+        "time": "08:00"
+      },
+      "Delta parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Delta parkrun",
+        "shortname": "delta",
+        "time": "08:00"
+      },
+      "Kimberley parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Kimberley parkrun",
+        "shortname": "kimberley",
+        "time": "07:00"
+      },
+      "Koster parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Koster parkrun",
+        "shortname": "koster",
+        "time": "07:00"
+      },
+      "Mogol parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Mogol parkrun",
+        "shortname": "mogol",
+        "time": "07:00"
+      },
+      "Secunda parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Secunda parkrun",
+        "shortname": "secunda",
+        "time": "08:00"
+      },
+      "Standerton parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Standerton parkrun",
+        "shortname": "standerton",
+        "time": "08:00"
+      },
+      "White River parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "White River parkrun",
+        "shortname": "whiteriver",
+        "time": "07:00"
+      },
+      "Witbank parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Witbank parkrun",
+        "shortname": "witbank",
+        "time": "08:00"
+      }
+    },
+    "index": 2
+  },
+  "New Year's Day": {
+    "date": "2020-01-01",
+    "events": {
+      "Aliwal North parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Aliwal North parkrun",
+        "shortname": "aliwalnorth",
+        "time": "08:00"
+      },
+      "Bellville parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Bellville parkrun",
+        "shortname": "bellville",
+        "time": "08:00"
+      },
+      "Bryanston parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Bryanston parkrun",
+        "shortname": "bryanston",
+        "time": "07:30"
+      },
+      "Delta parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Delta parkrun",
+        "shortname": "delta",
+        "time": "09:30"
+      },
+      "Franschhoek parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Franschhoek parkrun",
+        "shortname": "franschhoek",
+        "time": "08:00"
+      },
+      "Harkerville parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Harkerville parkrun",
+        "shortname": "harkerville",
+        "time": "09:00"
+      },
+      "Heidedal parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Heidedal parkrun",
+        "shortname": "heidedal",
+        "time": "06:30"
+      },
+      "Hermanus parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Hermanus parkrun",
+        "shortname": "hermanus",
+        "time": "07:30"
+      },
+      "Imonti parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Imonti parkrun",
+        "shortname": "imonti",
+        "time": "07:30"
+      },
+      "Kimberley parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Kimberley parkrun",
+        "shortname": "kimberley",
+        "time": "07:00"
+      },
+      "Knysna parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Knysna parkrun",
+        "shortname": "knysna",
+        "time": "08:00"
+      },
+      "Koster parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Koster parkrun",
+        "shortname": "koster",
+        "time": "08:30"
+      },
+      "Mogol parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Mogol parkrun",
+        "shortname": "mogol",
+        "time": "07:00"
+      },
+      "Piet Retief parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Piet Retief parkrun",
+        "shortname": "pietretief",
+        "time": "07:00"
+      },
+      "Port Alfred parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Port Alfred parkrun",
+        "shortname": "portalfred",
+        "time": "08:00"
+      },
+      "Roodepoort parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Roodepoort parkrun",
+        "shortname": "roodepoort",
+        "time": "09:00"
+      },
+      "Sand River parkrun, Virginia": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Sand River parkrun, Virginia",
+        "shortname": "sandriver",
+        "time": "07:30"
+      },
+      "Secunda parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Secunda parkrun",
+        "shortname": "secunda",
+        "time": "07:30"
+      },
+      "Silveroaks parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Silveroaks parkrun",
+        "shortname": "silveroaks",
+        "time": "09:30"
+      },
+      "Standerton parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Standerton parkrun",
+        "shortname": "standerton",
+        "time": "09:30"
+      },
+      "Sterkfontein parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Sterkfontein parkrun",
+        "shortname": "sterkfontein",
+        "time": "07:30"
+      },
+      "The Venue parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "The Venue parkrun",
+        "shortname": "thevenue",
+        "time": "08:30"
+      },
+      "Wells Estate parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Wells Estate parkrun",
+        "shortname": "wellsestate",
+        "time": "07:30"
+      },
+      "White River parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "White River parkrun",
+        "shortname": "whiteriver",
+        "time": "07:00"
+      }
+    },
+    "index": 3
+  }
+}
