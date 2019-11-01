@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git checkout -b test-data-branch
+git branch
 
 git config user.email "travis-data-auto-updater"
 git config user.name "travis-data-auto-updater"
