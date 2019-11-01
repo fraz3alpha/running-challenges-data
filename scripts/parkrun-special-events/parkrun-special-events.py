@@ -5,6 +5,20 @@ import os
 
 from bs4 import BeautifulSoup
 
+import argparse
+
+parser = argparse.ArgumentParser(description='Fetch and parse special events')
+
+parser.add_argument('--data-dir',
+                    dest='data_dir',
+                    action='store',
+                    required=True,
+                    help='Where to write the data to')
+
+args = parser.parse_args()
+
+
+
 def parse_special_events_table(table, country_code, special_events_data, year):
 
     special_events = dict()
@@ -86,37 +100,44 @@ def parse_special_events_table(table, country_code, special_events_data, year):
 special_events_data = {
     'Thanksgiving': {
         'dates': {
-            '2018-19': '2018-11-22'
+            '2018-19': '2018-11-22',
+            '2019-20': '2018-11-28'
         }
     },
     'Christmas Eve': {
         'dates': {
-            '2018-19': '2018-12-24'
+            '2018-19': '2018-12-24',
+            '2019-20': '2019-12-24'
         }
     },
     'Christmas Day': {
         'dates': {
-            '2018-19': '2018-12-25'
+            '2018-19': '2018-12-25',
+            '2019-20': '2019-12-25'
         }
     },
     'Boxing Day': {
         'dates': {
-            '2018-19': '2018-12-26'
+            '2018-19': '2018-12-26',
+            '2019-20': '2019-12-26'
         }
     },
     'New Year\'s Day': {
         'dates': {
-            '2018-19': '2019-01-01'
+            '2018-19': '2019-01-01',
+            '2019-20': '2020-01-01'
         }
     },
     'Orthodox Christmas': {
         'dates': {
-            '2018-19': '2019-01-07'
+            '2018-19': '2019-01-07',
+            '2019-20': '2020-01-07'
         }
     },
     'Chinese New Year': {
         'dates': {
-            '2018-19': '2019-02-05'
+            '2018-19': '2019-02-05',
+            '2019-20': '2020-01-20'
         }
     },
     'translations': {
@@ -162,12 +183,12 @@ special_events_data = {
 }
 
 # Make this a parameter at some point, but for now, it's hardcoded
-this_year = '2018-19'
+this_year = '2019-20'
 
 input_files = dict()
 # Load the entire page, in all its messy glory
 
-raw_data_directory = '../../data/parkrun-special-events/{}/raw/'.format(this_year)
+raw_data_directory = '{}/{}/raw/'.format(args.data_dir, this_year)
 for file in os.listdir(raw_data_directory):
     if file.endswith('.html'):
         # String the ending off
@@ -207,7 +228,7 @@ for country_code, raw_file_path in input_files.items():
             else:
                 all[event_type]['events'].update(event_details['events'])
 
-        with open('../../data/parkrun-special-events/{}/parsed/{}.json'.format(this_year, country_code), 'w') as FH:
+        with open('{}/{}/parsed/{}.json'.format(args.data_dir, this_year, country_code), 'w') as FH:
             json.dump(special_events, FH, sort_keys=True, indent=2)
     # print(json.dumps(geo_data, sort_keys=True, indent=2))
 
@@ -215,7 +236,7 @@ for country_code, raw_file_path in input_files.items():
 for event_type, event_details in all.items():
     print('{} - {} events'.format(event_type, len(event_details['events'])))
 
-with open('../../data/parkrun-special-events/{}/parsed/all.json'.format(this_year), 'w') as FH:
+with open('{}/{}/parsed/all.json'.format(args.data_dir, this_year), 'w') as FH:
     json.dump(all, FH, sort_keys=True, indent=2)
 
 # print(soup.prettify())

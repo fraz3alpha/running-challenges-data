@@ -1,6 +1,8 @@
 #!/bin/bash
 
-YEAR=${1:-"2018-19"}
+YEAR=${1:-"2019-20"}
+
+mkdir -p ${YEAR}/raw/ ${YEAR}/parsed/
 
 echo "Fetching files for ${YEAR}"
 

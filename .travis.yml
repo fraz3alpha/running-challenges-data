@@ -7,26 +7,35 @@ python:
 # env:
 #   - EXTENSION_BUILD_ID=$TRAVIS_BUILD_NUMBER EXTENSION_BUILD_VERSION=$TRAVIS_TAG
 
-# before_script:
-#  - ...
+install:
+ - pip install -r scripts/parkrun-geo/requirements.txt
 
 script:
    # Test fetch of the parkrun geo XML & Technical Event Info (both of which get
    # fetched and cached by the background script in the extenion)
    # The wiki page can be slow to load, or missing on occasion, so it would be
    # very useful to cache this away from parkrun's servers.
-   - "curl -H 'user-agent: Mozilla/Firefox' https://www.parkrun.org.uk/wp-content/themes/parkrun/xml/geo.xml"
-   - "curl -H 'user-agent: Mozilla/Firefox' https://www.parkrun.org.uk/wp-content/themes/parkrun/xml/geojuniors.xml"
-   - "curl -H 'user-agent: Mozilla/Firefox' https://wiki.parkrun.com/index.php/Technical_Event_Information"
+   # - python scripts/parkrun-geo/parkrun-geo.py
+   # Get the special event information.
+   - echo "${TRAVIS_BUILD_DIR}" && ls "${TRAVIS_BUILD_DIR}"
+   - cd "${TRAVIS_BUILD_DIR}/data/parkrun-special-events" && ./fetch.sh && python ${TRAVIS_BUILD_DIR}/scripts/parkrun-special-events/parkrun-special-events.py --data-dir="${TRAVIS_BUILD_DIR}/data/parkrun-special-events"
+   - cd ${TRAVIS_BUILD_DIR}/ && ${TRAVIS_BUILD_DIR}/scripts/github/commit-and-push-data.sh
 
-# branch whitelist.
-# For GitHub Pages - if we push code to master the built code goes to gh-pages
-# Tags are the same as branches when it comes to Travis, so we need to include
-# our release tag names here too so that tagged releases get built and pushed to
-# GitHub releases
+
+# Branch Configuration
+# Don't build on pushes to master - this is where the latest data lives, and as
+# we push data there from this job, there is the very real change we keep
+# triggering this job ourselves. Other branches are OK though, as they won't push
+# the code to Github, and running them is useful to see if they work before
+# merging into master.
+
+# We can detect what triggered a build by looking at the `TRAVIS_EVENT_TYPE`
+# variable, which will be `cron` when it was triggered by the daily build.
+# https://docs.travis-ci.com/user/cron-jobs#detecting-builds-triggered-by-cron
 branches:
-  only:
+  except:
   - master
+  - test-data-branch
 
 # before_deploy:
 #   # Rename the output files to be suitable for uploading to the GitHub release
