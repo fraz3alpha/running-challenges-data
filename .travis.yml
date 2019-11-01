@@ -35,6 +35,7 @@ script:
 branches:
   except:
   - master
+  - test-data-branch
 
 # before_deploy:
 #   # Rename the output files to be suitable for uploading to the GitHub release
