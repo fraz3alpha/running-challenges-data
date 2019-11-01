@@ -9,7 +9,7 @@ git status
 git commit --message "Travis build: $TRAVIS_BUILD_NUMBER\n\n  - Triggered by ${TRAVIS_EVENT_TYPE}"
 git log -1
 
-if ["${TRAVIS_BRANCH}" == "master"]; then
+if [ "${TRAVIS_BRANCH}" == "master" ]; then
 
     if [ "${GITHUB_TOKEN_RUNNING_CHALLENGES_DATA}" != "" ]; then
 
