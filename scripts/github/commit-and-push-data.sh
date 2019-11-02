@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -e
 
 git branch
 
@@ -13,9 +13,11 @@ if [ "${TRAVIS_BRANCH}" == "master" ]; then
 
     if [ "${GITHUB_TOKEN_RUNNING_CHALLENGES_DATA}" != "" ]; then
 
-        git checkout -b master
+        # Make sure we are on the right branch
+        git checkout master
 
         git remote add origin-data https://${GITHUB_TOKEN_RUNNING_CHALLENGES_DATA}@github.com/fraz3alpha/running-challenges-data.git
+        echo "Pushing commit to upstream"
         git push --quiet --set-upstream origin-data master
     else
         echo "Skipping push as GitHub token not available"
