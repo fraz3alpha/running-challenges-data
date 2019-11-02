@@ -8,19 +8,28 @@ git config user.email "travis-data-auto-updater"
 git config user.name "travis-data-auto-updater"
 git add data/
 git status
-git commit --message "Travis build: $TRAVIS_BUILD_NUMBER\\n\\n  - Triggered by ${TRAVIS_EVENT_TYPE}"
-git log -1
 
-if [ "${TRAVIS_BRANCH}" == "master" ]; then
+CHANGED=$(git diff-index --name-only HEAD --)
 
-    if [ "${GITHUB_TOKEN_RUNNING_CHALLENGES_DATA}" != "" ]; then
+if [ ! -z "${CHANGED}"]; then 
 
-        git remote add origin-data https://${GITHUB_TOKEN_RUNNING_CHALLENGES_DATA}@github.com/fraz3alpha/running-challenges-data.git
-        echo "Pushing commit to upstream"
-        git push --quiet --set-upstream origin-data master
+    git commit --message "Travis build: $TRAVIS_BUILD_NUMBER\\n\\n  - Triggered by ${TRAVIS_EVENT_TYPE}"
+    git log -1
+
+    if [ "${TRAVIS_BRANCH}" == "master" ]; then
+
+        if [ "${GITHUB_TOKEN_RUNNING_CHALLENGES_DATA}" != "" ]; then
+
+            git remote add origin-data https://${GITHUB_TOKEN_RUNNING_CHALLENGES_DATA}@github.com/fraz3alpha/running-challenges-data.git
+            echo "Pushing commit to upstream"
+            git push --quiet --set-upstream origin-data master
+        else
+            echo "Skipping push as GitHub token not available"
+        fi
     else
-        echo "Skipping push as GitHub token not available"
+        echo "Skipping git commands as we aren't on master"
     fi
+
 else
-    echo "Skipping git commands as we aren't on master"
+    echo "No changes to commit"
 fi
