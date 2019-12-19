@@ -1,6 +1,6 @@
 {
-  "Ny\u00e5rsdagen": {
-    "date": null,
+  "New Year's Day": {
+    "date": "2020-01-01",
     "events": {
       "Haga parkrun": {
         "country_code": "se",
