@@ -166,7 +166,8 @@ special_events_data = {
             'Drugi Dzień Świąt',
         ],
         'New Year\'s Day': [
-            'Nytårsdagen',
+            'Nytårsdag',
+            'Nyårsdagen',
             'Jour de l\'an',
             'Neujahr',
             'Capodanno',
