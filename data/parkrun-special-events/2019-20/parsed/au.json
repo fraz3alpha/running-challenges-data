@@ -2,11 +2,81 @@
   "Christmas Day": {
     "date": "2019-12-25",
     "events": {
+      "Airlie Beach parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Airlie Beach parkrun",
+        "shortname": "airliebeach",
+        "time": "07:00"
+      },
+      "Albert parkrun, Melbourne": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Albert parkrun, Melbourne",
+        "shortname": "albert-melbourne",
+        "time": "08:00"
+      },
+      "Altona Beach parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Altona Beach parkrun",
+        "shortname": "altonabeach",
+        "time": "08:00"
+      },
+      "Aplins Weir parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Aplins Weir parkrun",
+        "shortname": "aplinsweir",
+        "time": "07:00"
+      },
+      "Applecross parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Applecross parkrun",
+        "shortname": "applecross",
+        "time": "08:00"
+      },
+      "Atherton parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Atherton parkrun",
+        "shortname": "atherton",
+        "time": "07:00"
+      },
+      "Aveley parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Aveley parkrun",
+        "shortname": "aveley",
+        "time": "08:00"
+      },
+      "Ballarat parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Ballarat parkrun",
+        "shortname": "ballarat",
+        "time": "08:00"
+      },
       "Balyang Sanctuary parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Balyang Sanctuary parkrun",
         "shortname": "balyangsanctuary",
+        "time": "08:00"
+      },
+      "Bargara parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Bargara parkrun",
+        "shortname": "bargara",
+        "time": "07:00"
+      },
+      "Bathurst parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Bathurst parkrun",
+        "shortname": "bathurst",
         "time": "08:00"
       },
       "Bellerive parkrun": {
@@ -23,6 +93,27 @@
         "shortname": "bibralake",
         "time": "08:00"
       },
+      "Brightwater parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Brightwater parkrun",
+        "shortname": "brightwater",
+        "time": "07:00"
+      },
+      "Burley Griffin parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Burley Griffin parkrun",
+        "shortname": "burleygriffin",
+        "time": "08:00"
+      },
+      "Burnie parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Burnie parkrun",
+        "shortname": "burnie",
+        "time": "09:00"
+      },
       "Cairns parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -30,12 +121,89 @@
         "shortname": "cairns",
         "time": "07:00"
       },
+      "Canning River parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Canning River parkrun",
+        "shortname": "canningriver",
+        "time": "08:00"
+      },
+      "Capalaba parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Capalaba parkrun",
+        "shortname": "capalaba",
+        "time": "07:00"
+      },
+      "Castlemaine parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Castlemaine parkrun",
+        "shortname": "castlemaine",
+        "time": "08:00"
+      },
+      "Champion Lakes parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Champion Lakes parkrun",
+        "shortname": "championlakes",
+        "time": "08:00"
+      },
+      "Chelsea Bicentennial parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Chelsea Bicentennial parkrun",
+        "shortname": "chelseabicentennial",
+        "time": "08:00"
+      },
+      "Churchill parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Churchill parkrun",
+        "shortname": "churchill",
+        "time": "08:00"
+      },
+      "Cobram parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Cobram parkrun",
+        "shortname": "cobram",
+        "time": "08:00"
+      },
+      "Coburg parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Coburg parkrun",
+        "shortname": "coburg",
+        "time": "08:00"
+      },
       "Cooks River parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Cooks River parkrun",
         "shortname": "cooksriver",
         "time": "08:00"
+      },
+      "Coomera parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Coomera parkrun",
+        "shortname": "coomera",
+        "time": "07:00"
+      },
+      "Cottesloe parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Cottesloe parkrun",
+        "shortname": "cottesloe",
+        "time": "08:00"
+      },
+      "Curl Curl parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Curl Curl parkrun",
+        "shortname": "curlcurl",
+        "time": "07:00"
       },
       "Dalby parkrun": {
         "country_code": "au",
@@ -51,12 +219,40 @@
         "shortname": "darebin",
         "time": "08:00"
       },
+      "Darwin parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Darwin parkrun",
+        "shortname": "darwin",
+        "time": "07:00"
+      },
+      "Devonport parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Devonport parkrun",
+        "shortname": "devonport",
+        "time": "08:00"
+      },
       "Dubbo parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Dubbo parkrun",
         "shortname": "dubbo",
         "time": "08:00"
+      },
+      "Echuca Moama parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Echuca Moama parkrun",
+        "shortname": "echucamoama",
+        "time": "08:00"
+      },
+      "Emerald parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Emerald parkrun",
+        "shortname": "emerald",
+        "time": "07:00"
       },
       "Euroa parkrun": {
         "country_code": "au",
@@ -70,6 +266,34 @@
         "country_domain": "www.parkrun.com.au",
         "longname": "Fingal Bay parkrun",
         "shortname": "fingalbay",
+        "time": "08:00"
+      },
+      "Frog Hollow parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Frog Hollow parkrun",
+        "shortname": "froghollow",
+        "time": "08:00"
+      },
+      "Gatton parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Gatton parkrun",
+        "shortname": "gatton",
+        "time": "07:00"
+      },
+      "Gawler parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Gawler parkrun",
+        "shortname": "gawler",
+        "time": "08:00"
+      },
+      "Geographe Bay parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Geographe Bay parkrun",
+        "shortname": "geographebay",
         "time": "08:00"
       },
       "Goulburn parkrun": {
@@ -100,12 +324,26 @@
         "shortname": "hamilton",
         "time": "08:00"
       },
+      "Hastings Foreshore parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Hastings Foreshore parkrun",
+        "shortname": "hastingsforeshore",
+        "time": "08:00"
+      },
       "Highfields parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Highfields parkrun",
         "shortname": "highfields",
         "time": "07:00"
+      },
+      "Highlands parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Highlands parkrun",
+        "shortname": "highlands",
+        "time": "08:00"
       },
       "Hopkins parkrun": {
         "country_code": "au",
@@ -119,6 +357,13 @@
         "country_domain": "www.parkrun.com.au",
         "longname": "Inverloch parkrun",
         "shortname": "inverloch",
+        "time": "08:00"
+      },
+      "Jubilee Way parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Jubilee Way parkrun",
+        "shortname": "jubileeway",
         "time": "08:00"
       },
       "Kalgoorlie-Boulder parkrun": {
@@ -135,6 +380,34 @@
         "shortname": "kelvingrove",
         "time": "07:00"
       },
+      "Kennington Reservoir parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Kennington Reservoir parkrun",
+        "shortname": "kenningtonreservoir",
+        "time": "08:00"
+      },
+      "Lake Joondalup parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Lake Joondalup parkrun",
+        "shortname": "lakejoondalup",
+        "time": "08:00"
+      },
+      "Lake Mac parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Lake Mac parkrun",
+        "shortname": "lakemac",
+        "time": "08:00"
+      },
+      "Lawson parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Lawson parkrun",
+        "shortname": "lawson",
+        "time": "08:00"
+      },
       "Lillydale Lake parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -147,6 +420,13 @@
         "country_domain": "www.parkrun.com.au",
         "longname": "Lismore parkrun",
         "shortname": "lismore",
+        "time": "07:00"
+      },
+      "Lota parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Lota parkrun",
+        "shortname": "lota",
         "time": "07:00"
       },
       "Main Beach parkrun": {
@@ -163,12 +443,26 @@
         "shortname": "maryborough",
         "time": "07:00"
       },
+      "Mawson Lakes parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Mawson Lakes parkrun",
+        "shortname": "mawsonlakes",
+        "time": "08:00"
+      },
       "Mildura Weir parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Mildura Weir parkrun",
         "shortname": "milduraweir",
         "time": "08:00"
+      },
+      "Minnippi parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Minnippi parkrun",
+        "shortname": "minnippi",
+        "time": "07:00"
       },
       "Montrose Foreshore parkrun": {
         "country_code": "au",
@@ -177,11 +471,25 @@
         "shortname": "montroseforeshore",
         "time": "09:00"
       },
+      "Moree parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Moree parkrun",
+        "shortname": "moree",
+        "time": "07:00"
+      },
       "Mount Barker parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Mount Barker parkrun",
         "shortname": "mountbarker",
+        "time": "08:00"
+      },
+      "Mount Gambier parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Mount Gambier parkrun",
+        "shortname": "mountgambier",
         "time": "08:00"
       },
       "Mt Clarence parkrun": {
@@ -191,11 +499,39 @@
         "shortname": "mtclarence",
         "time": "08:00"
       },
+      "Nambour parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Nambour parkrun",
+        "shortname": "nambour",
+        "time": "07:00"
+      },
+      "Nepean River parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Nepean River parkrun",
+        "shortname": "nepeanriver",
+        "time": "08:00"
+      },
+      "Newborough parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Newborough parkrun",
+        "shortname": "newborough",
+        "time": "08:00"
+      },
       "Newport Lakes parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Newport Lakes parkrun",
         "shortname": "newportlakes",
+        "time": "08:00"
+      },
+      "Newy parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Newy parkrun",
+        "shortname": "newy",
         "time": "08:00"
       },
       "Noosa parkrun": {
@@ -212,12 +548,40 @@
         "shortname": "northshore",
         "time": "07:00"
       },
+      "North Sydney parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "North Sydney parkrun",
+        "shortname": "northsydney",
+        "time": "08:00"
+      },
+      "North Wollongong parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "North Wollongong parkrun",
+        "shortname": "northwollongong",
+        "time": "08:00"
+      },
+      "Nuriootpa parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Nuriootpa parkrun",
+        "shortname": "nuriootpa",
+        "time": "08:00"
+      },
       "Ocean View parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Ocean View parkrun",
         "shortname": "oceanview",
         "time": "07:00"
+      },
+      "Parramatta parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Parramatta parkrun",
+        "shortname": "parramatta",
+        "time": "08:00"
       },
       "Petrie parkrun": {
         "country_code": "au",
@@ -226,6 +590,55 @@
         "shortname": "petrie",
         "time": "07:00"
       },
+      "Port Lincoln parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Port Lincoln parkrun",
+        "shortname": "portlincoln",
+        "time": "08:00"
+      },
+      "Port Macquarie parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Port Macquarie parkrun",
+        "shortname": "portmacquarie",
+        "time": "07:00"
+      },
+      "Port Sorell parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Port Sorell parkrun",
+        "shortname": "portsorell",
+        "time": "09:00"
+      },
+      "Portland parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Portland parkrun",
+        "shortname": "portland",
+        "time": "08:00"
+      },
+      "Queens Domain parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Queens Domain parkrun",
+        "shortname": "queensdomain",
+        "time": "09:00"
+      },
+      "Redcliffe parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Redcliffe parkrun",
+        "shortname": "redcliffe",
+        "time": "07:00"
+      },
+      "Rhodes parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Rhodes parkrun",
+        "shortname": "rhodes",
+        "time": "08:00"
+      },
       "Rocks Riverside parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -233,12 +646,33 @@
         "shortname": "rocksriverside",
         "time": "07:00"
       },
+      "Rosebud parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Rosebud parkrun",
+        "shortname": "rosebud",
+        "time": "08:00"
+      },
+      "San Remo parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "San Remo parkrun",
+        "shortname": "sanremo",
+        "time": "08:00"
+      },
       "Sandgate parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Sandgate parkrun",
         "shortname": "sandgate",
         "time": "07:00"
+      },
+      "Sandon Point parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Sandon Point parkrun",
+        "shortname": "sandonpoint",
+        "time": "08:00"
       },
       "Seacliff Esplanade parkrun": {
         "country_code": "au",
@@ -261,6 +695,20 @@
         "shortname": "southbank",
         "time": "07:00"
       },
+      "South Toowoomba parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "South Toowoomba parkrun",
+        "shortname": "southtoowoomba",
+        "time": "07:00"
+      },
+      "Stockton parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Stockton parkrun",
+        "shortname": "stockton",
+        "time": "08:00"
+      },
       "Studley parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -282,11 +730,74 @@
         "shortname": "theponds",
         "time": "08:00"
       },
+      "The Terrace parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "The Terrace parkrun",
+        "shortname": "theterrace",
+        "time": "08:00"
+      },
       "Toolern Creek parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Toolern Creek parkrun",
         "shortname": "toolerncreek",
+        "time": "08:00"
+      },
+      "Toowoomba parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Toowoomba parkrun",
+        "shortname": "toowoomba",
+        "time": "07:00"
+      },
+      "Torrens parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Torrens parkrun",
+        "shortname": "torrens",
+        "time": "08:00"
+      },
+      "Traralgon parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Traralgon parkrun",
+        "shortname": "traralgon",
+        "time": "08:00"
+      },
+      "Tuggeranong parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Tuggeranong parkrun",
+        "shortname": "tuggeranong",
+        "time": "08:00"
+      },
+      "Varsity Lakes parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Varsity Lakes parkrun",
+        "shortname": "varsitylakes",
+        "time": "07:00"
+      },
+      "Wanneroo parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Wanneroo parkrun",
+        "shortname": "wanneroo",
+        "time": "08:00"
+      },
+      "Warragul parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Warragul parkrun",
+        "shortname": "warragul",
+        "time": "08:00"
+      },
+      "Warrnambool parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Warrnambool parkrun",
+        "shortname": "warrnambool",
         "time": "08:00"
       },
       "Westerfolds parkrun": {
@@ -296,11 +807,39 @@
         "shortname": "westerfolds",
         "time": "08:00"
       },
+      "White Rock parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "White Rock parkrun",
+        "shortname": "whiterock",
+        "time": "07:00"
+      },
+      "Willoughby parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Willoughby parkrun",
+        "shortname": "willoughby",
+        "time": "07:00"
+      },
       "Willow parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Willow parkrun",
         "shortname": "willow",
+        "time": "08:00"
+      },
+      "Windsor Precinct parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Windsor Precinct parkrun",
+        "shortname": "windsorprecinct",
+        "time": "09:00"
+      },
+      "Woy Woy parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Woy Woy parkrun",
+        "shortname": "woywoy",
         "time": "08:00"
       },
       "Wyndham Vale parkrun": {
@@ -310,11 +849,25 @@
         "shortname": "wyndhamvale",
         "time": "08:00"
       },
+      "You Yangs parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "You Yangs parkrun",
+        "shortname": "youyangs",
+        "time": "08:00"
+      },
       "Yowie parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Yowie parkrun",
         "shortname": "yowie",
+        "time": "07:00"
+      },
+      "Zillmere parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Zillmere parkrun",
+        "shortname": "zillmere",
         "time": "07:00"
       }
     },
@@ -323,11 +876,81 @@
   "New Year's Day": {
     "date": "2020-01-01",
     "events": {
+      "Airlie Beach parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Airlie Beach parkrun",
+        "shortname": "airliebeach",
+        "time": "07:00"
+      },
+      "Albury Wodonga parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Albury Wodonga parkrun",
+        "shortname": "alburywodonga",
+        "time": "09:00"
+      },
+      "Aldinga Beach parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Aldinga Beach parkrun",
+        "shortname": "aldingabeach",
+        "time": "09:30"
+      },
+      "Ashgrove parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Ashgrove parkrun",
+        "shortname": "ashgrove",
+        "time": "08:30"
+      },
+      "Atherton parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Atherton parkrun",
+        "shortname": "atherton",
+        "time": "07:00"
+      },
+      "Aveley parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Aveley parkrun",
+        "shortname": "aveley",
+        "time": "08:00"
+      },
+      "Bairnsdale parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Bairnsdale parkrun",
+        "shortname": "bairnsdale",
+        "time": "07:30"
+      },
+      "Ballarat parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Ballarat parkrun",
+        "shortname": "ballarat",
+        "time": "09:30"
+      },
       "Balyang Sanctuary parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Balyang Sanctuary parkrun",
         "shortname": "balyangsanctuary",
+        "time": "07:30"
+      },
+      "Bargara parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Bargara parkrun",
+        "shortname": "bargara",
+        "time": "07:00"
+      },
+      "Bathurst parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Bathurst parkrun",
+        "shortname": "bathurst",
         "time": "07:30"
       },
       "Bellerive parkrun": {
@@ -336,6 +959,20 @@
         "longname": "Bellerive parkrun",
         "shortname": "bellerive",
         "time": "10:30"
+      },
+      "Berrinba parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Berrinba parkrun",
+        "shortname": "berrinba",
+        "time": "07:00"
+      },
+      "Berwick Springs parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Berwick Springs parkrun",
+        "shortname": "berwicksprings",
+        "time": "09:30"
       },
       "Bibra Lake parkrun": {
         "country_code": "au",
@@ -351,11 +988,39 @@
         "shortname": "blackbutt",
         "time": "08:00"
       },
+      "Bowen parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Bowen parkrun",
+        "shortname": "bowen",
+        "time": "08:30"
+      },
       "Bowral parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Bowral parkrun",
         "shortname": "bowral",
+        "time": "09:30"
+      },
+      "Brightwater parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Brightwater parkrun",
+        "shortname": "brightwater",
+        "time": "07:00"
+      },
+      "Burnie parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Burnie parkrun",
+        "shortname": "burnie",
+        "time": "09:00"
+      },
+      "Burswood Peninsula parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Burswood Peninsula parkrun",
+        "shortname": "burswoodpeninsula",
         "time": "09:30"
       },
       "Cairns parkrun": {
@@ -379,11 +1044,67 @@
         "shortname": "campbelltown",
         "time": "07:00"
       },
+      "Canning River parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Canning River parkrun",
+        "shortname": "canningriver",
+        "time": "08:00"
+      },
+      "Capalaba parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Capalaba parkrun",
+        "shortname": "capalaba",
+        "time": "08:30"
+      },
       "Carisbrooke parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Carisbrooke parkrun",
         "shortname": "carisbrooke",
+        "time": "09:30"
+      },
+      "Castlemaine parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Castlemaine parkrun",
+        "shortname": "castlemaine",
+        "time": "09:30"
+      },
+      "Champion Lakes parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Champion Lakes parkrun",
+        "shortname": "championlakes",
+        "time": "07:30"
+      },
+      "Churchill parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Churchill parkrun",
+        "shortname": "churchill",
+        "time": "09:30"
+      },
+      "Claisebrook Cove parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Claisebrook Cove parkrun",
+        "shortname": "claisebrookcove",
+        "time": "08:00"
+      },
+      "Cleveland parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Cleveland parkrun",
+        "shortname": "cleveland",
+        "time": "08:30"
+      },
+      "Cobram parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Cobram parkrun",
+        "shortname": "cobram",
         "time": "09:30"
       },
       "Coburg parkrun": {
@@ -392,6 +1113,27 @@
         "longname": "Coburg parkrun",
         "shortname": "coburg",
         "time": "08:00"
+      },
+      "Coombs parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Coombs parkrun",
+        "shortname": "coombs",
+        "time": "07:30"
+      },
+      "Coomera parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Coomera parkrun",
+        "shortname": "coomera",
+        "time": "08:30"
+      },
+      "Curl Curl parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Curl Curl parkrun",
+        "shortname": "curlcurl",
+        "time": "07:00"
       },
       "Dalby parkrun": {
         "country_code": "au",
@@ -407,12 +1149,40 @@
         "shortname": "darebin",
         "time": "09:30"
       },
+      "Dawesville parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Dawesville parkrun",
+        "shortname": "dawesville",
+        "time": "07:30"
+      },
+      "Diamond Creek parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Diamond Creek parkrun",
+        "shortname": "diamondcreek",
+        "time": "09:30"
+      },
       "Dubbo parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Dubbo parkrun",
         "shortname": "dubbo",
         "time": "08:00"
+      },
+      "Echuca Moama parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Echuca Moama parkrun",
+        "shortname": "echucamoama",
+        "time": "08:00"
+      },
+      "Euroa parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Euroa parkrun",
+        "shortname": "euroa",
+        "time": "09:30"
       },
       "Fingal Bay parkrun": {
         "country_code": "au",
@@ -428,12 +1198,61 @@
         "shortname": "forestlake",
         "time": "08:30"
       },
+      "Gainsborough Greens parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Gainsborough Greens parkrun",
+        "shortname": "gainsboroughgreens",
+        "time": "07:00"
+      },
+      "Geeveston parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Geeveston parkrun",
+        "shortname": "geeveston",
+        "time": "09:00"
+      },
+      "Geographe Bay parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Geographe Bay parkrun",
+        "shortname": "geographebay",
+        "time": "08:00"
+      },
+      "George Town parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "George Town parkrun",
+        "shortname": "georgetown",
+        "time": "09:00"
+      },
+      "Golden Beach parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Golden Beach parkrun",
+        "shortname": "goldenbeach",
+        "time": "08:00"
+      },
+      "Grafton parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Grafton parkrun",
+        "shortname": "grafton",
+        "time": "07:00"
+      },
       "Hamilton parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Hamilton parkrun",
         "shortname": "hamilton",
         "time": "08:00"
+      },
+      "Hastings Foreshore parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Hastings Foreshore parkrun",
+        "shortname": "hastingsforeshore",
+        "time": "09:30"
       },
       "Hervey Bay parkrun": {
         "country_code": "au",
@@ -456,11 +1275,74 @@
         "shortname": "hobart",
         "time": "08:30"
       },
+      "Huskisson parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Huskisson parkrun",
+        "shortname": "huskisson",
+        "time": "09:00"
+      },
+      "Inverell parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Inverell parkrun",
+        "shortname": "inverell",
+        "time": "08:00"
+      },
+      "Jindabyne parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Jindabyne parkrun",
+        "shortname": "jindabyne",
+        "time": "08:00"
+      },
+      "Jubilee Way parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Jubilee Way parkrun",
+        "shortname": "jubileeway",
+        "time": "07:30"
+      },
+      "KM Reedy Reserve parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "KM Reedy Reserve parkrun",
+        "shortname": "kmreedyreserve",
+        "time": "08:00"
+      },
+      "Kadina Trail parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Kadina Trail parkrun",
+        "shortname": "kadinatrail",
+        "time": "07:30"
+      },
       "Kalgoorlie-Boulder parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Kalgoorlie-Boulder parkrun",
         "shortname": "kalgoorlieboulder",
+        "time": "08:00"
+      },
+      "Karkarook parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Karkarook parkrun",
+        "shortname": "karkarook",
+        "time": "09:30"
+      },
+      "Kennington Reservoir parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Kennington Reservoir parkrun",
+        "shortname": "kenningtonreservoir",
+        "time": "08:00"
+      },
+      "Kingscliff parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Kingscliff parkrun",
+        "shortname": "kingscliff",
         "time": "08:00"
       },
       "Kirra parkrun": {
@@ -470,12 +1352,82 @@
         "shortname": "kirra",
         "time": "08:30"
       },
-      "Lismore parkrun": {
+      "Koonwarra parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
-        "longname": "Lismore parkrun",
-        "shortname": "lismore",
+        "longname": "Koonwarra parkrun",
+        "shortname": "koonwarra",
+        "time": "09:00"
+      },
+      "Lake Mac parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Lake Mac parkrun",
+        "shortname": "lakemac",
+        "time": "07:30"
+      },
+      "Lakes Entrance parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Lakes Entrance parkrun",
+        "shortname": "lakesentrance",
+        "time": "09:30"
+      },
+      "Launceston parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Launceston parkrun",
+        "shortname": "launceston",
+        "time": "10:00"
+      },
+      "Lawson parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Lawson parkrun",
+        "shortname": "lawson",
+        "time": "08:00"
+      },
+      "Lochiel parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Lochiel parkrun",
+        "shortname": "lochiel",
+        "time": "09:30"
+      },
+      "Lota parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Lota parkrun",
+        "shortname": "lota",
         "time": "07:00"
+      },
+      "Mackay parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Mackay parkrun",
+        "shortname": "mackay",
+        "time": "07:00"
+      },
+      "Manjimup parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Manjimup parkrun",
+        "shortname": "manjimup",
+        "time": "08:00"
+      },
+      "Maribyrnong parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Maribyrnong parkrun",
+        "shortname": "maribyrnong",
+        "time": "09:30"
+      },
+      "Marriott Waters parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Marriott Waters parkrun",
+        "shortname": "marriottwaters",
+        "time": "09:30"
       },
       "Maryborough parkrun": {
         "country_code": "au",
@@ -483,6 +1435,13 @@
         "longname": "Maryborough parkrun",
         "shortname": "maryborough",
         "time": "08:30"
+      },
+      "Mawson Lakes parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Mawson Lakes parkrun",
+        "shortname": "mawsonlakes",
+        "time": "07:30"
       },
       "Meadowbrook parkrun": {
         "country_code": "au",
@@ -505,18 +1464,46 @@
         "shortname": "milduraweir",
         "time": "09:00"
       },
+      "Moana parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Moana parkrun",
+        "shortname": "moana",
+        "time": "08:00"
+      },
       "Montrose Foreshore parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Montrose Foreshore parkrun",
         "shortname": "montroseforeshore",
-        "time": "10:30"
+        "time": "10:00"
+      },
+      "Mount Ainslie parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Mount Ainslie parkrun",
+        "shortname": "mountainslie",
+        "time": "09:30"
       },
       "Mount Barker parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Mount Barker parkrun",
         "shortname": "mountbarker",
+        "time": "07:30"
+      },
+      "Mount Gambier parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Mount Gambier parkrun",
+        "shortname": "mountgambier",
+        "time": "08:00"
+      },
+      "Mount Helena parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Mount Helena parkrun",
+        "shortname": "mounthelena",
         "time": "07:30"
       },
       "Mt Clarence parkrun": {
@@ -526,12 +1513,47 @@
         "shortname": "mtclarence",
         "time": "08:00"
       },
+      "Mt Penang parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Mt Penang parkrun",
+        "shortname": "mtpenang",
+        "time": "07:30"
+      },
       "Mullum Mullum parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Mullum Mullum parkrun",
         "shortname": "mullummullum",
         "time": "09:30"
+      },
+      "New Farm parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "New Farm parkrun",
+        "shortname": "newfarm",
+        "time": "07:00"
+      },
+      "Newborough parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Newborough parkrun",
+        "shortname": "newborough",
+        "time": "07:30"
+      },
+      "Newy parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Newy parkrun",
+        "shortname": "newy",
+        "time": "08:00"
+      },
+      "Nightcliff parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Nightcliff parkrun",
+        "shortname": "nightcliff",
+        "time": "08:30"
       },
       "Noosa parkrun": {
         "country_code": "au",
@@ -547,12 +1569,68 @@
         "shortname": "northshore",
         "time": "07:00"
       },
+      "North Sydney parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "North Sydney parkrun",
+        "shortname": "northsydney",
+        "time": "08:30"
+      },
+      "North Wollongong parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "North Wollongong parkrun",
+        "shortname": "northwollongong",
+        "time": "08:00"
+      },
+      "Orange parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Orange parkrun",
+        "shortname": "orange",
+        "time": "09:30"
+      },
+      "Pakapakanthi parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Pakapakanthi parkrun",
+        "shortname": "pakapakanthi",
+        "time": "09:30"
+      },
       "Pakenham parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Pakenham parkrun",
         "shortname": "pakenham",
         "time": "08:00"
+      },
+      "Pallara parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Pallara parkrun",
+        "shortname": "pallara",
+        "time": "07:00"
+      },
+      "Palmerston parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Palmerston parkrun",
+        "shortname": "palmerston",
+        "time": "07:00"
+      },
+      "Parramatta parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Parramatta parkrun",
+        "shortname": "parramatta",
+        "time": "07:30"
+      },
+      "Penrith Lakes parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Penrith Lakes parkrun",
+        "shortname": "penrithlakes",
+        "time": "09:30"
       },
       "Petrie parkrun": {
         "country_code": "au",
@@ -561,12 +1639,96 @@
         "shortname": "petrie",
         "time": "08:30"
       },
+      "Pioneer parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Pioneer parkrun",
+        "shortname": "pioneer",
+        "time": "09:00"
+      },
+      "Port Augusta parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Port Augusta parkrun",
+        "shortname": "portaugusta",
+        "time": "08:30"
+      },
+      "Port Broughton parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Port Broughton parkrun",
+        "shortname": "portbroughton",
+        "time": "09:00"
+      },
+      "Port Lincoln parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Port Lincoln parkrun",
+        "shortname": "portlincoln",
+        "time": "08:00"
+      },
+      "Port Macquarie parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Port Macquarie parkrun",
+        "shortname": "portmacquarie",
+        "time": "07:00"
+      },
+      "Port Sorell parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Port Sorell parkrun",
+        "shortname": "portsorell",
+        "time": "09:30"
+      },
+      "Portarlington parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Portarlington parkrun",
+        "shortname": "portarlington",
+        "time": "09:30"
+      },
+      "Portland parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Portland parkrun",
+        "shortname": "portland",
+        "time": "08:00"
+      },
+      "Queens Domain parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Queens Domain parkrun",
+        "shortname": "queensdomain",
+        "time": "09:00"
+      },
+      "Redcliffe parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Redcliffe parkrun",
+        "shortname": "redcliffe",
+        "time": "07:00"
+      },
       "Redland Bay parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Redland Bay parkrun",
         "shortname": "redlandbay",
         "time": "07:00"
+      },
+      "Rhodes parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Rhodes parkrun",
+        "shortname": "rhodes",
+        "time": "08:30"
+      },
+      "Riverway parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Riverway parkrun",
+        "shortname": "riverway",
+        "time": "08:00"
       },
       "Rocks Riverside parkrun": {
         "country_code": "au",
@@ -575,12 +1737,54 @@
         "shortname": "rocksriverside",
         "time": "08:30"
       },
+      "Rooty Hill parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Rooty Hill parkrun",
+        "shortname": "rootyhill",
+        "time": "09:00"
+      },
+      "Ros Gregor Trail parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Ros Gregor Trail parkrun",
+        "shortname": "rosgregortrail",
+        "time": "07:00"
+      },
+      "Rosebud parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Rosebud parkrun",
+        "shortname": "rosebud",
+        "time": "07:30"
+      },
+      "Rouse Hill parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Rouse Hill parkrun",
+        "shortname": "rousehill",
+        "time": "07:30"
+      },
+      "Sale parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Sale parkrun",
+        "shortname": "sale",
+        "time": "09:30"
+      },
       "Sandgate parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Sandgate parkrun",
         "shortname": "sandgate",
         "time": "07:00"
+      },
+      "Sandon Point parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Sandon Point parkrun",
+        "shortname": "sandonpoint",
+        "time": "09:30"
       },
       "Seacliff Esplanade parkrun": {
         "country_code": "au",
@@ -589,11 +1793,25 @@
         "shortname": "seacliffesplanade",
         "time": "09:30"
       },
+      "Shelley parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Shelley parkrun",
+        "shortname": "shelley",
+        "time": "09:30"
+      },
       "Shellharbour parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Shellharbour parkrun",
         "shortname": "shellharbour",
+        "time": "07:30"
+      },
+      "Shepparton parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Shepparton parkrun",
+        "shortname": "shepparton",
         "time": "07:30"
       },
       "St Lucia parkrun": {
@@ -610,12 +1828,61 @@
         "shortname": "stpeters",
         "time": "09:00"
       },
+      "Stanthorpe parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Stanthorpe parkrun",
+        "shortname": "stanthorpe",
+        "time": "08:30"
+      },
+      "Strathalbyn parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Strathalbyn parkrun",
+        "shortname": "strathalbyn",
+        "time": "09:30"
+      },
       "Sunbury parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Sunbury parkrun",
         "shortname": "sunbury",
         "time": "09:30"
+      },
+      "Surfers Paradise parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Surfers Paradise parkrun",
+        "shortname": "surfersparadise",
+        "time": "08:30"
+      },
+      "Tamborine Mountain parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Tamborine Mountain parkrun",
+        "shortname": "tamborinemountain",
+        "time": "08:30"
+      },
+      "Tamworth Wetlands parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Tamworth Wetlands parkrun",
+        "shortname": "tamworthwetlands",
+        "time": "09:30"
+      },
+      "The Beaches parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "The Beaches parkrun",
+        "shortname": "thebeaches",
+        "time": "09:30"
+      },
+      "The Entrance parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "The Entrance parkrun",
+        "shortname": "theentrance",
+        "time": "07:00"
       },
       "The Ponds parkrun": {
         "country_code": "au",
@@ -624,11 +1891,116 @@
         "shortname": "theponds",
         "time": "09:00"
       },
+      "The Terrace parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "The Terrace parkrun",
+        "shortname": "theterrace",
+        "time": "08:00"
+      },
       "Toolern Creek parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Toolern Creek parkrun",
         "shortname": "toolerncreek",
+        "time": "07:30"
+      },
+      "Toowoomba parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Toowoomba parkrun",
+        "shortname": "toowoomba",
+        "time": "07:00"
+      },
+      "Torrens parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Torrens parkrun",
+        "shortname": "torrens",
+        "time": "07:30"
+      },
+      "Traralgon parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Traralgon parkrun",
+        "shortname": "traralgon",
+        "time": "08:00"
+      },
+      "Tuggeranong parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Tuggeranong parkrun",
+        "shortname": "tuggeranong",
+        "time": "07:30"
+      },
+      "Varsity Lakes parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Varsity Lakes parkrun",
+        "shortname": "varsitylakes",
+        "time": "07:00"
+      },
+      "Victor Harbor parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Victor Harbor parkrun",
+        "shortname": "victorharbor",
+        "time": "09:30"
+      },
+      "Wangaratta parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Wangaratta parkrun",
+        "shortname": "wangaratta",
+        "time": "08:00"
+      },
+      "Wanneroo parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Wanneroo parkrun",
+        "shortname": "wanneroo",
+        "time": "08:00"
+      },
+      "Warner Lakes parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Warner Lakes parkrun",
+        "shortname": "warnerlakes",
+        "time": "07:00"
+      },
+      "Warragul parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Warragul parkrun",
+        "shortname": "warragul",
+        "time": "09:30"
+      },
+      "Warwick parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Warwick parkrun",
+        "shortname": "warwick",
+        "time": "07:00"
+      },
+      "Wauchope parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Wauchope parkrun",
+        "shortname": "wauchope",
+        "time": "08:30"
+      },
+      "Werrington Lakes Reserve parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Werrington Lakes Reserve parkrun",
+        "shortname": "werringtonlakesreserve",
+        "time": "07:30"
+      },
+      "West Beach parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "West Beach parkrun",
+        "shortname": "westbeach",
         "time": "07:30"
       },
       "Westerfolds parkrun": {
@@ -638,12 +2010,33 @@
         "shortname": "westerfolds",
         "time": "08:00"
       },
+      "White Rock parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "White Rock parkrun",
+        "shortname": "whiterock",
+        "time": "07:00"
+      },
       "Willow parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Willow parkrun",
         "shortname": "willow",
         "time": "07:30"
+      },
+      "Wimmera River parkrun, Horsham": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Wimmera River parkrun, Horsham",
+        "shortname": "wimmerariverhorsham",
+        "time": "08:00"
+      },
+      "Windsor Precinct parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Windsor Precinct parkrun",
+        "shortname": "windsorprecinct",
+        "time": "08:30"
       },
       "Wondai parkrun": {
         "country_code": "au",
@@ -659,6 +2052,13 @@
         "shortname": "woodbridgeriverside",
         "time": "09:00"
       },
+      "Woy Woy parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Woy Woy parkrun",
+        "shortname": "woywoy",
+        "time": "09:30"
+      },
       "Wyndham Vale parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -666,12 +2066,33 @@
         "shortname": "wyndhamvale",
         "time": "09:30"
       },
+      "Yamba parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Yamba parkrun",
+        "shortname": "yamba",
+        "time": "07:00"
+      },
+      "Yarrabilba parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Yarrabilba parkrun",
+        "shortname": "yarrabilba",
+        "time": "07:00"
+      },
       "Yowie parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Yowie parkrun",
         "shortname": "yowie",
-        "time": "08:00"
+        "time": "07:00"
+      },
+      "Zillmere parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Zillmere parkrun",
+        "shortname": "zillmere",
+        "time": "07:00"
       }
     },
     "index": 3

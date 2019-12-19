@@ -7,13 +7,20 @@
         "country_domain": "www.parkrun.us",
         "longname": "Clermont Waterfront parkrun",
         "shortname": "clermontwaterfront",
-        "time": "09:00"
+        "time": "07:30"
       },
       "College Park parkrun": {
         "country_code": "us",
         "country_domain": "www.parkrun.us",
         "longname": "College Park parkrun",
         "shortname": "collegepark",
+        "time": "10:30"
+      },
+      "Deep Run parkrun": {
+        "country_code": "us",
+        "country_domain": "www.parkrun.us",
+        "longname": "Deep Run parkrun",
+        "shortname": "deeprun",
         "time": "10:30"
       },
       "Durham NC parkrun": {
@@ -49,6 +56,13 @@
         "country_domain": "www.parkrun.us",
         "longname": "Kensington parkrun",
         "shortname": "kensington",
+        "time": "08:30"
+      },
+      "Leakin Park parkrun": {
+        "country_code": "us",
+        "country_domain": "www.parkrun.us",
+        "longname": "Leakin Park parkrun",
+        "shortname": "leakinpark",
         "time": "08:30"
       },
       "Lillie parkrun, Ann Arbor": {
@@ -99,9 +113,16 @@
         "longname": "South Boulder Creek parkrun",
         "shortname": "southbouldercreek",
         "time": "10:30"
+      },
+      "Terry Hershey parkrun": {
+        "country_code": "us",
+        "country_domain": "www.parkrun.us",
+        "longname": "Terry Hershey parkrun",
+        "shortname": "terryhershey",
+        "time": "10:00"
       }
     },
-    "index": 3
+    "index": 2
   },
   "Thanksgiving": {
     "date": "2018-11-28",
@@ -191,6 +212,6 @@
         "time": "09:00"
       }
     },
-    "index": 2
+    "index": 3
   }
 }

@@ -1,7 +1,148 @@
 {
   "New Year's Day": {
     "date": "2020-01-01",
-    "events": {},
+    "events": {
+      "Beach Strip parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Beach Strip parkrun",
+        "shortname": "beachstrip",
+        "time": "01:30"
+      },
+      "Breakwater parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Breakwater parkrun",
+        "shortname": "breakwater",
+        "time": "09:00"
+      },
+      "Central parkrun, Burnaby": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Central parkrun, Burnaby",
+        "shortname": "centralburnaby",
+        "time": "08:30"
+      },
+      "Clover Point parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Clover Point parkrun",
+        "shortname": "cloverpoint",
+        "time": "09:00"
+      },
+      "Downsview parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Downsview parkrun",
+        "shortname": "downsview",
+        "time": "10:00"
+      },
+      "Duffins Trail parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Duffins Trail parkrun",
+        "shortname": "duffinstrail",
+        "time": "10:30"
+      },
+      "Eramosa River Trail parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Eramosa River Trail parkrun",
+        "shortname": "eramosarivertrail",
+        "time": "10:00"
+      },
+      "Henderson Lake parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Henderson Lake parkrun",
+        "shortname": "hendersonlake",
+        "time": "10:30"
+      },
+      "Kanata parkrun, Ottawa": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Kanata parkrun, Ottawa",
+        "shortname": "kanata",
+        "time": "10:30"
+      },
+      "Meadowvale parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Meadowvale parkrun",
+        "shortname": "meadowvale",
+        "time": "10:30"
+      },
+      "Mundy parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Mundy parkrun",
+        "shortname": "mundy",
+        "time": "10:30"
+      },
+      "Nautical parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Nautical parkrun",
+        "shortname": "nautical",
+        "time": "09:00"
+      },
+      "Nose Hill parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Nose Hill parkrun",
+        "shortname": "nosehill",
+        "time": "10:00"
+      },
+      "Okanagan parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Okanagan parkrun",
+        "shortname": "okanagan",
+        "time": "09:00"
+      },
+      "Penticton parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Penticton parkrun",
+        "shortname": "penticton",
+        "time": "09:30"
+      },
+      "Richmond Olympic parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Richmond Olympic parkrun",
+        "shortname": "richmondolympic",
+        "time": "10:30"
+      },
+      "River Oaks parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "River Oaks parkrun",
+        "shortname": "riveroaks",
+        "time": "09:00"
+      },
+      "Trout Pond parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Trout Pond parkrun",
+        "shortname": "troutpond",
+        "time": "10:00"
+      },
+      "Wascana parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Wascana parkrun",
+        "shortname": "wascana",
+        "time": "10:30"
+      },
+      "Whitby parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Whitby parkrun",
+        "shortname": "whitby",
+        "time": "09:00"
+      }
+    },
     "index": 2
   }
 }

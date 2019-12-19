@@ -2,18 +2,298 @@
   "Boxing Day": {
     "date": "2019-12-26",
     "events": {
-      "parkrun Kedzierzyn-Kozle": {
+      "parkrun Bia\u0142ystok": {
         "country_code": "pl",
         "country_domain": "www.parkrun.pl",
-        "longname": "parkrun Kedzierzyn-Kozle",
-        "shortname": "kedzierzyn-kozle",
+        "longname": "parkrun Bia\u0142ystok",
+        "shortname": "bialystok",
         "time": "09:00"
       },
-      "parkrun Warszawa-Ursynow": {
+      "parkrun Chrzanow": {
         "country_code": "pl",
         "country_domain": "www.parkrun.pl",
-        "longname": "parkrun Warszawa-Ursynow",
-        "shortname": "warszawa-ursynow",
+        "longname": "parkrun Chrzanow",
+        "shortname": "chrzanow",
+        "time": "09:00"
+      },
+      "parkrun Cieszyn": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Cieszyn",
+        "shortname": "cieszyn",
+        "time": "09:00"
+      },
+      "parkrun Dabrowka": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Dabrowka",
+        "shortname": "dabrowka",
+        "time": "09:00"
+      },
+      "parkrun Dzierzgo\u0144": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Dzierzgo\u0144",
+        "shortname": "dzierzgon",
+        "time": "09:00"
+      },
+      "parkrun E\u0142k": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun E\u0142k",
+        "shortname": "elk",
+        "time": "09:00"
+      },
+      "parkrun Gdansk": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Gdansk",
+        "shortname": "gdansk",
+        "time": "09:00"
+      },
+      "parkrun Gda\u0144sk-Po\u0142udnie": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Gda\u0144sk-Po\u0142udnie",
+        "shortname": "gdanskpoludnie",
+        "time": "09:00"
+      },
+      "parkrun Gdynia": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Gdynia",
+        "shortname": "gdynia",
+        "time": "09:00"
+      },
+      "parkrun Gorzow Wielkopolski": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Gorzow Wielkopolski",
+        "shortname": "gorzowwielkopolski",
+        "time": "09:00"
+      },
+      "parkrun Gostyn": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Gostyn",
+        "shortname": "gostyn",
+        "time": "09:00"
+      },
+      "parkrun Grodzisk Mazowiecki": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Grodzisk Mazowiecki",
+        "shortname": "grodziskmazowiecki",
+        "time": "09:00"
+      },
+      "parkrun G\u0142og\u00f3w": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun G\u0142og\u00f3w",
+        "shortname": "glogow",
+        "time": "09:00"
+      },
+      "parkrun Jab\u0142onna": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Jab\u0142onna",
+        "shortname": "jablonna",
+        "time": "09:00"
+      },
+      "parkrun Jezioro G\u00f3rne, K\u0119trzyn": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Jezioro G\u00f3rne, K\u0119trzyn",
+        "shortname": "jeziorogorne",
+        "time": "09:00"
+      },
+      "parkrun Jezioro Swarz\u0119dzkie": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Jezioro Swarz\u0119dzkie",
+        "shortname": "jezioroswarzedzkie",
+        "time": "09:00"
+      },
+      "parkrun Kalisz": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Kalisz",
+        "shortname": "kalisz",
+        "time": "09:00"
+      },
+      "parkrun Koscian": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Koscian",
+        "shortname": "koscian",
+        "time": "09:00"
+      },
+      "parkrun Ko\u0142obrzeg": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Ko\u0142obrzeg",
+        "shortname": "kolobrzeg",
+        "time": "09:00"
+      },
+      "parkrun Krakow": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Krakow",
+        "shortname": "krakow",
+        "time": "09:00"
+      },
+      "parkrun Kutno": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Kutno",
+        "shortname": "kutno",
+        "time": "09:00"
+      },
+      "parkrun K\u0119dzierzyn-Ko\u017ale": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun K\u0119dzierzyn-Ko\u017ale",
+        "shortname": "kedzierzynkozle",
+        "time": "09:00"
+      },
+      "parkrun Lubin": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Lubin",
+        "shortname": "lubin",
+        "time": "09:00"
+      },
+      "parkrun Ma\u0142y Jeziorak": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Ma\u0142y Jeziorak",
+        "shortname": "malyjeziorak",
+        "time": "09:00"
+      },
+      "parkrun Ogr\u00f3d Saski, Lublin": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Ogr\u00f3d Saski, Lublin",
+        "shortname": "ogrodsaski",
+        "time": "09:00"
+      },
+      "parkrun Olsztyn": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Olsztyn",
+        "shortname": "olsztyn",
+        "time": "09:00"
+      },
+      "parkrun Pabianice": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Pabianice",
+        "shortname": "pabianice",
+        "time": "09:00"
+      },
+      "parkrun Park Zdrojowy, Kudowa-Zdr\u00f3j": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Park Zdrojowy, Kudowa-Zdr\u00f3j",
+        "shortname": "parkzdrojowykudowazdroj",
+        "time": "09:00"
+      },
+      "parkrun Park na Wyspie, Pi\u0142a": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Park na Wyspie, Pi\u0142a",
+        "shortname": "parknawyspie",
+        "time": "09:00"
+      },
+      "parkrun Pole Mokotowskie": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Pole Mokotowskie",
+        "shortname": "polemokotowskie",
+        "time": "09:00"
+      },
+      "parkrun Poznan": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Poznan",
+        "shortname": "poznan",
+        "time": "09:00"
+      },
+      "parkrun Pruszkow": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Pruszkow",
+        "shortname": "pruszkow",
+        "time": "09:00"
+      },
+      "parkrun Rumia": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Rumia",
+        "shortname": "rumia",
+        "time": "09:00"
+      },
+      "parkrun Skierniewice": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Skierniewice",
+        "shortname": "skierniewice",
+        "time": "09:00"
+      },
+      "parkrun Skorzec": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Skorzec",
+        "shortname": "skorzec",
+        "time": "09:00"
+      },
+      "parkrun Swidwin": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Swidwin",
+        "shortname": "swidwin",
+        "time": "09:00"
+      },
+      "parkrun Szczecin": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Szczecin",
+        "shortname": "szczecin",
+        "time": "09:00"
+      },
+      "parkrun Szubianki, Zag\u00f3r\u00f3w": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Szubianki, Zag\u00f3r\u00f3w",
+        "shortname": "szubiankizagorow",
+        "time": "09:00"
+      },
+      "parkrun Torun": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Torun",
+        "shortname": "torun",
+        "time": "09:00"
+      },
+      "parkrun Warszawa-Br\u00f3dno": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Warszawa-Br\u00f3dno",
+        "shortname": "warszawabrodno",
+        "time": "09:00"
+      },
+      "parkrun Warszawa-Ursyn\u00f3w": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Warszawa-Ursyn\u00f3w",
+        "shortname": "warszawaursynow",
+        "time": "09:00"
+      },
+      "parkrun Warszawa-\u017boliborz": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Warszawa-\u017boliborz",
+        "shortname": "warszawazoliborz",
         "time": "09:00"
       },
       "parkrun Wroc\u0142aw": {
@@ -22,6 +302,20 @@
         "longname": "parkrun Wroc\u0142aw",
         "shortname": "wroclaw",
         "time": "09:00"
+      },
+      "parkrun Zielona G\u00f3ra": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Zielona G\u00f3ra",
+        "shortname": "zielonagora",
+        "time": "09:00"
+      },
+      "parkrun \u0141\u00f3d\u017a": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun \u0141\u00f3d\u017a",
+        "shortname": "lodz",
+        "time": "09:00"
       }
     },
     "index": 2
@@ -29,12 +323,285 @@
   "New Year's Day": {
     "date": "2020-01-01",
     "events": {
-      "parkrun Kedzierzyn-Kozle": {
+      "parkrun Chrzanow": {
         "country_code": "pl",
         "country_domain": "www.parkrun.pl",
-        "longname": "parkrun Kedzierzyn-Kozle",
-        "shortname": "kedzierzyn-kozle",
+        "longname": "parkrun Chrzanow",
+        "shortname": "chrzanow",
+        "time": "08:30"
+      },
+      "parkrun Cieszyn": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Cieszyn",
+        "shortname": "cieszyn",
         "time": "10:00"
+      },
+      "parkrun Dabrowka": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Dabrowka",
+        "shortname": "dabrowka",
+        "time": "09:00"
+      },
+      "parkrun Gdansk": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Gdansk",
+        "shortname": "gdansk",
+        "time": "08:30"
+      },
+      "parkrun Gda\u0144sk-Po\u0142udnie": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Gda\u0144sk-Po\u0142udnie",
+        "shortname": "gdanskpoludnie",
+        "time": "10:00"
+      },
+      "parkrun Gdynia": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Gdynia",
+        "shortname": "gdynia",
+        "time": "10:30"
+      },
+      "parkrun Gorzow Wielkopolski": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Gorzow Wielkopolski",
+        "shortname": "gorzowwielkopolski",
+        "time": "10:00"
+      },
+      "parkrun Grodzisk Mazowiecki": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Grodzisk Mazowiecki",
+        "shortname": "grodziskmazowiecki",
+        "time": "09:00"
+      },
+      "parkrun G\u0142og\u00f3w": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun G\u0142og\u00f3w",
+        "shortname": "glogow",
+        "time": "10:00"
+      },
+      "parkrun Jezioro G\u00f3rne, K\u0119trzyn": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Jezioro G\u00f3rne, K\u0119trzyn",
+        "shortname": "jeziorogorne",
+        "time": "10:00"
+      },
+      "parkrun Jezioro Swarz\u0119dzkie": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Jezioro Swarz\u0119dzkie",
+        "shortname": "jezioroswarzedzkie",
+        "time": "09:00"
+      },
+      "parkrun Jezioro Zatorze, Konin": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Jezioro Zatorze, Konin",
+        "shortname": "jeziorozatorze",
+        "time": "08:30"
+      },
+      "parkrun Katowice": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Katowice",
+        "shortname": "katowice",
+        "time": "10:30"
+      },
+      "parkrun Koscian": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Koscian",
+        "shortname": "koscian",
+        "time": "10:30"
+      },
+      "parkrun Koszalin": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Koszalin",
+        "shortname": "koszalin",
+        "time": "10:30"
+      },
+      "parkrun Ko\u0142obrzeg": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Ko\u0142obrzeg",
+        "shortname": "kolobrzeg",
+        "time": "09:00"
+      },
+      "parkrun Krakow": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Krakow",
+        "shortname": "krakow",
+        "time": "10:30"
+      },
+      "parkrun Kutno": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Kutno",
+        "shortname": "kutno",
+        "time": "10:30"
+      },
+      "parkrun K\u0119dzierzyn-Ko\u017ale": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun K\u0119dzierzyn-Ko\u017ale",
+        "shortname": "kedzierzynkozle",
+        "time": "10:00"
+      },
+      "parkrun Lubin": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Lubin",
+        "shortname": "lubin",
+        "time": "09:00"
+      },
+      "parkrun Ogr\u00f3d Saski, Lublin": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Ogr\u00f3d Saski, Lublin",
+        "shortname": "ogrodsaski",
+        "time": "09:00"
+      },
+      "parkrun Olsztyn": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Olsztyn",
+        "shortname": "olsztyn",
+        "time": "10:30"
+      },
+      "parkrun Park Miejski, Wejherowo": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Park Miejski, Wejherowo",
+        "shortname": "parkmiejskiwejherowo",
+        "time": "10:30"
+      },
+      "parkrun Park Zdrojowy, Kudowa-Zdr\u00f3j": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Park Zdrojowy, Kudowa-Zdr\u00f3j",
+        "shortname": "parkzdrojowykudowazdroj",
+        "time": "10:30"
+      },
+      "parkrun Park na Wyspie, Pi\u0142a": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Park na Wyspie, Pi\u0142a",
+        "shortname": "parknawyspie",
+        "time": "10:00"
+      },
+      "parkrun Pole Mokotowskie": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Pole Mokotowskie",
+        "shortname": "polemokotowskie",
+        "time": "09:00"
+      },
+      "parkrun Poznan": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Poznan",
+        "shortname": "poznan",
+        "time": "10:30"
+      },
+      "parkrun Pruszkow": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Pruszkow",
+        "shortname": "pruszkow",
+        "time": "10:30"
+      },
+      "parkrun Rumia": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Rumia",
+        "shortname": "rumia",
+        "time": "09:00"
+      },
+      "parkrun Skierniewice": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Skierniewice",
+        "shortname": "skierniewice",
+        "time": "10:30"
+      },
+      "parkrun Swidwin": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Swidwin",
+        "shortname": "swidwin",
+        "time": "10:30"
+      },
+      "parkrun Swinoujscie": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Swinoujscie",
+        "shortname": "swinoujscie",
+        "time": "10:00"
+      },
+      "parkrun Szczecin": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Szczecin",
+        "shortname": "szczecin",
+        "time": "10:00"
+      },
+      "parkrun Szubianki, Zag\u00f3r\u00f3w": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Szubianki, Zag\u00f3r\u00f3w",
+        "shortname": "szubiankizagorow",
+        "time": "10:30"
+      },
+      "parkrun Torun": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Torun",
+        "shortname": "torun",
+        "time": "10:00"
+      },
+      "parkrun Warszawa-Br\u00f3dno": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Warszawa-Br\u00f3dno",
+        "shortname": "warszawabrodno",
+        "time": "09:00"
+      },
+      "parkrun Warszawa-Ursyn\u00f3w": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Warszawa-Ursyn\u00f3w",
+        "shortname": "warszawaursynow",
+        "time": "10:00"
+      },
+      "parkrun Warszawa-\u017boliborz": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Warszawa-\u017boliborz",
+        "shortname": "warszawazoliborz",
+        "time": "10:30"
+      },
+      "parkrun Zielona G\u00f3ra": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun Zielona G\u00f3ra",
+        "shortname": "zielonagora",
+        "time": "10:30"
+      },
+      "parkrun \u0141\u00f3d\u017a": {
+        "country_code": "pl",
+        "country_domain": "www.parkrun.pl",
+        "longname": "parkrun \u0141\u00f3d\u017a",
+        "shortname": "lodz",
+        "time": "09:00"
       }
     },
     "index": 3

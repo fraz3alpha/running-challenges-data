@@ -1,46 +1,62 @@
 {
   "New Year's Day": {
     "date": "2020-01-01",
-    "events": {},
-    "index": 2
-  },
-  "Tag der Deutschen Einheit": {
-    "date": null,
     "events": {
+      "Aachener Weiher parkrun": {
+        "country_code": "de",
+        "country_domain": "www.parkrun.com.de",
+        "longname": "Aachener Weiher parkrun",
+        "shortname": "aachenerweiher",
+        "time": "10:30"
+      },
+      "Alstervorland parkrun": {
+        "country_code": "de",
+        "country_domain": "www.parkrun.com.de",
+        "longname": "Alstervorland parkrun",
+        "shortname": "alstervorland",
+        "time": "10:00"
+      },
+      "Bugasee parkrun, Kassel": {
+        "country_code": "de",
+        "country_domain": "www.parkrun.com.de",
+        "longname": "Bugasee parkrun, Kassel",
+        "shortname": "bugasee",
+        "time": "10:30"
+      },
       "Georgengarten parkrun": {
         "country_code": "de",
         "country_domain": "www.parkrun.com.de",
         "longname": "Georgengarten parkrun",
         "shortname": "georgengarten",
-        "time": "09:00"
+        "time": "10:30"
       },
-      "Hasenheide parkrun": {
+      "Kiessee parkrun": {
         "country_code": "de",
         "country_domain": "www.parkrun.com.de",
-        "longname": "Hasenheide parkrun",
-        "shortname": "hasenheide",
-        "time": "09:00"
+        "longname": "Kiessee parkrun",
+        "shortname": "kiessee",
+        "time": "08:30"
+      },
+      "Kr\u00e4herwald parkrun": {
+        "country_code": "de",
+        "country_domain": "www.parkrun.com.de",
+        "longname": "Kr\u00e4herwald parkrun",
+        "shortname": "kraeherwald",
+        "time": "10:30"
       },
       "K\u00fcchenholz parkrun": {
         "country_code": "de",
         "country_domain": "www.parkrun.com.de",
         "longname": "K\u00fcchenholz parkrun",
         "shortname": "kuechenholz",
-        "time": "09:00"
-      },
-      "Leinpfad parkrun": {
-        "country_code": "de",
-        "country_domain": "www.parkrun.com.de",
-        "longname": "Leinpfad parkrun",
-        "shortname": "leinpfad",
-        "time": "09:00"
+        "time": "08:30"
       },
       "Neckarau parkrun": {
         "country_code": "de",
         "country_domain": "www.parkrun.com.de",
         "longname": "Neckarau parkrun",
         "shortname": "neckarau",
-        "time": "09:00"
+        "time": "10:30"
       },
       "Neckarufer parkrun, Esslingen": {
         "country_code": "de",
@@ -54,51 +70,30 @@
         "country_domain": "www.parkrun.com.de",
         "longname": "Riemer parkrun",
         "shortname": "riemer",
-        "time": "09:00"
-      },
-      "Rubbenbruchsee parkrun": {
-        "country_code": "de",
-        "country_domain": "www.parkrun.com.de",
-        "longname": "Rubbenbruchsee parkrun",
-        "shortname": "rubbenbruchsee",
-        "time": "09:00"
+        "time": "10:30"
       },
       "Schwanenteich parkrun": {
         "country_code": "de",
         "country_domain": "www.parkrun.com.de",
         "longname": "Schwanenteich parkrun",
         "shortname": "schwanenteich",
-        "time": "09:00"
+        "time": "10:30"
       },
-      "Seewoog parkrun": {
+      "Speyer Leinpfad parkrun": {
         "country_code": "de",
         "country_domain": "www.parkrun.com.de",
-        "longname": "Seewoog parkrun",
-        "shortname": "seewoog",
-        "time": "09:00"
+        "longname": "Speyer Leinpfad parkrun",
+        "shortname": "speyerleinpfad",
+        "time": "08:30"
       },
-      "Unisee parkrun": {
+      "Ziegelwiese parkrun": {
         "country_code": "de",
         "country_domain": "www.parkrun.com.de",
-        "longname": "Unisee parkrun",
-        "shortname": "unisee",
-        "time": "09:00"
-      },
-      "Volksgarten parkrun": {
-        "country_code": "de",
-        "country_domain": "www.parkrun.com.de",
-        "longname": "Volksgarten parkrun",
-        "shortname": "volksgarten",
-        "time": "09:00"
-      },
-      "Westpark parkrun": {
-        "country_code": "de",
-        "country_domain": "www.parkrun.com.de",
-        "longname": "Westpark parkrun",
-        "shortname": "westpark",
-        "time": "09:00"
+        "longname": "Ziegelwiese parkrun",
+        "shortname": "ziegelwiese",
+        "time": "10:30"
       }
     },
-    "index": 3
+    "index": 2
   }
 }
