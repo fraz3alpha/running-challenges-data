@@ -255,13 +255,13 @@ def fetch_and_parse_events_json(url):
             'latitude': e['geometry']['coordinates'][1],
             'longitude': e['geometry']['coordinates'][0],
             'local_name': e['properties']['EventShortName'],
-            'name': e['properties']['eventname']
+            'name': e['properties']['EventShortName']
         }
 
         if e['properties']['seriesid'] == 1:
-            events_5k[e['properties']['EventShortName']] = event
+            events_5k[e['properties']['eventname']] = event
         elif e['properties']['seriesid'] == 2:
-            events_2k[e['properties']['EventShortName']] = event
+            events_2k[e['properties']['eventname']] = event
         else:
             print('Huh?')
 
