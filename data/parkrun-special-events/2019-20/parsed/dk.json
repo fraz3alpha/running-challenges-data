@@ -12,8 +12,8 @@
     },
     "index": 2
   },
-  "Nyt\u00e5rsdag": {
-    "date": null,
+  "New Year's Day": {
+    "date": "2020-01-01",
     "events": {
       "Amager F\u00e6lled parkrun": {
         "country_code": "dk",
