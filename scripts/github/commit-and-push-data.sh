@@ -11,7 +11,7 @@ git status
 
 CHANGED=$(git diff-index --name-only HEAD --)
 
-if [ ! -z "${CHANGED}"]; then 
+if [ ! -z "${CHANGED}" ]; then 
 
     git commit --message "Travis build: $TRAVIS_BUILD_NUMBER\\n\\n  - Triggered by ${TRAVIS_EVENT_TYPE}"
     git log -1
