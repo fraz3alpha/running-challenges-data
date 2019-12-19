@@ -1,12 +1,35 @@
 {
   "Christmas Day": {
     "date": "2019-12-25",
-    "events": {},
+    "events": {
+      "parkrun du Lac de Divonne": {
+        "country_code": "fr",
+        "country_domain": "www.parkrun.fr",
+        "longname": "parkrun du Lac de Divonne",
+        "shortname": "lacdedivonne",
+        "time": "09:00"
+      }
+    },
     "index": 2
   },
   "New Year's Day": {
     "date": "2020-01-01",
-    "events": {},
+    "events": {
+      "parkrun de Montsouris": {
+        "country_code": "fr",
+        "country_domain": "www.parkrun.fr",
+        "longname": "parkrun de Montsouris",
+        "shortname": "montsouris",
+        "time": "10:30"
+      },
+      "parkrun du Bois de Boulogne, Paris": {
+        "country_code": "fr",
+        "country_domain": "www.parkrun.fr",
+        "longname": "parkrun du Bois de Boulogne, Paris",
+        "shortname": "boisdeboulogne",
+        "time": "10:30"
+      }
+    },
     "index": 3
   }
 }

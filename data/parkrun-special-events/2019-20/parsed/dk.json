@@ -1,12 +1,35 @@
 {
   "Christmas Eve": {
     "date": "2019-12-24",
-    "events": {},
+    "events": {
+      "Amager F\u00e6lled parkrun": {
+        "country_code": "dk",
+        "country_domain": "www.parkrun.dk",
+        "longname": "Amager F\u00e6lled parkrun",
+        "shortname": "amager",
+        "time": "09:00"
+      }
+    },
     "index": 2
   },
   "New Year's Day": {
     "date": "2020-01-01",
-    "events": {},
+    "events": {
+      "Amager F\u00e6lled parkrun": {
+        "country_code": "dk",
+        "country_domain": "www.parkrun.dk",
+        "longname": "Amager F\u00e6lled parkrun",
+        "shortname": "amager",
+        "time": "09:00"
+      },
+      "F\u00e6lledparken parkrun": {
+        "country_code": "dk",
+        "country_domain": "www.parkrun.dk",
+        "longname": "F\u00e6lledparken parkrun",
+        "shortname": "faelledparken",
+        "time": "10:30"
+      }
+    },
     "index": 3
   }
 }

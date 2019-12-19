@@ -6,7 +6,15 @@
   },
   "New Year's Day": {
     "date": "2020-01-01",
-    "events": {},
+    "events": {
+      "West Coast Park parkrun": {
+        "country_code": "sg",
+        "country_domain": "www.parkrun.sg",
+        "longname": "West Coast Park parkrun",
+        "shortname": "westcoastpark",
+        "time": "09:00"
+      }
+    },
     "index": 2
   }
 }
