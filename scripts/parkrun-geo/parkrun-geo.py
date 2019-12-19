@@ -25,6 +25,7 @@ import argparse
 URL_GEO_XML_5K = 'https://www.parkrun.org.uk/wp-content/themes/parkrun/xml/geo.xml'
 URL_GEO_XML_2K = 'https://www.parkrun.org.uk/wp-content/themes/parkrun/xml/geojuniors.xml'
 URL_WIKI_TECHNICAL_EVENT_INFO = 'https://wiki.parkrun.com/index.php/Technical_Event_Information'
+URL_EVENTS_JSON = 'https://images.parkrun.com/events.json'
 
 def fetch_webpage(url, retries=3, minimum_retry_wait_secs=30):
 
@@ -52,150 +53,220 @@ def fetch_webpage(url, retries=3, minimum_retry_wait_secs=30):
 
     return download_page
 
-def parse_events(root):
-    # Example event:
-    # <e n="winchester" m="Winchester" c="97" id="280" r="17" la="51.069286" lo="-1.310849"/>
+# def parse_events(root):
+#     # Example event:
+#     # <e n="winchester" m="Winchester" c="97" id="280" r="17" la="51.069286" lo="-1.310849"/>
 
-    events = root.findall('e')
-    print(len(events))
+#     events = root.findall('e')
+#     print(len(events))
 
-    parsed_events = dict()
-    errored_events = list()
+#     parsed_events = dict()
+#     errored_events = list()
 
-    for e in events:
+#     for e in events:
 
-        parsed_event = {
-            'n': None,
-            'm': None,
-            'c': None,
-            'id': None,
-            'r': None,
-            'la': None,
-            'lo': None
-        }
+#         parsed_event = {
+#             'n': None,
+#             'm': None,
+#             'c': None,
+#             'id': None,
+#             'r': None,
+#             'la': None,
+#             'lo': None
+#         }
 
-        mappings = {
-            'n': ('n',),
-            'm': ('m',),
-            'c': ('c',),
-            'id': ('id',),
-            'r': ('r',),
-            'la': ('la', 'float'),
-            'lo': ('lo', 'float')
-        }
+#         mappings = {
+#             'n': ('n',),
+#             'm': ('m',),
+#             'c': ('c',),
+#             'id': ('id',),
+#             'r': ('r',),
+#             'la': ('la', 'float'),
+#             'lo': ('lo', 'float')
+#         }
 
-        any_errors = False
+#         any_errors = False
 
-        for key, props in mappings.items():
-            try:
-                value = e.get(key, None)
-                if value is not None:
-                    if len(props) > 1:
-                        if props[1] == 'float':
-                            value = float(value)
-                    parsed_event[props[0]] = value
-            except Exception as ex:
-                any_errors = True
-                print(ex)
+#         for key, props in mappings.items():
+#             try:
+#                 value = e.get(key, None)
+#                 if value is not None:
+#                     if len(props) > 1:
+#                         if props[1] == 'float':
+#                             value = float(value)
+#                     parsed_event[props[0]] = value
+#             except Exception as ex:
+#                 any_errors = True
+#                 print(ex)
 
-        print(parsed_event)
+#         print(parsed_event)
 
-        if any_errors:
-            errored_events.append(parsed_event)
-        else:
-            parsed_events[parsed_event['n']] = parsed_event
+#         if any_errors:
+#             errored_events.append(parsed_event)
+#         else:
+#             parsed_events[parsed_event['n']] = parsed_event
 
-    print('{} parsed events'.format(len(parsed_events)))
-    print('{} errored events'.format(len(errored_events)))
-    for ee in errored_events:
-        print(ee)
+#     print('{} parsed events'.format(len(parsed_events)))
+#     print('{} errored events'.format(len(errored_events)))
+#     for ee in errored_events:
+#         print(ee)
 
-    return parsed_events
+#     return parsed_events
 
-def find_regions_recursively(node, result):
-    for item in node.findall('r'):
-        result.append(item)
-        find_regions_recursively(item, result)
-    return result
+# def find_regions_recursively(node, result):
+#     for item in node.findall('r'):
+#         result.append(item)
+#         find_regions_recursively(item, result)
+#     return result
 
-def parse_regions(region_list):
+# def parse_regions(region_list):
 
+#     countries = list()
+
+#     parsed_regions = list()
+#     errored_regions = list()
+
+#     # Example region:
+#     # <r id="2" n="UK" la="54.597527" lo="-2.460938" z="5" pid="1" u="http://www.parkrun.org.uk">
+
+#     for r in region_list:
+
+#         parsed_region = {
+#             'n': None,
+#             'id': None,
+#             'pid': None,
+#             'u': None,
+#             'la': None,
+#             'lo': None
+#         }
+
+#         mappings = {
+#             'n': ('n',),
+#             'pid': ('pid',),
+#             'id': ('id',),
+#             'u': ('u',),
+#             'la': ('la', 'float'),
+#             'lo': ('lo', 'float')
+#         }
+
+#         any_errors = False
+
+#         for key, props in mappings.items():
+#             try:
+#                 value = r.get(key, None)
+#                 if value is not None:
+#                     if len(props) > 1:
+#                         if props[1] == 'float':
+#                             value = float(value)
+#                     parsed_region[props[0]] = value
+#             except Exception as ex:
+#                 any_errors = True
+#                 print(ex)
+
+#         print(parsed_region)
+
+#         if any_errors:
+#             errored_regions.append(parsed_region)
+#         else:
+#             parsed_regions.append(parsed_region)
+#             if parsed_region.get('pid', None) == '1':
+#                 countries.append(parsed_region)
+
+#     print('{} parsed regions'.format(len(parsed_regions)))
+#     print('{} errored regions'.format(len(errored_regions)))
+#     for ee in errored_regions:
+#         print(ee)
+
+#     print('{} countries'.format(len(countries)))
+#     print(countries)
+
+#     return (parsed_regions, countries)
+
+# def fetch_and_parse_geo_xml(url):
+
+#     geo_xml_file = fetch_webpage(url)
+#     print('geo_xml file length: {}'.format(len(geo_xml_file)))
+
+#     root = ET.fromstring(geo_xml_file)
+#     # root = tree.getroot()
+
+#     parsed_5k_events = parse_events(root)
+
+#     all_regions = list()
+#     find_regions_recursively(root, all_regions)
+#     (parsed_regions, countries) = parse_regions(all_regions)
+
+#     return (parsed_5k_events, parsed_regions, countries)
+
+def fetch_and_parse_events_json(url):
+
+    events_json = fetch_webpage(url)
+    print(events_json)
+
+    events_data = json.loads(events_json)
     countries = list()
+    events_5k = dict()
+    events_2k = dict()
 
-    parsed_regions = list()
-    errored_regions = list()
+    for id, c in events_data['countries'].items():
+        # Input
+        # {'url': 'www.parkrun.it', 'bounds': [9.211192, 37.621125, 18.166117, 45.694128]}
+        # Output
+        #   {
+        #     "id": "2",
+        #     "la": 54.597527,
+        #     "lo": -2.460938,
+        #     "n": "UK",
+        #     "pid": "1",
+        #     "u": "http://www.parkrun.org.uk"
+        #   },
+        print(c)
 
-    # Example region:
-    # <r id="2" n="UK" la="54.597527" lo="-2.460938" z="5" pid="1" u="http://www.parkrun.org.uk">
+        country = {
+            'id': str(id),
+            'latitude': (c['bounds'][1] + c['bounds'][3])/2,
+            'longitude': (c['bounds'][0] + c['bounds'][2])/2,
+            'name': c['url'],
+            'parent_id': '1',
+            'url': 'https://{}'.format(c['url'])
+        }
+        print(country)
+        countries.append(country)
 
-    for r in region_list:
-
-        parsed_region = {
-            'n': None,
-            'id': None,
-            'pid': None,
-            'u': None,
-            'la': None,
-            'lo': None
+    for e in events_data['events']['features']:
+        # 5k Input
+        # {'id': 280, 'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [-1.310849, 51.069286]}, 'properties': {'eventname': 'winchester', 'EventLongName': 'Winchester parkrun', 'EventShortName': 'Winchester', 'LocalisedEventLongName': None, 'countrycode': 97, 'seriesid': 1, 'EventLocation': 'North Walls Recreation Ground'}}
+        # 5k Output
+        #   "winchester": {
+        #     "c": "97",
+        #     "id": "280",
+        #     "la": 51.069286,
+        #     "lo": -1.310849,
+        #     "m": "Winchester",
+        #     "n": "winchester",
+        #     "r": "17"
+        #   },
+        # 2k
+        # {'id': 1493, 'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [-1.304893, 51.054733]}, 'properties': {'eventname': 'winchester-juniors', 'EventLongName': 'Winchester junior parkrun', 'EventShortName': 'Winchester juniors', 'LocalisedEventLongName': 'Winchester junior parkrun', 'countrycode': 97, 'seriesid': 2, 'EventLocation': 'Winchester Sports Stadium'}}
+        # print(e)
+        event = {
+            'country_id': str(e['properties']['countrycode']),
+            'event_id': str(e['id']),
+            'latitude': e['geometry']['coordinates'][1],
+            'longitude': e['geometry']['coordinates'][0],
+            'local_name': e['properties']['EventShortName'],
+            'name': e['properties']['eventname']
         }
 
-        mappings = {
-            'n': ('n',),
-            'pid': ('pid',),
-            'id': ('id',),
-            'u': ('u',),
-            'la': ('la', 'float'),
-            'lo': ('lo', 'float')
-        }
-
-        any_errors = False
-
-        for key, props in mappings.items():
-            try:
-                value = r.get(key, None)
-                if value is not None:
-                    if len(props) > 1:
-                        if props[1] == 'float':
-                            value = float(value)
-                    parsed_region[props[0]] = value
-            except Exception as ex:
-                any_errors = True
-                print(ex)
-
-        print(parsed_region)
-
-        if any_errors:
-            errored_regions.append(parsed_region)
+        if e['properties']['seriesid'] == 1:
+            events_5k[e['properties']['EventShortName']] = event
+        elif e['properties']['seriesid'] == 2:
+            events_2k[e['properties']['EventShortName']] = event
         else:
-            parsed_regions.append(parsed_region)
-            if parsed_region.get('pid', None) == '1':
-                countries.append(parsed_region)
+            print('Huh?')
 
-    print('{} parsed regions'.format(len(parsed_regions)))
-    print('{} errored regions'.format(len(errored_regions)))
-    for ee in errored_regions:
-        print(ee)
+    return (events_5k, events_2k, countries)
 
-    print('{} countries'.format(len(countries)))
-    print(countries)
-
-    return (parsed_regions, countries)
-
-def fetch_and_parse_geo_xml(url):
-
-    geo_xml_file = fetch_webpage(url)
-    print('geo_xml file length: {}'.format(len(geo_xml_file)))
-
-    root = ET.fromstring(geo_xml_file)
-    # root = tree.getroot()
-
-    parsed_5k_events = parse_events(root)
-
-    all_regions = list()
-    find_regions_recursively(root, all_regions)
-    (parsed_regions, countries) = parse_regions(all_regions)
-
-    return (parsed_5k_events, parsed_regions, countries)
 
 def fetch_and_parse_technical_event_information():
 
@@ -347,10 +418,13 @@ def write_json_file(filename, data):
 
 def update_parkrun_event_info_by_id(events, parkrun_event_info, properties=None):
 
+    print(parkrun_event_info)
+
     for event_name, event_info in events.items():
         # Check if this event has a matching property set
         event_id = event_info.get('id', None)
         if event_id is not None and event_id in parkrun_event_info:
+            print('Found event info for {}/{}'.format(event_id, event_name))
             # Add all the properties if we haven't been supplied a subset
             if properties is None:
                 event_info.update(parkrun_event_info[event_id])
@@ -359,7 +433,8 @@ def update_parkrun_event_info_by_id(events, parkrun_event_info, properties=None)
                 for prop in properties:
                     if prop in parkrun_event_info[event_id]:
                         event_info[prop] = parkrun_event_info[event_id][prop]
-
+        else:
+            print('Missing event info for {}/{}'.format(event_id, event_name))
 # Fetch and parse the data
 
 print('Fetching parkrun data sources')
@@ -368,8 +443,10 @@ print('Fetching parkrun data sources')
 # includes all countries, even if they don't have any parkruns anymore, or in the case
 # of juniors, don't have any parkruns yet :)
 # - This means that we only need to parse one of these.
-(parsed_5k_events, parsed_5k_regions, parsed_5k_countries) = fetch_and_parse_geo_xml(URL_GEO_XML_5K)
-(parsed_2k_events, parsed_2k_regions, parsed_2k_countries) = fetch_and_parse_geo_xml(URL_GEO_XML_2K)
+# (parsed_5k_events, parsed_5k_regions, parsed_5k_countries) = fetch_and_parse_geo_xml(URL_GEO_XML_5K)
+# (parsed_2k_events, parsed_2k_regions, parsed_2k_countries) = fetch_and_parse_geo_xml(URL_GEO_XML_2K)
+
+(parsed_5k_events, parsed_2k_events, parsed_countries) = fetch_and_parse_events_json(URL_EVENTS_JSON)
 
 parkrun_event_info = fetch_and_parse_technical_event_information()
 
@@ -379,8 +456,7 @@ print('Fetched parkrun data sources')
 reference_files = [
     ('parkrun-5k-events', parsed_5k_events),
     ('parkrun-2k-events', parsed_2k_events),
-    ('parkrun-regions', parsed_5k_regions),
-    ('parkrun-countries', parsed_5k_countries),
+    ('parkrun-countries', parsed_countries),
     ('parkrun-event-info', parkrun_event_info)
 ]
 # print(reference_files)
@@ -394,8 +470,7 @@ for events in [parsed_5k_events, parsed_2k_events]:
     update_parkrun_event_info_by_id(events, parkrun_event_info, ['es'])
 
 geo_data = {
-    'countries' : parsed_5k_countries,
-    'regions': parsed_5k_regions,
+    'countries' : parsed_countries,
     'events_5k': parsed_5k_events,
     'events_2k': parsed_2k_events
 }
