@@ -3936,7 +3936,7 @@
         "country_domain": "www.parkrun.ca",
         "longname": "Beach Strip parkrun",
         "shortname": "beachstrip",
-        "time": "01:30"
+        "time": "10:30"
       },
       "Beckenham Place parkrun": {
         "country_code": "uk",
@@ -5345,6 +5345,13 @@
         "shortname": "goldenharvest",
         "time": "08:00"
       },
+      "Goolwa parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Goolwa parkrun",
+        "shortname": "goolwa",
+        "time": "07:30"
+      },
       "Grafton parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -5925,6 +5932,13 @@
         "longname": "Karkarook parkrun",
         "shortname": "karkarook",
         "time": "09:30"
+      },
+      "Kathu parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Kathu parkrun",
+        "shortname": "kathu",
+        "time": "07:00"
       },
       "Kennington Reservoir parkrun": {
         "country_code": "au",
@@ -9619,6 +9633,13 @@
         "country_domain": "www.parkrun.ru",
         "longname": "parkrun Park Guskova",
         "shortname": "parkguskova",
+        "time": "09:00"
+      },
+      "parkrun Pavlovsky Posad": {
+        "country_code": "ru",
+        "country_domain": "www.parkrun.ru",
+        "longname": "parkrun Pavlovsky Posad",
+        "shortname": "pavlovskyposad",
         "time": "09:00"
       },
       "parkrun Perm Balatovo": {

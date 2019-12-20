@@ -463,6 +463,13 @@
         "shortname": "parkguskova",
         "time": "09:00"
       },
+      "parkrun Pavlovsky Posad": {
+        "country_code": "ru",
+        "country_domain": "www.parkrun.ru",
+        "longname": "parkrun Pavlovsky Posad",
+        "shortname": "pavlovskyposad",
+        "time": "09:00"
+      },
       "parkrun Perm Balatovo": {
         "country_code": "ru",
         "country_domain": "www.parkrun.ru",

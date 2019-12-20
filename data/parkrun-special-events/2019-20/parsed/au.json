@@ -1233,6 +1233,13 @@
         "shortname": "goldenbeach",
         "time": "08:00"
       },
+      "Goolwa parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Goolwa parkrun",
+        "shortname": "goolwa",
+        "time": "07:30"
+      },
       "Grafton parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
