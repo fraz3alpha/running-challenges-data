@@ -576,6 +576,13 @@
         "shortname": "oceanview",
         "time": "07:00"
       },
+      "Paradise Point parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Paradise Point parkrun",
+        "shortname": "paradisepoint",
+        "time": "07:00"
+      },
       "Parramatta parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",

@@ -2512,6 +2512,13 @@
         "shortname": "panshanger",
         "time": "09:00"
       },
+      "Paradise Point parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Paradise Point parkrun",
+        "shortname": "paradisepoint",
+        "time": "07:00"
+      },
       "Parramatta parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -5821,6 +5828,13 @@
         "shortname": "imonti",
         "time": "07:30"
       },
+      "Inch Beach parkrun": {
+        "country_code": "ie",
+        "country_domain": "www.parkrun.ie",
+        "longname": "Inch Beach parkrun",
+        "shortname": "inchbeach",
+        "time": "09:00"
+      },
       "Invercargill parkrun": {
         "country_code": "nz",
         "country_domain": "www.parkrun.co.nz",
@@ -6799,6 +6813,13 @@
         "country_domain": "www.parkrun.org.uk",
         "longname": "Newport parkrun",
         "shortname": "newport",
+        "time": "10:30"
+      },
+      "Newtown parkrun": {
+        "country_code": "uk",
+        "country_domain": "www.parkrun.org.uk",
+        "longname": "Newtown parkrun",
+        "shortname": "newtown",
         "time": "10:30"
       },
       "Newy parkrun": {

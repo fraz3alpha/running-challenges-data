@@ -246,6 +246,13 @@
         "shortname": "hartstown",
         "time": "09:30"
       },
+      "Inch Beach parkrun": {
+        "country_code": "ie",
+        "country_domain": "www.parkrun.ie",
+        "longname": "Inch Beach parkrun",
+        "shortname": "inchbeach",
+        "time": "09:00"
+      },
       "Lees Road parkrun": {
         "country_code": "ie",
         "country_domain": "www.parkrun.ie",
