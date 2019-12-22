@@ -149,6 +149,13 @@
         "shortname": "rivieraonvaal",
         "time": "08:00"
       },
+      "Ruimsig parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Ruimsig parkrun",
+        "shortname": "ruimsig",
+        "time": "08:00"
+      },
       "Sardinia Bay parkrun": {
         "country_code": "za",
         "country_domain": "www.parkrun.co.za",
@@ -462,6 +469,13 @@
         "longname": "Midstream parkrun",
         "shortname": "midstream",
         "time": "08:00"
+      },
+      "Mofolo parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Mofolo parkrun",
+        "shortname": "mofolo",
+        "time": "09:00"
       },
       "Mogol parkrun": {
         "country_code": "za",
