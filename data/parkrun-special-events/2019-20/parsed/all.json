@@ -2078,6 +2078,13 @@
         "shortname": "lota",
         "time": "07:00"
       },
+      "Lower Drummans parkrun": {
+        "country_code": "uk",
+        "country_domain": "www.parkrun.org.uk",
+        "longname": "Lower Drummans parkrun",
+        "shortname": "lowerdrummans",
+        "time": "09:30"
+      },
       "Lower Hutt parkrun": {
         "country_code": "nz",
         "country_domain": "www.parkrun.co.nz",
@@ -3260,6 +3267,13 @@
         "longname": "Umhlanga parkrun",
         "shortname": "umhlanga",
         "time": "08:00"
+      },
+      "Upington parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Upington parkrun",
+        "shortname": "upington",
+        "time": "07:00"
       },
       "Ury Riverside parkrun": {
         "country_code": "uk",
@@ -6325,6 +6339,13 @@
         "shortname": "loughkey",
         "time": "09:00"
       },
+      "Lower Drummans parkrun": {
+        "country_code": "uk",
+        "country_domain": "www.parkrun.org.uk",
+        "longname": "Lower Drummans parkrun",
+        "shortname": "lowerdrummans",
+        "time": "09:30"
+      },
       "Lower Hutt parkrun": {
         "country_code": "nz",
         "country_domain": "www.parkrun.co.nz",
@@ -8410,6 +8431,13 @@
         "longname": "Umhlanga parkrun",
         "shortname": "umhlanga",
         "time": "08:00"
+      },
+      "Upington parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Upington parkrun",
+        "shortname": "upington",
+        "time": "07:00"
       },
       "Upton Court parkrun": {
         "country_code": "uk",

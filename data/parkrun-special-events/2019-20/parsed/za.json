@@ -191,6 +191,13 @@
         "shortname": "umhlanga",
         "time": "08:00"
       },
+      "Upington parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Upington parkrun",
+        "shortname": "upington",
+        "time": "07:00"
+      },
       "Welkom parkrun": {
         "country_code": "za",
         "country_domain": "www.parkrun.co.za",
@@ -630,6 +637,13 @@
         "longname": "Umhlanga parkrun",
         "shortname": "umhlanga",
         "time": "08:00"
+      },
+      "Upington parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Upington parkrun",
+        "shortname": "upington",
+        "time": "07:00"
       },
       "Vredendal parkrun": {
         "country_code": "za",

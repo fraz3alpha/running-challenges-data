@@ -1080,6 +1080,13 @@
         "shortname": "longrunmeadow",
         "time": "09:00"
       },
+      "Lower Drummans parkrun": {
+        "country_code": "uk",
+        "country_domain": "www.parkrun.org.uk",
+        "longname": "Lower Drummans parkrun",
+        "shortname": "lowerdrummans",
+        "time": "09:30"
+      },
       "Lymington Woodside parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -3346,6 +3353,13 @@
         "longname": "Long Eaton parkrun",
         "shortname": "longeaton",
         "time": "10:30"
+      },
+      "Lower Drummans parkrun": {
+        "country_code": "uk",
+        "country_domain": "www.parkrun.org.uk",
+        "longname": "Lower Drummans parkrun",
+        "shortname": "lowerdrummans",
+        "time": "09:30"
       },
       "Lowestoft parkrun": {
         "country_code": "uk",
