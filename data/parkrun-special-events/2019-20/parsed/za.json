@@ -9,6 +9,13 @@
         "shortname": "aliwalnorth",
         "time": "08:00"
       },
+      "Bethlehem parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Bethlehem parkrun",
+        "shortname": "bethlehem",
+        "time": "08:00"
+      },
       "Betty\u2019s Bay parkrun": {
         "country_code": "za",
         "country_domain": "www.parkrun.co.za",
@@ -99,6 +106,13 @@
         "longname": "Lady Slipper parkrun",
         "shortname": "ladyslipper",
         "time": "08:00"
+      },
+      "Loxton parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Loxton parkrun",
+        "shortname": "loxton",
+        "time": "07:00"
       },
       "Mapetla parkrun": {
         "country_code": "za",
@@ -455,6 +469,13 @@
         "longname": "Langenhoven parkrun",
         "shortname": "langenhoven",
         "time": "08:00"
+      },
+      "Loxton parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Loxton parkrun",
+        "shortname": "loxton",
+        "time": "07:00"
       },
       "Mapetla parkrun": {
         "country_code": "za",

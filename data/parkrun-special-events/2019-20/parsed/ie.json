@@ -51,6 +51,13 @@
         "shortname": "malahide",
         "time": "09:30"
       },
+      "Narin Beach parkrun": {
+        "country_code": "ie",
+        "country_domain": "www.parkrun.ie",
+        "longname": "Narin Beach parkrun",
+        "shortname": "narinbeach",
+        "time": "09:30"
+      },
       "Navan parkrun": {
         "country_code": "ie",
         "country_domain": "www.parkrun.ie",
@@ -308,6 +315,13 @@
         "longname": "Mungret parkrun",
         "shortname": "mungret",
         "time": "11:00"
+      },
+      "Narin Beach parkrun": {
+        "country_code": "ie",
+        "country_domain": "www.parkrun.ie",
+        "longname": "Narin Beach parkrun",
+        "shortname": "narinbeach",
+        "time": "09:30"
       },
       "Poolbeg parkrun": {
         "country_code": "ie",

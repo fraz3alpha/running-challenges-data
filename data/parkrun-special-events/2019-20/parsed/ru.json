@@ -344,6 +344,13 @@
         "shortname": "cheboksarynaberezhnaya",
         "time": "09:00"
       },
+      "parkrun Chelyabinsk": {
+        "country_code": "ru",
+        "country_domain": "www.parkrun.ru",
+        "longname": "parkrun Chelyabinsk",
+        "shortname": "chelyabinsk",
+        "time": "09:00"
+      },
       "parkrun Chertanovo Pokrovsky Park": {
         "country_code": "ru",
         "country_domain": "www.parkrun.ru",

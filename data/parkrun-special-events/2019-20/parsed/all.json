@@ -622,6 +622,13 @@
         "shortname": "bereisland",
         "time": "09:30"
       },
+      "Bethlehem parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Bethlehem parkrun",
+        "shortname": "bethlehem",
+        "time": "08:00"
+      },
       "Bethlem Royal Hospital parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -1546,13 +1553,6 @@
         "shortname": "greatcornard",
         "time": "09:00"
       },
-      "Great Denham parkrun": {
-        "country_code": "uk",
-        "country_domain": "www.parkrun.org.uk",
-        "longname": "Great Denham parkrun",
-        "shortname": "greatdenham",
-        "time": "09:00"
-      },
       "Great Lines parkrun, Medway": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -2092,6 +2092,13 @@
         "shortname": "lowerhutt",
         "time": "08:00"
       },
+      "Loxton parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Loxton parkrun",
+        "shortname": "loxton",
+        "time": "07:00"
+      },
       "Lymington Woodside parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -2336,6 +2343,13 @@
         "longname": "Nambour parkrun",
         "shortname": "nambour",
         "time": "07:00"
+      },
+      "Narin Beach parkrun": {
+        "country_code": "ie",
+        "country_domain": "www.parkrun.ie",
+        "longname": "Narin Beach parkrun",
+        "shortname": "narinbeach",
+        "time": "09:30"
       },
       "Navan parkrun": {
         "country_code": "ie",
@@ -4063,6 +4077,13 @@
         "longname": "Billericay parkrun",
         "shortname": "billericay",
         "time": "09:00"
+      },
+      "Bishan parkrun": {
+        "country_code": "sg",
+        "country_domain": "www.parkrun.sg",
+        "longname": "Bishan parkrun",
+        "shortname": "bishan",
+        "time": "07:00"
       },
       "Black Park parkrun": {
         "country_code": "uk",
@@ -6360,6 +6381,13 @@
         "shortname": "lowestoft",
         "time": "09:30"
       },
+      "Loxton parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Loxton parkrun",
+        "shortname": "loxton",
+        "time": "07:00"
+      },
       "Ludlow parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -6766,6 +6794,13 @@
         "shortname": "nantypandy",
         "time": "10:30"
       },
+      "Narin Beach parkrun": {
+        "country_code": "ie",
+        "country_domain": "www.parkrun.ie",
+        "longname": "Narin Beach parkrun",
+        "shortname": "narinbeach",
+        "time": "09:30"
+      },
       "Nautical parkrun": {
         "country_code": "ca",
         "country_domain": "www.parkrun.ca",
@@ -6911,6 +6946,13 @@
         "country_domain": "www.parkrun.org.uk",
         "longname": "Northampton parkrun",
         "shortname": "northampton",
+        "time": "09:00"
+      },
+      "Northside Beltline parkrun": {
+        "country_code": "us",
+        "country_domain": "www.parkrun.us",
+        "longname": "Northside Beltline parkrun",
+        "shortname": "northsidebeltline",
         "time": "09:00"
       },
       "Northwich parkrun": {
@@ -9536,7 +9578,7 @@
         "country_domain": "www.parkrun.fr",
         "longname": "parkrun du Bois de Boulogne, Paris",
         "shortname": "boisdeboulogne",
-        "time": "10:30"
+        "time": "09:00"
       },
       "parkrun \u0141\u00f3d\u017a": {
         "country_code": "pl",
@@ -9577,6 +9619,13 @@
         "country_domain": "www.parkrun.ru",
         "longname": "parkrun Cheboksary naberezhnaya",
         "shortname": "cheboksarynaberezhnaya",
+        "time": "09:00"
+      },
+      "parkrun Chelyabinsk": {
+        "country_code": "ru",
+        "country_domain": "www.parkrun.ru",
+        "longname": "parkrun Chelyabinsk",
+        "shortname": "chelyabinsk",
         "time": "09:00"
       },
       "parkrun Chertanovo Pokrovsky Park": {

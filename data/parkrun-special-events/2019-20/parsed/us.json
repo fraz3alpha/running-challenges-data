@@ -79,6 +79,13 @@
         "shortname": "livonia",
         "time": "08:30"
       },
+      "Northside Beltline parkrun": {
+        "country_code": "us",
+        "country_domain": "www.parkrun.us",
+        "longname": "Northside Beltline parkrun",
+        "shortname": "northsidebeltline",
+        "time": "09:00"
+      },
       "Oak Grove parkrun": {
         "country_code": "us",
         "country_domain": "www.parkrun.us",
