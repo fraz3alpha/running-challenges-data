@@ -114,6 +114,13 @@
         "shortname": "renton",
         "time": "10:30"
       },
+      "Sippo Lake parkrun": {
+        "country_code": "us",
+        "country_domain": "www.parkrun.us",
+        "longname": "Sippo Lake parkrun",
+        "shortname": "sippolake",
+        "time": "09:00"
+      },
       "South Boulder Creek parkrun": {
         "country_code": "us",
         "country_domain": "www.parkrun.us",

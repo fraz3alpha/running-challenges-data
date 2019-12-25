@@ -1700,6 +1700,13 @@
         "shortname": "harrogate",
         "time": "09:00"
       },
+      "Harrow Lodge junior parkrun": {
+        "country_code": "uk",
+        "country_domain": "www.parkrun.org.uk",
+        "longname": "Harrow Lodge junior parkrun",
+        "shortname": "harrowlodge-juniors",
+        "time": "09:00"
+      },
       "Hartbeespoort parkrun": {
         "country_code": "za",
         "country_domain": "www.parkrun.co.za",
@@ -3653,7 +3660,7 @@
         "time": "09:00"
       }
     },
-    "index": 2
+    "index": 3
   },
   "New Year's Day": {
     "date": "2020-01-01",
@@ -7107,7 +7114,7 @@
         "country_domain": "www.parkrun.co.za",
         "longname": "Parys parkrun",
         "shortname": "parys",
-        "time": "08:00"
+        "time": "09:00"
       },
       "Peacehaven parkrun": {
         "country_code": "uk",
@@ -7892,6 +7899,13 @@
         "longname": "Silveroaks parkrun",
         "shortname": "silveroaks",
         "time": "09:30"
+      },
+      "Sippo Lake parkrun": {
+        "country_code": "us",
+        "country_domain": "www.parkrun.us",
+        "longname": "Sippo Lake parkrun",
+        "shortname": "sippolake",
+        "time": "09:00"
       },
       "Sittingbourne parkrun": {
         "country_code": "uk",

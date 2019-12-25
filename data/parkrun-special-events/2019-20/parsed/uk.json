@@ -856,6 +856,13 @@
         "shortname": "harrogate",
         "time": "09:00"
       },
+      "Harrow Lodge junior parkrun": {
+        "country_code": "uk",
+        "country_domain": "www.parkrun.org.uk",
+        "longname": "Harrow Lodge junior parkrun",
+        "shortname": "harrowlodge-juniors",
+        "time": "09:00"
+      },
       "Hartlepool parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
