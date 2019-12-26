@@ -3647,7 +3647,7 @@
         "time": "09:00"
       }
     },
-    "index": 2
+    "index": 3
   },
   "Christmas Eve": {
     "date": "2019-12-24",
@@ -4762,6 +4762,13 @@
         "country_domain": "www.parkrun.org.uk",
         "longname": "Cotsford Fields parkrun",
         "shortname": "cotsfordfields",
+        "time": "09:00"
+      },
+      "Cowpasture Reserve parkrun, Camden": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Cowpasture Reserve parkrun, Camden",
+        "shortname": "cowpasturereservecamden",
         "time": "09:00"
       },
       "Crane Park parkrun": {
