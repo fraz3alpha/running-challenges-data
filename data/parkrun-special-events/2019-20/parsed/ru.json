@@ -240,6 +240,13 @@
         "shortname": "shuvalovskypark",
         "time": "10:30"
       },
+      "parkrun Skver Dzerzhinskogo": {
+        "country_code": "ru",
+        "country_domain": "www.parkrun.ru",
+        "longname": "parkrun Skver Dzerzhinskogo",
+        "shortname": "skverdzerzhinskogo",
+        "time": "10:30"
+      },
       "parkrun Sokolniki": {
         "country_code": "ru",
         "country_domain": "www.parkrun.ru",
@@ -393,6 +400,13 @@
         "shortname": "kolomenskoe",
         "time": "09:00"
       },
+      "parkrun Kolpino": {
+        "country_code": "ru",
+        "country_domain": "www.parkrun.ru",
+        "longname": "parkrun Kolpino",
+        "shortname": "kolpino",
+        "time": "10:00"
+      },
       "parkrun Krasnoyarsk Naberezhnaya": {
         "country_code": "ru",
         "country_domain": "www.parkrun.ru",
@@ -482,6 +496,13 @@
         "country_domain": "www.parkrun.ru",
         "longname": "parkrun Perm Balatovo",
         "shortname": "permbalatovo",
+        "time": "10:00"
+      },
+      "parkrun Pushkin": {
+        "country_code": "ru",
+        "country_domain": "www.parkrun.ru",
+        "longname": "parkrun Pushkin",
+        "shortname": "pushkin",
         "time": "10:00"
       },
       "parkrun Rostov on Don": {

@@ -318,7 +318,7 @@
         "time": "09:00"
       }
     },
-    "index": 2
+    "index": 3
   },
   "Chinese New Year": {
     "date": "2020-01-20",
@@ -4897,6 +4897,13 @@
         "shortname": "delta",
         "time": "09:30"
       },
+      "Depot Park parkrun": {
+        "country_code": "us",
+        "country_domain": "www.parkrun.us",
+        "longname": "Depot Park parkrun",
+        "shortname": "depotpark",
+        "time": "09:00"
+      },
       "Derry City parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -9454,6 +9461,13 @@
         "shortname": "skierniewice",
         "time": "10:30"
       },
+      "parkrun Skver Dzerzhinskogo": {
+        "country_code": "ru",
+        "country_domain": "www.parkrun.ru",
+        "longname": "parkrun Skver Dzerzhinskogo",
+        "shortname": "skverdzerzhinskogo",
+        "time": "10:30"
+      },
       "parkrun Sokolniki": {
         "country_code": "ru",
         "country_domain": "www.parkrun.ru",
@@ -9691,6 +9705,13 @@
         "shortname": "kolomenskoe",
         "time": "09:00"
       },
+      "parkrun Kolpino": {
+        "country_code": "ru",
+        "country_domain": "www.parkrun.ru",
+        "longname": "parkrun Kolpino",
+        "shortname": "kolpino",
+        "time": "10:00"
+      },
       "parkrun Krasnoyarsk Naberezhnaya": {
         "country_code": "ru",
         "country_domain": "www.parkrun.ru",
@@ -9780,6 +9801,13 @@
         "country_domain": "www.parkrun.ru",
         "longname": "parkrun Perm Balatovo",
         "shortname": "permbalatovo",
+        "time": "10:00"
+      },
+      "parkrun Pushkin": {
+        "country_code": "ru",
+        "country_domain": "www.parkrun.ru",
+        "longname": "parkrun Pushkin",
+        "shortname": "pushkin",
         "time": "10:00"
       },
       "parkrun Rostov on Don": {

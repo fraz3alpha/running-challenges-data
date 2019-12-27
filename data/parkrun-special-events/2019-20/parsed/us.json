@@ -23,6 +23,13 @@
         "shortname": "deeprun",
         "time": "10:30"
       },
+      "Depot Park parkrun": {
+        "country_code": "us",
+        "country_domain": "www.parkrun.us",
+        "longname": "Depot Park parkrun",
+        "shortname": "depotpark",
+        "time": "09:00"
+      },
       "Durham NC parkrun": {
         "country_code": "us",
         "country_domain": "www.parkrun.us",
