@@ -1913,13 +1913,6 @@
         "shortname": "wotton",
         "time": "09:00"
       },
-      "Yatton Recreation junior parkrun": {
-        "country_code": "uk",
-        "country_domain": "www.parkrun.org.uk",
-        "longname": "Yatton Recreation junior parkrun",
-        "shortname": "yattonrecreation-juniors",
-        "time": "09:00"
-      },
       "York parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -4130,13 +4123,6 @@
         "longname": "Shrewsbury parkrun",
         "shortname": "shrewsbury",
         "time": "08:30"
-      },
-      "Sittingbourne parkrun": {
-        "country_code": "uk",
-        "country_domain": "www.parkrun.org.uk",
-        "longname": "Sittingbourne parkrun",
-        "shortname": "sittingbourne",
-        "time": "10:30"
       },
       "Sizewell parkrun": {
         "country_code": "uk",

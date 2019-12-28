@@ -28,6 +28,13 @@
         "longname": "parkrun du Bois de Boulogne, Paris",
         "shortname": "boisdeboulogne",
         "time": "09:00"
+      },
+      "parkrun du Lac de Divonne": {
+        "country_code": "fr",
+        "country_domain": "www.parkrun.fr",
+        "longname": "parkrun du Lac de Divonne",
+        "shortname": "lacdedivonne",
+        "time": "09:00"
       }
     },
     "index": 2

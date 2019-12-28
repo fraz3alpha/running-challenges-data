@@ -3597,13 +3597,6 @@
         "shortname": "wyndhamvale",
         "time": "08:00"
       },
-      "Yatton Recreation junior parkrun": {
-        "country_code": "uk",
-        "country_domain": "www.parkrun.org.uk",
-        "longname": "Yatton Recreation junior parkrun",
-        "shortname": "yattonrecreation-juniors",
-        "time": "09:00"
-      },
       "York parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -6528,13 +6521,6 @@
         "shortname": "margate",
         "time": "09:00"
       },
-      "Maribyrnong parkrun": {
-        "country_code": "au",
-        "country_domain": "www.parkrun.com.au",
-        "longname": "Maribyrnong parkrun",
-        "shortname": "maribyrnong",
-        "time": "09:30"
-      },
       "Markeaton parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -7920,13 +7906,6 @@
         "longname": "Sippo Lake parkrun",
         "shortname": "sippolake",
         "time": "09:00"
-      },
-      "Sittingbourne parkrun": {
-        "country_code": "uk",
-        "country_domain": "www.parkrun.org.uk",
-        "longname": "Sittingbourne parkrun",
-        "shortname": "sittingbourne",
-        "time": "10:30"
       },
       "Sizewell parkrun": {
         "country_code": "uk",
@@ -9487,7 +9466,7 @@
         "country_domain": "www.parkrun.ru",
         "longname": "parkrun Starye Sady",
         "shortname": "staryesady",
-        "time": "09:00"
+        "time": "09:30"
       },
       "parkrun Swidwin": {
         "country_code": "pl",
@@ -9613,6 +9592,13 @@
         "country_domain": "www.parkrun.fr",
         "longname": "parkrun du Bois de Boulogne, Paris",
         "shortname": "boisdeboulogne",
+        "time": "09:00"
+      },
+      "parkrun du Lac de Divonne": {
+        "country_code": "fr",
+        "country_domain": "www.parkrun.fr",
+        "longname": "parkrun du Lac de Divonne",
+        "shortname": "lacdedivonne",
         "time": "09:00"
       },
       "parkrun \u0141\u00f3d\u017a": {
