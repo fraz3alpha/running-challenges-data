@@ -5289,13 +5289,6 @@
         "shortname": "gainsboroughgreens",
         "time": "07:00"
       },
-      "Galeshewe parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Galeshewe parkrun",
-        "shortname": "galeshewe",
-        "time": "08:30"
-      },
       "Gedling parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -5336,6 +5329,13 @@
         "country_domain": "www.parkrun.com.de",
         "longname": "Georgengarten parkrun",
         "shortname": "georgengarten",
+        "time": "10:30"
+      },
+      "Gillies Lake parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Gillies Lake parkrun",
+        "shortname": "gillieslake",
         "time": "10:30"
       },
       "Girvan Prom parkrun": {
@@ -8564,6 +8564,13 @@
         "longname": "Vredendal parkrun",
         "shortname": "vredendal",
         "time": "07:00"
+      },
+      "Wallaby Track parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Wallaby Track parkrun",
+        "shortname": "wallabytrack",
+        "time": "08:00"
       },
       "Walmer and Deal Seafront parkrun": {
         "country_code": "uk",

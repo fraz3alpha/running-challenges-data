@@ -1961,6 +1961,13 @@
         "shortname": "victorharbor",
         "time": "09:30"
       },
+      "Wallaby Track parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Wallaby Track parkrun",
+        "shortname": "wallabytrack",
+        "time": "08:00"
+      },
       "Wangaratta parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",

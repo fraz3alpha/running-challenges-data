@@ -51,6 +51,13 @@
         "shortname": "eramosarivertrail",
         "time": "10:00"
       },
+      "Gillies Lake parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Gillies Lake parkrun",
+        "shortname": "gillieslake",
+        "time": "10:30"
+      },
       "Henderson Lake parkrun": {
         "country_code": "ca",
         "country_domain": "www.parkrun.ca",
