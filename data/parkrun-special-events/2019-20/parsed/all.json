@@ -3987,6 +3987,13 @@
         "shortname": "bedford",
         "time": "09:00"
       },
+      "Belfast Victoria parkrun": {
+        "country_code": "uk",
+        "country_domain": "www.parkrun.org.uk",
+        "longname": "Belfast Victoria parkrun",
+        "shortname": "belfastvictoria",
+        "time": "09:30"
+      },
       "Bellerive parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -5490,6 +5497,13 @@
         "country_domain": "www.parkrun.org.uk",
         "longname": "Guildford parkrun",
         "shortname": "guildford",
+        "time": "09:00"
+      },
+      "Gunpowder parkrun": {
+        "country_code": "uk",
+        "country_domain": "www.parkrun.org.uk",
+        "longname": "Gunpowder parkrun",
+        "shortname": "gunpowder",
         "time": "09:00"
       },
       "Haga parkrun": {
