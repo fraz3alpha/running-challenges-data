@@ -1507,13 +1507,6 @@
         "shortname": "rushmoor",
         "time": "09:00"
       },
-      "Salisbury parkrun": {
-        "country_code": "uk",
-        "country_domain": "www.parkrun.org.uk",
-        "longname": "Salisbury parkrun",
-        "shortname": "salisbury",
-        "time": "09:00"
-      },
       "Seaton parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -4059,13 +4052,6 @@
         "country_domain": "www.parkrun.org.uk",
         "longname": "Sale Water parkrun",
         "shortname": "salewater",
-        "time": "10:30"
-      },
-      "Salisbury parkrun": {
-        "country_code": "uk",
-        "country_domain": "www.parkrun.org.uk",
-        "longname": "Salisbury parkrun",
-        "shortname": "salisbury",
         "time": "10:30"
       },
       "Scunthorpe parkrun": {

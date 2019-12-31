@@ -2869,13 +2869,6 @@
         "shortname": "rushmoor",
         "time": "09:00"
       },
-      "Salisbury parkrun": {
-        "country_code": "uk",
-        "country_domain": "www.parkrun.org.uk",
-        "longname": "Salisbury parkrun",
-        "shortname": "salisbury",
-        "time": "09:00"
-      },
       "San Remo parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -6731,6 +6724,13 @@
         "shortname": "mountbarker",
         "time": "07:30"
       },
+      "Mount Beauty parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Mount Beauty parkrun",
+        "shortname": "mountbeauty",
+        "time": "08:00"
+      },
       "Mount Edgcumbe parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -7759,13 +7759,6 @@
         "longname": "Sale parkrun",
         "shortname": "sale",
         "time": "09:30"
-      },
-      "Salisbury parkrun": {
-        "country_code": "uk",
-        "country_domain": "www.parkrun.org.uk",
-        "longname": "Salisbury parkrun",
-        "shortname": "salisbury",
-        "time": "10:30"
       },
       "Sand River parkrun, Virginia": {
         "country_code": "za",
