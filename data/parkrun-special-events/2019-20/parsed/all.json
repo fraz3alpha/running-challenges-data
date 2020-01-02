@@ -318,12 +318,12 @@
         "time": "09:00"
       }
     },
-    "index": 3
+    "index": 2
   },
   "Chinese New Year": {
     "date": "2020-01-20",
     "events": {},
-    "index": 3
+    "index": 2
   },
   "Christmas Day": {
     "date": "2019-12-25",
@@ -3633,7 +3633,7 @@
         "time": "09:00"
       }
     },
-    "index": 3
+    "index": 2
   },
   "Christmas Eve": {
     "date": "2019-12-24",
@@ -3646,7 +3646,7 @@
         "time": "09:00"
       }
     },
-    "index": 3
+    "index": 2
   },
   "New Year's Day": {
     "date": "2020-01-01",
@@ -8957,13 +8957,6 @@
         "shortname": "yarrabilba",
         "time": "07:00"
       },
-      "Yatton Recreation junior parkrun": {
-        "country_code": "uk",
-        "country_domain": "www.parkrun.org.uk",
-        "longname": "Yatton Recreation junior parkrun",
-        "shortname": "yattonrecreation-juniors",
-        "time": "09:00"
-      },
       "Yeovil Montacute parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -9623,7 +9616,7 @@
         "time": "09:00"
       }
     },
-    "index": 2
+    "index": 3
   },
   "Orthodox Christmas": {
     "date": "2020-01-07",
@@ -9923,7 +9916,7 @@
         "time": "09:00"
       }
     },
-    "index": 3
+    "index": 2
   },
   "Thanksgiving": {
     "date": "2018-11-28",
@@ -10013,6 +10006,6 @@
         "time": "09:00"
       }
     },
-    "index": 3
+    "index": 2
   }
 }
