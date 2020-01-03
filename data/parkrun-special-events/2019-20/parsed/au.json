@@ -1212,6 +1212,13 @@
         "shortname": "forestlake",
         "time": "08:30"
       },
+      "Forster parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Forster parkrun",
+        "shortname": "forster",
+        "time": "08:00"
+      },
       "Gainsborough Greens parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -1392,6 +1399,13 @@
         "country_domain": "www.parkrun.com.au",
         "longname": "Lakes Entrance parkrun",
         "shortname": "lakesentrance",
+        "time": "09:30"
+      },
+      "Largs Bay parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Largs Bay parkrun",
+        "shortname": "largsbay",
         "time": "09:30"
       },
       "Launceston parkrun": {
@@ -1890,6 +1904,20 @@
         "longname": "Tamworth Wetlands parkrun",
         "shortname": "tamworthwetlands",
         "time": "09:30"
+      },
+      "Tamworth parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Tamworth parkrun",
+        "shortname": "tamworth",
+        "time": "08:00"
+      },
+      "Taree parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Taree parkrun",
+        "shortname": "taree",
+        "time": "08:00"
       },
       "The Beaches parkrun": {
         "country_code": "au",

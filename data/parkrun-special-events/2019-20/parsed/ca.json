@@ -23,6 +23,13 @@
         "shortname": "centralburnaby",
         "time": "08:30"
       },
+      "Churchill Parkway parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Churchill Parkway parkrun",
+        "shortname": "churchillparkway",
+        "time": "10:00"
+      },
       "Clover Point parkrun": {
         "country_code": "ca",
         "country_domain": "www.parkrun.ca",
@@ -92,6 +99,13 @@
         "longname": "Nautical parkrun",
         "shortname": "nautical",
         "time": "09:00"
+      },
+      "North Bay parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "North Bay parkrun",
+        "shortname": "northbay",
+        "time": "10:00"
       },
       "Nose Hill parkrun": {
         "country_code": "ca",

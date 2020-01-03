@@ -288,6 +288,13 @@
         "shortname": "porirua",
         "time": "09:30"
       },
+      "Taupo parkrun": {
+        "country_code": "nz",
+        "country_domain": "www.parkrun.co.nz",
+        "longname": "Taupo parkrun",
+        "shortname": "taupo",
+        "time": "08:00"
+      },
       "Tauranga parkrun": {
         "country_code": "nz",
         "country_domain": "www.parkrun.co.nz",

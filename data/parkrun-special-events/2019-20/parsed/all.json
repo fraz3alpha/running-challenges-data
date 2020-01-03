@@ -4568,6 +4568,13 @@
         "shortname": "christiana",
         "time": "06:30"
       },
+      "Churchill Parkway parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Churchill Parkway parkrun",
+        "shortname": "churchillparkway",
+        "time": "10:00"
+      },
       "Churchill parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -5240,6 +5247,13 @@
         "shortname": "foroitalico",
         "time": "10:30"
       },
+      "Forster parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Forster parkrun",
+        "shortname": "forster",
+        "time": "08:00"
+      },
       "Foster parkrun": {
         "country_code": "nz",
         "country_domain": "www.parkrun.co.nz",
@@ -5527,6 +5541,13 @@
         "shortname": "haldonforest",
         "time": "10:30"
       },
+      "Halls parkrun, Nelspruit": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Halls parkrun, Nelspruit",
+        "shortname": "halls",
+        "time": "08:00"
+      },
       "Hamilton Lake parkrun": {
         "country_code": "nz",
         "country_domain": "www.parkrun.co.nz",
@@ -5553,6 +5574,13 @@
         "country_domain": "www.parkrun.co.za",
         "longname": "Harkerville parkrun",
         "shortname": "harkerville",
+        "time": "09:00"
+      },
+      "Harrogate junior parkrun": {
+        "country_code": "uk",
+        "country_domain": "www.parkrun.org.uk",
+        "longname": "Harrogate junior parkrun",
+        "shortname": "harrogate-juniors",
         "time": "09:00"
       },
       "Harrogate parkrun": {
@@ -6010,6 +6038,13 @@
         "shortname": "kathu",
         "time": "07:00"
       },
+      "Kei Mouth parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Kei Mouth parkrun",
+        "shortname": "keimouth",
+        "time": "07:30"
+      },
       "Kennington Reservoir parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -6115,6 +6150,13 @@
         "shortname": "kirra",
         "time": "08:30"
       },
+      "Knockanacree Woods parkrun": {
+        "country_code": "ie",
+        "country_domain": "www.parkrun.ie",
+        "longname": "Knockanacree Woods parkrun",
+        "shortname": "knockanacreewoods",
+        "time": "11:00"
+      },
       "Knowsley parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -6198,6 +6240,13 @@
         "longname": "Langenhoven parkrun",
         "shortname": "langenhoven",
         "time": "08:00"
+      },
+      "Largs Bay parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Largs Bay parkrun",
+        "shortname": "largsbay",
+        "time": "09:30"
       },
       "Launceston parkrun": {
         "country_code": "au",
@@ -6941,6 +6990,13 @@
         "shortname": "normanbyhall",
         "time": "09:00"
       },
+      "North Bay parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "North Bay parkrun",
+        "shortname": "northbay",
+        "time": "10:00"
+      },
       "North Shore parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -6961,6 +7017,13 @@
         "longname": "North Wollongong parkrun",
         "shortname": "northwollongong",
         "time": "08:00"
+      },
+      "Northallerton junior parkrun": {
+        "country_code": "uk",
+        "country_domain": "www.parkrun.org.uk",
+        "longname": "Northallerton junior parkrun",
+        "shortname": "northallerton-juniors",
+        "time": "10:00"
       },
       "Northampton parkrun": {
         "country_code": "uk",
@@ -7031,6 +7094,13 @@
         "longname": "Oldham parkrun",
         "shortname": "oldham",
         "time": "10:30"
+      },
+      "Omeya parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Omeya parkrun",
+        "shortname": "omeya",
+        "time": "07:00"
       },
       "Orange parkrun": {
         "country_code": "au",
@@ -7416,6 +7486,13 @@
         "longname": "Portrush parkrun",
         "shortname": "portrush",
         "time": "09:30"
+      },
+      "Potchefstroom parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Potchefstroom parkrun",
+        "shortname": "potchefstroom",
+        "time": "07:00"
       },
       "Potternewton parkrun": {
         "country_code": "uk",
@@ -8249,6 +8326,27 @@
         "longname": "Tamworth Wetlands parkrun",
         "shortname": "tamworthwetlands",
         "time": "09:30"
+      },
+      "Tamworth parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Tamworth parkrun",
+        "shortname": "tamworth",
+        "time": "08:00"
+      },
+      "Taree parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Taree parkrun",
+        "shortname": "taree",
+        "time": "08:00"
+      },
+      "Taupo parkrun": {
+        "country_code": "nz",
+        "country_domain": "www.parkrun.co.nz",
+        "longname": "Taupo parkrun",
+        "shortname": "taupo",
+        "time": "08:00"
       },
       "Tauranga parkrun": {
         "country_code": "nz",
@@ -9593,6 +9691,13 @@
         "longname": "parkrun de Montsouris",
         "shortname": "montsouris",
         "time": "10:30"
+      },
+      "parkrun de la Ram\u00e9e": {
+        "country_code": "fr",
+        "country_domain": "www.parkrun.fr",
+        "longname": "parkrun de la Ram\u00e9e",
+        "shortname": "laramee",
+        "time": "10:00"
       },
       "parkrun du Bois de Boulogne, Paris": {
         "country_code": "fr",

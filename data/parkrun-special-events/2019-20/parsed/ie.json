@@ -260,6 +260,13 @@
         "shortname": "inchbeach",
         "time": "09:00"
       },
+      "Knockanacree Woods parkrun": {
+        "country_code": "ie",
+        "country_domain": "www.parkrun.ie",
+        "longname": "Knockanacree Woods parkrun",
+        "shortname": "knockanacreewoods",
+        "time": "11:00"
+      },
       "Lees Road parkrun": {
         "country_code": "ie",
         "country_domain": "www.parkrun.ie",

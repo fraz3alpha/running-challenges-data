@@ -365,6 +365,13 @@
         "shortname": "goldenharvest",
         "time": "08:00"
       },
+      "Halls parkrun, Nelspruit": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Halls parkrun, Nelspruit",
+        "shortname": "halls",
+        "time": "08:00"
+      },
       "Harkerville parkrun": {
         "country_code": "za",
         "country_domain": "www.parkrun.co.za",
@@ -420,6 +427,13 @@
         "longname": "Kathu parkrun",
         "shortname": "kathu",
         "time": "07:00"
+      },
+      "Kei Mouth parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Kei Mouth parkrun",
+        "shortname": "keimouth",
+        "time": "07:30"
       },
       "Kimberley parkrun": {
         "country_code": "za",
@@ -505,6 +519,13 @@
         "shortname": "mogol",
         "time": "07:00"
       },
+      "Omeya parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Omeya parkrun",
+        "shortname": "omeya",
+        "time": "07:00"
+      },
       "Parys parkrun": {
         "country_code": "za",
         "country_domain": "www.parkrun.co.za",
@@ -532,6 +553,13 @@
         "longname": "Port Alfred parkrun",
         "shortname": "portalfred",
         "time": "08:00"
+      },
+      "Potchefstroom parkrun": {
+        "country_code": "za",
+        "country_domain": "www.parkrun.co.za",
+        "longname": "Potchefstroom parkrun",
+        "shortname": "potchefstroom",
+        "time": "07:00"
       },
       "Python parkrun": {
         "country_code": "za",

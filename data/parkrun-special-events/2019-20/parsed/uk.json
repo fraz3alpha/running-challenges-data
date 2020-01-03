@@ -2920,6 +2920,13 @@
         "shortname": "hanley",
         "time": "09:00"
       },
+      "Harrogate junior parkrun": {
+        "country_code": "uk",
+        "country_domain": "www.parkrun.org.uk",
+        "longname": "Harrogate junior parkrun",
+        "shortname": "harrogate-juniors",
+        "time": "09:00"
+      },
       "Harrogate parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -3640,6 +3647,13 @@
         "longname": "Normanby Hall parkrun",
         "shortname": "normanbyhall",
         "time": "09:00"
+      },
+      "Northallerton junior parkrun": {
+        "country_code": "uk",
+        "country_domain": "www.parkrun.org.uk",
+        "longname": "Northallerton junior parkrun",
+        "shortname": "northallerton-juniors",
+        "time": "10:00"
       },
       "Northampton parkrun": {
         "country_code": "uk",
