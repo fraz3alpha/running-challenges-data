@@ -169,6 +169,13 @@
         "shortname": "delawareandraritancanal",
         "time": "09:00"
       },
+      "Depot Park parkrun": {
+        "country_code": "us",
+        "country_domain": "www.parkrun.us",
+        "longname": "Depot Park parkrun",
+        "shortname": "depotpark",
+        "time": "07:30"
+      },
       "Eagan parkrun": {
         "country_code": "us",
         "country_domain": "www.parkrun.us",
