@@ -1,4 +1,129 @@
 {
+  "Canada Day": {
+    "date": null,
+    "events": {
+      "Beach Strip parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Beach Strip parkrun",
+        "shortname": "beachstrip",
+        "time": "00:00"
+      },
+      "Bellevue parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Bellevue parkrun",
+        "shortname": "bellevue",
+        "time": "08:30"
+      },
+      "Clover Point parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Clover Point parkrun",
+        "shortname": "cloverpoint",
+        "time": "08:00"
+      },
+      "Duffins Trail parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Duffins Trail parkrun",
+        "shortname": "duffinstrail",
+        "time": "09:00"
+      },
+      "Gillies Lake parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Gillies Lake parkrun",
+        "shortname": "gillieslake",
+        "time": "09:00"
+      },
+      "Kiwanis parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Kiwanis parkrun",
+        "shortname": "kiwanis",
+        "time": "09:00"
+      },
+      "Meadowvale parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Meadowvale parkrun",
+        "shortname": "meadowvale",
+        "time": "09:00"
+      },
+      "Nose Hill parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Nose Hill parkrun",
+        "shortname": "nosehill",
+        "time": "09:00"
+      },
+      "Okanagan parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Okanagan parkrun",
+        "shortname": "okanagan",
+        "time": "09:00"
+      },
+      "Orleans parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Orleans parkrun",
+        "shortname": "orleans",
+        "time": "09:00"
+      },
+      "Penticton parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Penticton parkrun",
+        "shortname": "penticton",
+        "time": "08:00"
+      },
+      "Richmond Olympic parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Richmond Olympic parkrun",
+        "shortname": "richmondolympic",
+        "time": "09:00"
+      },
+      "River Oaks parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "River Oaks parkrun",
+        "shortname": "riveroaks",
+        "time": "09:00"
+      },
+      "Trout Pond parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Trout Pond parkrun",
+        "shortname": "troutpond",
+        "time": "09:00"
+      },
+      "Victoria parkrun, Kitchener": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Victoria parkrun, Kitchener",
+        "shortname": "victoriakitchener",
+        "time": "09:00"
+      },
+      "Whistler parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Whistler parkrun",
+        "shortname": "whistler",
+        "time": "09:00"
+      },
+      "Whitby parkrun": {
+        "country_code": "ca",
+        "country_domain": "www.parkrun.ca",
+        "longname": "Whitby parkrun",
+        "shortname": "whitby",
+        "time": "09:00"
+      }
+    },
+    "index": 2
+  },
   "New Year's Day": {
     "date": "2020-01-01",
     "events": {
@@ -164,6 +289,6 @@
         "time": "09:00"
       }
     },
-    "index": 2
+    "index": 3
   }
 }

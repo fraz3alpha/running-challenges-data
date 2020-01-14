@@ -1,4 +1,31 @@
 {
+  "Nationaldagen": {
+    "date": null,
+    "events": {
+      "Kungs\u00e4ngen parkrun": {
+        "country_code": "se",
+        "country_domain": "www.parkrun.se",
+        "longname": "Kungs\u00e4ngen parkrun",
+        "shortname": "kungsangen",
+        "time": "09:30"
+      },
+      "Malm\u00f6 Ribersborg parkrun": {
+        "country_code": "se",
+        "country_domain": "www.parkrun.se",
+        "longname": "Malm\u00f6 Ribersborg parkrun",
+        "shortname": "malmoribersborg",
+        "time": "09:30"
+      },
+      "\u00d6rebro parkrun": {
+        "country_code": "se",
+        "country_domain": "www.parkrun.se",
+        "longname": "\u00d6rebro parkrun",
+        "shortname": "orebro",
+        "time": "09:30"
+      }
+    },
+    "index": 2
+  },
   "New Year's Day": {
     "date": "2020-01-01",
     "events": {
@@ -10,6 +37,6 @@
         "time": "11:00"
       }
     },
-    "index": 2
+    "index": 3
   }
 }
