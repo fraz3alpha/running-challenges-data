@@ -590,13 +590,6 @@
         "shortname": "dintonpastures",
         "time": "09:00"
       },
-      "Doncaster parkrun": {
-        "country_code": "uk",
-        "country_domain": "www.parkrun.org.uk",
-        "longname": "Doncaster parkrun",
-        "shortname": "doncaster",
-        "time": "09:00"
-      },
       "Drumpellier Country parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -1505,6 +1498,13 @@
         "country_domain": "www.parkrun.org.uk",
         "longname": "Rushmoor parkrun",
         "shortname": "rushmoor",
+        "time": "09:00"
+      },
+      "Sandall Park parkrun": {
+        "country_code": "uk",
+        "country_domain": "www.parkrun.org.uk",
+        "longname": "Sandall Park parkrun",
+        "shortname": "sandallpark",
         "time": "09:00"
       },
       "Seaton parkrun": {
