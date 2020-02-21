@@ -9,11 +9,14 @@ git config user.name "travis-data-auto-updater"
 git add data/
 git status
 
+git diff-index --name-only HEAD --
+
 CHANGED=$(git diff-index --name-only HEAD --)
 
 if [ ! -z "${CHANGED}" ]; then 
 
-    git commit --message "Travis build: $TRAVIS_BUILD_NUMBER\\n\\n  - Triggered by ${TRAVIS_EVENT_TYPE}"
+    git commit --message "Travis build: $TRAVIS_BUILD_NUMBER
+  - Triggered by ${TRAVIS_EVENT_TYPE}"
     git log -1
 
     if [ "${TRAVIS_BRANCH}" == "master" ]; then
