@@ -17,6 +17,7 @@ script:
    # Get the special event information.
    - echo "${TRAVIS_BUILD_DIR}" && ls "${TRAVIS_BUILD_DIR}"
    - cd "${TRAVIS_BUILD_DIR}/data/parkrun-special-events" && ./fetch.sh && python ${TRAVIS_BUILD_DIR}/scripts/parkrun-special-events/parkrun-special-events.py --data-dir="${TRAVIS_BUILD_DIR}/data/parkrun-special-events"
+   # Add all the generated files to the repo
    - cd ${TRAVIS_BUILD_DIR}/ && ${TRAVIS_BUILD_DIR}/scripts/github/commit-and-push-data.sh
 
 
