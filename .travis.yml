@@ -13,6 +13,7 @@ script:
    # The wiki page can be slow to load, or missing on occasion, so it would be
    # very useful to cache this away from parkrun's servers.
    # - python scripts/parkrun-geo/parkrun-geo.py
+   - python scripts/parkrun-geo/parkrun-geo.py --output-data-dir ${TRAVIS_BUILD_DIR}/data/parkrun-geo
    # Get the special event information.
    - echo "${TRAVIS_BUILD_DIR}" && ls "${TRAVIS_BUILD_DIR}"
    - cd "${TRAVIS_BUILD_DIR}/data/parkrun-special-events" && ./fetch.sh && python ${TRAVIS_BUILD_DIR}/scripts/parkrun-special-events/parkrun-special-events.py --data-dir="${TRAVIS_BUILD_DIR}/data/parkrun-special-events"
