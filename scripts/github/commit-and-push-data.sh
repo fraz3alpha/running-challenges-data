@@ -22,7 +22,7 @@ if [ ! -z "${CHANGED}" ]; then
 
             git remote add origin-data https://${GITHUB_TOKEN_RUNNING_CHALLENGES_DATA}@github.com/fraz3alpha/running-challenges-data.git
             echo "Pushing commit to upstream"
-            git push --quiet --set-upstream origin-data master
+            # git push --quiet --set-upstream origin-data master
         else
             echo "Skipping push as GitHub token not available"
         fi
@@ -31,5 +31,5 @@ if [ ! -z "${CHANGED}" ]; then
     fi
 
 else
-    echo "No changes to commit"
+    echo "No changes to commit, CHANGED=${CHANGED}"
 fi
