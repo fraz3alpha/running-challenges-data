@@ -205,7 +205,7 @@ for country_code, raw_file_path in input_files.items():
     print('Processing {} - {}'.format(country_code, raw_file_path))
 
     soup = None
-    with open(raw_file_path, 'r') as FH:
+    with open(raw_file_path, 'rb') as FH:
         html_doc = FH.read()
         soup = BeautifulSoup(html_doc, 'html.parser')
 
