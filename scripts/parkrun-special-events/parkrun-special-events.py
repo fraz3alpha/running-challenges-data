@@ -70,6 +70,9 @@ def parse_special_events_table(table, country_code, special_events_data, year):
                 'country_code': country_code
             }
             cells = r.find_all('td')
+            if 'Event' not in column_map:
+                print('Unable to find which column contains the event - known columns are {}, you may need to add a translation'.format(','.join(column_map.keys())))
+
             event_info['longname'] = cells[column_map['Event']].get_text().strip()
             event_url = cells[column_map['Event']].find('a')
             if event_url is not None:
@@ -145,12 +148,14 @@ special_events_data = {
             'Standorte',
             'Evento',
             'Lokalizacja',
-            'Забег'
+            'Забег',
+            'Footing'
         ],
         'Region': [
             'Område',
             'Regione',
-            'Регион'
+            'Регион',
+            'Région'
         ],
         'Thanksgiving': [
         ],
