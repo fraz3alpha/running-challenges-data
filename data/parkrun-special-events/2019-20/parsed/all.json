@@ -320,131 +320,6 @@
     },
     "index": 2
   },
-  "Canada Day": {
-    "date": null,
-    "events": {
-      "Beach Strip parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Beach Strip parkrun",
-        "shortname": "beachstrip",
-        "time": "00:00"
-      },
-      "Bellevue parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Bellevue parkrun",
-        "shortname": "bellevue",
-        "time": "08:30"
-      },
-      "Clover Point parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Clover Point parkrun",
-        "shortname": "cloverpoint",
-        "time": "08:00"
-      },
-      "Duffins Trail parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Duffins Trail parkrun",
-        "shortname": "duffinstrail",
-        "time": "09:00"
-      },
-      "Gillies Lake parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Gillies Lake parkrun",
-        "shortname": "gillieslake",
-        "time": "09:00"
-      },
-      "Kiwanis parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Kiwanis parkrun",
-        "shortname": "kiwanis",
-        "time": "09:00"
-      },
-      "Meadowvale parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Meadowvale parkrun",
-        "shortname": "meadowvale",
-        "time": "09:00"
-      },
-      "Nose Hill parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Nose Hill parkrun",
-        "shortname": "nosehill",
-        "time": "09:00"
-      },
-      "Okanagan parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Okanagan parkrun",
-        "shortname": "okanagan",
-        "time": "09:00"
-      },
-      "Orleans parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Orleans parkrun",
-        "shortname": "orleans",
-        "time": "09:00"
-      },
-      "Penticton parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Penticton parkrun",
-        "shortname": "penticton",
-        "time": "08:00"
-      },
-      "Richmond Olympic parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Richmond Olympic parkrun",
-        "shortname": "richmondolympic",
-        "time": "09:00"
-      },
-      "River Oaks parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "River Oaks parkrun",
-        "shortname": "riveroaks",
-        "time": "09:00"
-      },
-      "Trout Pond parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Trout Pond parkrun",
-        "shortname": "troutpond",
-        "time": "09:00"
-      },
-      "Victoria parkrun, Kitchener": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Victoria parkrun, Kitchener",
-        "shortname": "victoriakitchener",
-        "time": "09:00"
-      },
-      "Whistler parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Whistler parkrun",
-        "shortname": "whistler",
-        "time": "09:00"
-      },
-      "Whitby parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Whitby parkrun",
-        "shortname": "whitby",
-        "time": "09:00"
-      }
-    },
-    "index": 2
-  },
   "Christmas Day": {
     "date": "2019-12-25",
     "events": {
@@ -3523,11 +3398,6 @@
     },
     "index": 2
   },
-  "Freedom Day": {
-    "date": null,
-    "events": {},
-    "index": 2
-  },
   "Malaysia Day": {
     "date": null,
     "events": {},
@@ -3536,33 +3406,6 @@
   "National Day": {
     "date": null,
     "events": {},
-    "index": 2
-  },
-  "Nationaldagen": {
-    "date": null,
-    "events": {
-      "Kungs\u00e4ngen parkrun": {
-        "country_code": "se",
-        "country_domain": "www.parkrun.se",
-        "longname": "Kungs\u00e4ngen parkrun",
-        "shortname": "kungsangen",
-        "time": "09:30"
-      },
-      "Malm\u00f6 Ribersborg parkrun": {
-        "country_code": "se",
-        "country_domain": "www.parkrun.se",
-        "longname": "Malm\u00f6 Ribersborg parkrun",
-        "shortname": "malmoribersborg",
-        "time": "09:30"
-      },
-      "\u00d6rebro parkrun": {
-        "country_code": "se",
-        "country_domain": "www.parkrun.se",
-        "longname": "\u00d6rebro parkrun",
-        "shortname": "orebro",
-        "time": "09:30"
-      }
-    },
     "index": 2
   },
   "New Year's Day": {
@@ -3645,13 +3488,6 @@
         "shortname": "aliceholt",
         "time": "10:30"
       },
-      "Aliwal North parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Aliwal North parkrun",
-        "shortname": "aliwalnorth",
-        "time": "08:00"
-      },
       "Ally Pally parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -3728,13 +3564,6 @@
         "longname": "Atherton parkrun",
         "shortname": "atherton",
         "time": "07:00"
-      },
-      "Atlasville parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Atlasville parkrun",
-        "shortname": "atlasville",
-        "time": "07:30"
       },
       "Aveley parkrun": {
         "country_code": "au",
@@ -3876,13 +3705,6 @@
         "shortname": "bathurst",
         "time": "07:30"
       },
-      "Beach Strip parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Beach Strip parkrun",
-        "shortname": "beachstrip",
-        "time": "10:30"
-      },
       "Beckenham Place parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -3910,13 +3732,6 @@
         "longname": "Bellerive parkrun",
         "shortname": "bellerive",
         "time": "10:30"
-      },
-      "Bellville parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Bellville parkrun",
-        "shortname": "bellville",
-        "time": "08:00"
       },
       "Belton House parkrun": {
         "country_code": "uk",
@@ -3959,13 +3774,6 @@
         "longname": "Bexley parkrun",
         "shortname": "bexley",
         "time": "10:30"
-      },
-      "Bezuidenhout parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Bezuidenhout parkrun",
-        "shortname": "bezuidenhout",
-        "time": "07:30"
       },
       "Bibra Lake parkrun": {
         "country_code": "au",
@@ -4100,20 +3908,6 @@
         "shortname": "braunstone",
         "time": "10:30"
       },
-      "Breakwater parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Breakwater parkrun",
-        "shortname": "breakwater",
-        "time": "09:00"
-      },
-      "Breede Valley parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Breede Valley parkrun",
-        "shortname": "breedevalley",
-        "time": "08:00"
-      },
       "Brickfields parkrun": {
         "country_code": "ie",
         "country_domain": "www.parkrun.ie",
@@ -4155,13 +3949,6 @@
         "longname": "Brundall parkrun",
         "shortname": "brundall",
         "time": "10:00"
-      },
-      "Bryanston parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Bryanston parkrun",
-        "shortname": "bryanston",
-        "time": "07:30"
       },
       "Bryn Bach parkrun": {
         "country_code": "uk",
@@ -4408,13 +4195,6 @@
         "shortname": "catton",
         "time": "08:30"
       },
-      "Central parkrun, Burnaby": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Central parkrun, Burnaby",
-        "shortname": "centralburnaby",
-        "time": "08:30"
-      },
       "Centre Vale parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -4477,20 +4257,6 @@
         "longname": "Chippenham parkrun",
         "shortname": "chippenham",
         "time": "10:30"
-      },
-      "Christiana parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Christiana parkrun",
-        "shortname": "christiana",
-        "time": "06:30"
-      },
-      "Churchill Parkway parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Churchill Parkway parkrun",
-        "shortname": "churchillparkway",
-        "time": "10:00"
       },
       "Churchill parkrun": {
         "country_code": "au",
@@ -4568,13 +4334,6 @@
         "longname": "Clonmel parkrun",
         "shortname": "clonmel",
         "time": "11:00"
-      },
-      "Clover Point parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Clover Point parkrun",
-        "shortname": "cloverpoint",
-        "time": "09:00"
       },
       "Clumber Park parkrun": {
         "country_code": "uk",
@@ -4807,13 +4566,6 @@
         "shortname": "delamere",
         "time": "09:00"
       },
-      "Delta parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Delta parkrun",
-        "shortname": "delta",
-        "time": "09:30"
-      },
       "Depot Park parkrun": {
         "country_code": "us",
         "country_domain": "www.parkrun.us",
@@ -4849,13 +4601,6 @@
         "shortname": "dintonpastures",
         "time": "08:30"
       },
-      "Downsview parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Downsview parkrun",
-        "shortname": "downsview",
-        "time": "10:00"
-      },
       "Druridge Bay parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -4869,20 +4614,6 @@
         "longname": "Dubbo parkrun",
         "shortname": "dubbo",
         "time": "08:00"
-      },
-      "Duffins Trail parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Duffins Trail parkrun",
-        "shortname": "duffinstrail",
-        "time": "10:30"
-      },
-      "Duikersdrift parkrun, Tulbagh": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Duikersdrift parkrun, Tulbagh",
-        "shortname": "duikersdrift",
-        "time": "08:30"
       },
       "Dulwich parkrun": {
         "country_code": "uk",
@@ -4918,13 +4649,6 @@
         "longname": "Durham parkrun",
         "shortname": "durham",
         "time": "10:30"
-      },
-      "Dusi parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Dusi parkrun",
-        "shortname": "dusi",
-        "time": "07:30"
       },
       "East Brighton parkrun": {
         "country_code": "uk",
@@ -4975,13 +4699,6 @@
         "shortname": "edenproject",
         "time": "09:00"
       },
-      "Edenvale parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Edenvale parkrun",
-        "shortname": "edenvale",
-        "time": "07:30"
-      },
       "Eglinton parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -5016,13 +4733,6 @@
         "longname": "Enniskillen parkrun",
         "shortname": "enniskillen",
         "time": "09:30"
-      },
-      "Eramosa River Trail parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Eramosa River Trail parkrun",
-        "shortname": "eramosarivertrail",
-        "time": "10:00"
       },
       "Erris parkrun": {
         "country_code": "ie",
@@ -5087,26 +4797,12 @@
         "shortname": "ferrymeadows",
         "time": "09:00"
       },
-      "Ferryvale parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Ferryvale parkrun",
-        "shortname": "ferryvale",
-        "time": "07:30"
-      },
       "Fingal Bay parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Fingal Bay parkrun",
         "shortname": "fingalbay",
         "time": "08:00"
-      },
-      "Fish Hoek parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Fish Hoek parkrun",
-        "shortname": "fishhoek",
-        "time": "07:30"
       },
       "Flaxmere parkrun": {
         "country_code": "nz",
@@ -5178,13 +4874,6 @@
         "shortname": "foster",
         "time": "08:00"
       },
-      "Franschhoek parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Franschhoek parkrun",
-        "shortname": "franschhoek",
-        "time": "08:00"
-      },
       "Frickley Country parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -5248,25 +4937,11 @@
         "shortname": "georgetown",
         "time": "09:00"
       },
-      "George parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "George parkrun",
-        "shortname": "george",
-        "time": "08:00"
-      },
       "Georgengarten parkrun": {
         "country_code": "de",
         "country_domain": "www.parkrun.com.de",
         "longname": "Georgengarten parkrun",
         "shortname": "georgengarten",
-        "time": "10:30"
-      },
-      "Gillies Lake parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Gillies Lake parkrun",
-        "shortname": "gillieslake",
         "time": "10:30"
       },
       "Girvan Prom parkrun": {
@@ -5323,13 +4998,6 @@
         "country_domain": "www.parkrun.com.au",
         "longname": "Golden Beach parkrun",
         "shortname": "goldenbeach",
-        "time": "08:00"
-      },
-      "Golden Harvest parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Golden Harvest parkrun",
-        "shortname": "goldenharvest",
         "time": "08:00"
       },
       "Goolwa parkrun": {
@@ -5430,13 +5098,6 @@
         "shortname": "gunpowder",
         "time": "09:00"
       },
-      "Haga parkrun": {
-        "country_code": "se",
-        "country_domain": "www.parkrun.se",
-        "longname": "Haga parkrun",
-        "shortname": "haga",
-        "time": "11:00"
-      },
       "Hagley parkrun": {
         "country_code": "nz",
         "country_domain": "www.parkrun.co.nz",
@@ -5458,13 +5119,6 @@
         "shortname": "haldonforest",
         "time": "10:30"
       },
-      "Halls parkrun, Nelspruit": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Halls parkrun, Nelspruit",
-        "shortname": "halls",
-        "time": "08:00"
-      },
       "Hamilton Lake parkrun": {
         "country_code": "nz",
         "country_domain": "www.parkrun.co.nz",
@@ -5484,13 +5138,6 @@
         "country_domain": "www.parkrun.org.uk",
         "longname": "Hanley parkrun",
         "shortname": "hanley",
-        "time": "09:00"
-      },
-      "Harkerville parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Harkerville parkrun",
-        "shortname": "harkerville",
         "time": "09:00"
       },
       "Harrogate junior parkrun": {
@@ -5577,13 +5224,6 @@
         "shortname": "haverhill",
         "time": "10:30"
       },
-      "Hazeldean Farm parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Hazeldean Farm parkrun",
-        "shortname": "hazeldeanfarm",
-        "time": "09:30"
-      },
       "Hazlehead parkrun, Aberdeen": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -5598,20 +5238,6 @@
         "shortname": "heartlands",
         "time": "08:30"
       },
-      "Heidedal parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Heidedal parkrun",
-        "shortname": "heidedal",
-        "time": "06:30"
-      },
-      "Henderson Lake parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Henderson Lake parkrun",
-        "shortname": "hendersonlake",
-        "time": "10:30"
-      },
       "Henley-on-Thames parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -5625,13 +5251,6 @@
         "longname": "Henstridge Airfield parkrun",
         "shortname": "henstridgeairfield",
         "time": "09:00"
-      },
-      "Hermanus parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Hermanus parkrun",
-        "shortname": "hermanus",
-        "time": "07:30"
       },
       "Herrington Country parkrun": {
         "country_code": "uk",
@@ -5738,13 +5357,6 @@
         "shortname": "holkham",
         "time": "10:30"
       },
-      "Homestead Lake parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Homestead Lake parkrun",
-        "shortname": "homesteadlake",
-        "time": "09:00"
-      },
       "Horsham parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -5822,13 +5434,6 @@
         "shortname": "hyndburn",
         "time": "10:30"
       },
-      "Imonti parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Imonti parkrun",
-        "shortname": "imonti",
-        "time": "07:30"
-      },
       "Inch Beach parkrun": {
         "country_code": "ie",
         "country_domain": "www.parkrun.ie",
@@ -5892,13 +5497,6 @@
         "shortname": "jindabyne",
         "time": "08:00"
       },
-      "Jock Trail parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Jock Trail parkrun",
-        "shortname": "jocktrail",
-        "time": "08:00"
-      },
       "Jubilee Way parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -5927,13 +5525,6 @@
         "shortname": "kalgoorlieboulder",
         "time": "08:00"
       },
-      "Kanata parkrun, Ottawa": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Kanata parkrun, Ottawa",
-        "shortname": "kanata",
-        "time": "10:30"
-      },
       "Kapiti Coast parkrun": {
         "country_code": "nz",
         "country_domain": "www.parkrun.co.nz",
@@ -5947,20 +5538,6 @@
         "longname": "Karkarook parkrun",
         "shortname": "karkarook",
         "time": "09:30"
-      },
-      "Kathu parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Kathu parkrun",
-        "shortname": "kathu",
-        "time": "07:00"
-      },
-      "Kei Mouth parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Kei Mouth parkrun",
-        "shortname": "keimouth",
-        "time": "07:30"
       },
       "Kennington Reservoir parkrun": {
         "country_code": "au",
@@ -6003,13 +5580,6 @@
         "longname": "Killerton parkrun",
         "shortname": "killerton",
         "time": "08:30"
-      },
-      "Kimberley parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Kimberley parkrun",
-        "shortname": "kimberley",
-        "time": "07:00"
       },
       "King George V Playing Field parkrun": {
         "country_code": "uk",
@@ -6074,33 +5644,12 @@
         "shortname": "knowsley",
         "time": "10:30"
       },
-      "Knysna parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Knysna parkrun",
-        "shortname": "knysna",
-        "time": "07:30"
-      },
       "Koonwarra parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Koonwarra parkrun",
         "shortname": "koonwarra",
         "time": "09:00"
-      },
-      "Koster parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Koster parkrun",
-        "shortname": "koster",
-        "time": "08:30"
-      },
-      "Kraalkop parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Kraalkop parkrun",
-        "shortname": "kraalkop",
-        "time": "08:00"
       },
       "Kr\u00e4herwald parkrun": {
         "country_code": "de",
@@ -6115,13 +5664,6 @@
         "longname": "K\u00fcchenholz parkrun",
         "shortname": "kuechenholz",
         "time": "08:30"
-      },
-      "Lady Slipper parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Lady Slipper parkrun",
-        "shortname": "ladyslipper",
-        "time": "09:30"
       },
       "Lake Mac parkrun": {
         "country_code": "au",
@@ -6143,13 +5685,6 @@
         "longname": "Lancaster parkrun",
         "shortname": "lancaster",
         "time": "09:00"
-      },
-      "Langenhoven parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Langenhoven parkrun",
-        "shortname": "langenhoven",
-        "time": "08:00"
       },
       "Largs Bay parkrun": {
         "country_code": "au",
@@ -6361,13 +5896,6 @@
         "shortname": "lowestoft",
         "time": "09:30"
       },
-      "Loxton parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Loxton parkrun",
-        "shortname": "loxton",
-        "time": "07:00"
-      },
       "Ludlow parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -6466,13 +5994,6 @@
         "shortname": "manorfieldwhittlesey",
         "time": "10:30"
       },
-      "Mapetla parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Mapetla parkrun",
-        "shortname": "mapetla",
-        "time": "07:30"
-      },
       "March parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -6529,13 +6050,6 @@
         "shortname": "meadowbrook",
         "time": "08:30"
       },
-      "Meadowvale parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Meadowvale parkrun",
-        "shortname": "meadowvale",
-        "time": "10:30"
-      },
       "Medina I.O.W. parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -6564,26 +6078,12 @@
         "shortname": "mernda",
         "time": "08:00"
       },
-      "Middelburg parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Middelburg parkrun",
-        "shortname": "middelburg",
-        "time": "08:00"
-      },
       "Middleton Woods parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
         "longname": "Middleton Woods parkrun",
         "shortname": "middletonwoods",
         "time": "08:30"
-      },
-      "Midstream parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Midstream parkrun",
-        "shortname": "midstream",
-        "time": "08:00"
       },
       "Mildura Weir parkrun": {
         "country_code": "au",
@@ -6626,20 +6126,6 @@
         "longname": "Moana parkrun",
         "shortname": "moana",
         "time": "08:00"
-      },
-      "Mofolo parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Mofolo parkrun",
-        "shortname": "mofolo",
-        "time": "09:00"
-      },
-      "Mogol parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Mogol parkrun",
-        "shortname": "mogol",
-        "time": "07:00"
       },
       "Mole Valley parkrun": {
         "country_code": "uk",
@@ -6746,13 +6232,6 @@
         "shortname": "mullummullum",
         "time": "09:30"
       },
-      "Mundy parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Mundy parkrun",
-        "shortname": "mundy",
-        "time": "10:30"
-      },
       "Mungret parkrun": {
         "country_code": "ie",
         "country_domain": "www.parkrun.ie",
@@ -6780,13 +6259,6 @@
         "longname": "Narin Beach parkrun",
         "shortname": "narinbeach",
         "time": "09:30"
-      },
-      "Nautical parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Nautical parkrun",
-        "shortname": "nautical",
-        "time": "09:00"
       },
       "Neckarau parkrun": {
         "country_code": "de",
@@ -6900,13 +6372,6 @@
         "shortname": "normanbyhall",
         "time": "09:00"
       },
-      "North Bay parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "North Bay parkrun",
-        "shortname": "northbay",
-        "time": "10:00"
-      },
       "North Shore parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -6956,13 +6421,6 @@
         "shortname": "northwich",
         "time": "10:30"
       },
-      "Nose Hill parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Nose Hill parkrun",
-        "shortname": "nosehill",
-        "time": "10:00"
-      },
       "Nostell parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -6984,13 +6442,6 @@
         "shortname": "oak-hill",
         "time": "10:30"
       },
-      "Okanagan parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Okanagan parkrun",
-        "shortname": "okanagan",
-        "time": "09:00"
-      },
       "Old Deer Park parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -7004,13 +6455,6 @@
         "longname": "Oldham parkrun",
         "shortname": "oldham",
         "time": "10:30"
-      },
-      "Omeya parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Omeya parkrun",
-        "shortname": "omeya",
-        "time": "07:00"
       },
       "Orange parkrun": {
         "country_code": "au",
@@ -7103,13 +6547,6 @@
         "shortname": "parramatta",
         "time": "07:30"
       },
-      "Parys parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Parys parkrun",
-        "shortname": "parys",
-        "time": "09:00"
-      },
       "Peacehaven parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -7180,13 +6617,6 @@
         "shortname": "penrose",
         "time": "10:30"
       },
-      "Penticton parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Penticton parkrun",
-        "shortname": "penticton",
-        "time": "09:30"
-      },
       "Perrigo parkrun": {
         "country_code": "us",
         "country_domain": "www.parkrun.us",
@@ -7228,20 +6658,6 @@
         "longname": "Phoenix parkrun",
         "shortname": "phoenix",
         "time": "10:30"
-      },
-      "Piet Retief parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Piet Retief parkrun",
-        "shortname": "pietretief",
-        "time": "07:00"
-      },
-      "Piggly Wiggly parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Piggly Wiggly parkrun",
-        "shortname": "pigglywiggly",
-        "time": "09:30"
       },
       "Pioneer parkrun": {
         "country_code": "au",
@@ -7320,13 +6736,6 @@
         "shortname": "porirua",
         "time": "09:30"
       },
-      "Port Alfred parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Port Alfred parkrun",
-        "shortname": "portalfred",
-        "time": "08:00"
-      },
       "Port Augusta parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -7397,13 +6806,6 @@
         "shortname": "portrush",
         "time": "09:30"
       },
-      "Potchefstroom parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Potchefstroom parkrun",
-        "shortname": "potchefstroom",
-        "time": "07:00"
-      },
       "Potternewton parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -7431,13 +6833,6 @@
         "longname": "Prudhoe Riverside parkrun",
         "shortname": "prudhoeriverside",
         "time": "10:30"
-      },
-      "Python parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Python parkrun",
-        "shortname": "python",
-        "time": "09:30"
       },
       "Queen Elizabeth parkrun": {
         "country_code": "uk",
@@ -7516,13 +6911,6 @@
         "shortname": "rhodes",
         "time": "08:30"
       },
-      "Richmond Olympic parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Richmond Olympic parkrun",
-        "shortname": "richmondolympic",
-        "time": "10:30"
-      },
       "Richmond parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -7550,13 +6938,6 @@
         "longname": "Riemer parkrun",
         "shortname": "riemer",
         "time": "10:30"
-      },
-      "River Oaks parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "River Oaks parkrun",
-        "shortname": "riveroaks",
-        "time": "09:00"
       },
       "River Valley parkrun": {
         "country_code": "ie",
@@ -7586,13 +6967,6 @@
         "shortname": "riverway",
         "time": "08:00"
       },
-      "Riviera on Vaal parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Riviera on Vaal parkrun",
-        "shortname": "rivieraonvaal",
-        "time": "07:30"
-      },
       "Rocks Riverside parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -7614,20 +6988,6 @@
         "shortname": "romapineto",
         "time": "10:30"
       },
-      "Rondebosch Common parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Rondebosch Common parkrun",
-        "shortname": "rondeboschcommon",
-        "time": "08:00"
-      },
-      "Roodepoort parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Roodepoort parkrun",
-        "shortname": "roodepoort",
-        "time": "07:30"
-      },
       "Rooty Hill parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -7647,13 +7007,6 @@
         "country_domain": "www.parkrun.com.au",
         "longname": "Rosebud parkrun",
         "shortname": "rosebud",
-        "time": "07:30"
-      },
-      "Roses parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Roses parkrun",
-        "shortname": "roses",
         "time": "07:30"
       },
       "Rosliston parkrun": {
@@ -7747,13 +7100,6 @@
         "shortname": "sale",
         "time": "09:30"
       },
-      "Sand River parkrun, Virginia": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Sand River parkrun, Virginia",
-        "shortname": "sandriver",
-        "time": "07:30"
-      },
       "Sandgate parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -7766,13 +7112,6 @@
         "country_domain": "www.parkrun.com.au",
         "longname": "Sandon Point parkrun",
         "shortname": "sandonpoint",
-        "time": "09:30"
-      },
-      "Sardinia Bay parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Sardinia Bay parkrun",
-        "shortname": "sardiniabay",
         "time": "09:30"
       },
       "Schwanenteich parkrun": {
@@ -7802,13 +7141,6 @@
         "longname": "Seaford Beach parkrun",
         "shortname": "seafordbeach",
         "time": "09:00"
-      },
-      "Secunda parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Secunda parkrun",
-        "shortname": "secunda",
-        "time": "07:30"
       },
       "Sedgefield parkrun": {
         "country_code": "uk",
@@ -7886,13 +7218,6 @@
         "longname": "Shrewsbury parkrun",
         "shortname": "shrewsbury",
         "time": "08:30"
-      },
-      "Silveroaks parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Silveroaks parkrun",
-        "shortname": "silveroaks",
-        "time": "09:30"
       },
       "Sippo Lake parkrun": {
         "country_code": "us",
@@ -8006,13 +7331,6 @@
         "shortname": "speyerleinpfad",
         "time": "08:30"
       },
-      "Springs parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Springs parkrun",
-        "shortname": "springs",
-        "time": "07:30"
-      },
       "Squerryes Winery parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -8055,13 +7373,6 @@
         "shortname": "stpeters",
         "time": "09:00"
       },
-      "Standerton parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Standerton parkrun",
-        "shortname": "standerton",
-        "time": "09:30"
-      },
       "Stanthorpe parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -8075,13 +7386,6 @@
         "longname": "Stavanger parkrun",
         "shortname": "stavanger",
         "time": "10:30"
-      },
-      "Sterkfontein parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Sterkfontein parkrun",
-        "shortname": "sterkfontein",
-        "time": "09:30"
       },
       "Stevenage parkrun": {
         "country_code": "uk",
@@ -8174,13 +7478,6 @@
         "shortname": "sunbury",
         "time": "09:30"
       },
-      "Sunrise-on-Sea parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Sunrise-on-Sea parkrun",
-        "shortname": "sunriseonsea",
-        "time": "09:30"
-      },
       "Surfers Paradise parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -8201,13 +7498,6 @@
         "longname": "Swaffham parkrun",
         "shortname": "swaffham",
         "time": "09:00"
-      },
-      "Swakopmund parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Swakopmund parkrun",
-        "shortname": "swakopmund",
-        "time": "09:30"
       },
       "Swansea Bay parkrun": {
         "country_code": "uk",
@@ -8328,13 +7618,6 @@
         "shortname": "theterrace",
         "time": "08:00"
       },
-      "The Venue parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "The Venue parkrun",
-        "shortname": "thevenue",
-        "time": "08:30"
-      },
       "The Wammy parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -8355,13 +7638,6 @@
         "longname": "Thetford parkrun",
         "shortname": "thetford",
         "time": "09:00"
-      },
-      "Thousand Hills parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Thousand Hills parkrun",
-        "shortname": "thousandhills",
-        "time": "08:00"
       },
       "Thurrock parkrun, Orsett Heath": {
         "country_code": "uk",
@@ -8454,13 +7730,6 @@
         "shortname": "troon",
         "time": "11:00"
       },
-      "Trout Pond parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Trout Pond parkrun",
-        "shortname": "troutpond",
-        "time": "10:00"
-      },
       "Tuggeranong parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -8488,20 +7757,6 @@
         "longname": "T\u00f8yen parkrun",
         "shortname": "toyen",
         "time": "10:00"
-      },
-      "Umhlanga parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Umhlanga parkrun",
-        "shortname": "umhlanga",
-        "time": "08:00"
-      },
-      "Upington parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Upington parkrun",
-        "shortname": "upington",
-        "time": "07:00"
       },
       "Upton Court parkrun": {
         "country_code": "uk",
@@ -8573,13 +7828,6 @@
         "shortname": "vogrie",
         "time": "11:00"
       },
-      "Vredendal parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Vredendal parkrun",
-        "shortname": "vredendal",
-        "time": "07:00"
-      },
       "Wallaby Track parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -8593,13 +7841,6 @@
         "longname": "Walmer and Deal Seafront parkrun",
         "shortname": "walmeranddealseafront",
         "time": "08:30"
-      },
-      "Walvis Bay parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Walvis Bay parkrun",
-        "shortname": "walvisbay",
-        "time": "07:30"
       },
       "Wangaratta parkrun": {
         "country_code": "au",
@@ -8650,13 +7891,6 @@
         "shortname": "warwick",
         "time": "07:00"
       },
-      "Wascana parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Wascana parkrun",
-        "shortname": "wascana",
-        "time": "10:30"
-      },
       "Watergrove parkrun, Rochdale": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
@@ -8684,20 +7918,6 @@
         "longname": "Wauchope parkrun",
         "shortname": "wauchope",
         "time": "08:30"
-      },
-      "Welkom parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Welkom parkrun",
-        "shortname": "welkom",
-        "time": "09:00"
-      },
-      "Wells Estate parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Wells Estate parkrun",
-        "shortname": "wellsestate",
-        "time": "07:30"
       },
       "Wendover Woods parkrun": {
         "country_code": "uk",
@@ -8769,20 +7989,6 @@
         "shortname": "whinlatterforest",
         "time": "10:30"
       },
-      "Whitby parkrun": {
-        "country_code": "ca",
-        "country_domain": "www.parkrun.ca",
-        "longname": "Whitby parkrun",
-        "shortname": "whitby",
-        "time": "09:00"
-      },
-      "White River parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "White River parkrun",
-        "shortname": "whiteriver",
-        "time": "07:00"
-      },
       "White Rock parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
@@ -8852,13 +8058,6 @@
         "longname": "Windsor Precinct parkrun",
         "shortname": "windsorprecinct",
         "time": "08:30"
-      },
-      "Winterton parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Winterton parkrun",
-        "shortname": "winterton",
-        "time": "08:00"
       },
       "Witney parkrun": {
         "country_code": "uk",
@@ -8985,13 +8184,6 @@
         "longname": "Yowie parkrun",
         "shortname": "yowie",
         "time": "07:00"
-      },
-      "Zandvlei parkrun": {
-        "country_code": "za",
-        "country_domain": "www.parkrun.co.za",
-        "longname": "Zandvlei parkrun",
-        "shortname": "zandvlei",
-        "time": "09:00"
       },
       "Ziegelwiese parkrun": {
         "country_code": "de",
