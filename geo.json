@@ -674,6 +674,14 @@
       "longitude": -0.124279,
       "name": "Caledonian juniors"
     },
+    "cambourne-juniors": {
+      "country_id": "97",
+      "event_id": "2781",
+      "latitude": 52.220084,
+      "local_name": "Cambourne juniors",
+      "longitude": -0.061115,
+      "name": "Cambourne juniors"
+    },
     "cambridge-juniors": {
       "country_id": "97",
       "event_id": "925",
@@ -13247,9 +13255,9 @@
     "pontefract": {
       "country_id": "97",
       "event_id": "151",
-      "latitude": 53.697226,
+      "latitude": 53.697922,
       "local_name": "Pontefract",
-      "longitude": -1.325741,
+      "longitude": -1.325197,
       "name": "Pontefract"
     },
     "pontybala": {
@@ -13307,6 +13315,14 @@
       "local_name": "Poppintree",
       "longitude": -6.286613,
       "name": "Poppintree"
+    },
+    "porchfield": {
+      "country_id": "42",
+      "event_id": "2780",
+      "latitude": 53.554741,
+      "local_name": "Porch Field",
+      "longitude": -6.782598,
+      "name": "Porch Field"
     },
     "porirua": {
       "country_id": "65",
