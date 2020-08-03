@@ -12068,6 +12068,14 @@
       "longitude": 151.76144,
       "name": "Newy"
     },
+    "newyorkcentralfitnesstrail": {
+      "country_id": "14",
+      "event_id": "2745",
+      "latitude": 45.262918,
+      "local_name": "New York Central Fitness Trail",
+      "longitude": -75.361261,
+      "name": "New York Central Fitness Trail"
+    },
     "nhill": {
       "country_id": "3",
       "event_id": "1823",
