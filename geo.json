@@ -8604,6 +8604,14 @@
       "longitude": -3.030368,
       "name": "Henley Wood, Oswestry"
     },
+    "henlowbridgelakes": {
+      "country_id": "97",
+      "event_id": "2777",
+      "latitude": 52.030537,
+      "local_name": "Henlow Bridge Lakes",
+      "longitude": -0.268787,
+      "name": "Henlow Bridge Lakes"
+    },
     "henstridgeairfield": {
       "country_id": "97",
       "event_id": "2096",
@@ -16219,6 +16227,14 @@
       "local_name": "Tyrrelstown",
       "longitude": -6.389576,
       "name": "Tyrrelstown"
+    },
+    "tytowetlands": {
+      "country_id": "3",
+      "event_id": "2778",
+      "latitude": -18.656953,
+      "local_name": "TYTO Wetlands",
+      "longitude": 146.149126,
+      "name": "TYTO Wetlands"
     },
     "tzaneen": {
       "country_id": "85",
