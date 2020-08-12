@@ -14604,6 +14604,14 @@
       "longitude": -6.114882,
       "name": "Shanganagh"
     },
+    "sharphamroadplayingfields": {
+      "country_id": "97",
+      "event_id": "2779",
+      "latitude": 51.279496,
+      "local_name": "Sharpham Road Playing Fields",
+      "longitude": -2.793181,
+      "name": "Sharpham Road Playing Fields"
+    },
     "shawniganhills": {
       "country_id": "14",
       "event_id": "2482",
