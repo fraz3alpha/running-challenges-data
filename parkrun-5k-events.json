@@ -8663,6 +8663,14 @@
     "longitude": -1.838295,
     "name": "Myrtle"
   },
+  "mytishchicentralpark": {
+    "country_id": "79",
+    "event_id": "2683",
+    "latitude": 55.910175,
+    "local_name": "Mytishchi Central Park",
+    "longitude": 37.740903,
+    "name": "Mytishchi Central Park"
+  },
   "naas": {
     "country_id": "42",
     "event_id": "741",
