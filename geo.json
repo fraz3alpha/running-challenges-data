@@ -1058,6 +1058,14 @@
       "longitude": -3.606924,
       "name": "Dumfries juniors"
     },
+    "dundalkit-juniors": {
+      "country_id": "42",
+      "event_id": "2782",
+      "latitude": 53.984453,
+      "local_name": "Dundalk IT juniors",
+      "longitude": -6.38781,
+      "name": "Dundalk IT juniors"
+    },
     "durhamcity-juniors": {
       "country_id": "97",
       "event_id": "342",

@@ -2984,7 +2984,7 @@
   "1516": {
     "e": "Somerset West parkrun",
     "ec": "South Africa",
-    "ed": "Pierre du Plessis",
+    "ed": "Marchel Pieters",
     "en": "1516",
     "es": "Live"
   },
@@ -10180,7 +10180,7 @@
   "2568": {
     "e": "Steynsrus Showground parkrun",
     "ec": "South Africa",
-    "ed": "Willie van Jaarsveld & Daleen Deacon",
+    "ed": "Willie van Jaarsveld & Danie van Schalkwyk",
     "en": "2568",
     "es": "Live"
   },
@@ -10989,6 +10989,13 @@
     "en": "2682",
     "es": "Live"
   },
+  "2683": {
+    "e": "parkrun Mytishchi Central Park",
+    "ec": "Russia",
+    "ed": "\u041b\u043e\u043b\u0435\u043d\u043a\u043e \u0410\u043d\u043d\u0430 & \u041c\u0438\u0445\u0430\u0438\u043b \u041f\u0430\u043d\u0444\u0438\u043b\u043e\u0432",
+    "en": "2683",
+    "es": "AcceptingRegistrations"
+  },
   "2684": {
     "e": "Zuiderpark parkrun",
     "ec": "Netherlands",
@@ -11533,21 +11540,21 @@
     "ec": "United Kingdom",
     "ed": "Gordon Grove",
     "en": "2777",
-    "es": "AcceptingRegistrations"
+    "es": "Live"
   },
   "2778": {
     "e": "TYTO Wetlands parkrun",
     "ec": "Australia",
     "ed": "Alya Palmer",
     "en": "2778",
-    "es": "AcceptingRegistrations"
+    "es": "Live"
   },
   "2779": {
     "e": "Sharpham Road Playing Fields parkrun",
     "ec": "United Kingdom",
     "ed": "Martin Kay",
     "en": "2779",
-    "es": "AcceptingRegistrations"
+    "es": "Live"
   },
   "278": {
     "e": "Normanby Hall parkrun",
@@ -11568,6 +11575,13 @@
     "ec": "United Kingdom",
     "ed": "Layla Fitzwilliam Hall & Kevin Morgan",
     "en": "2781",
+    "es": "AcceptingRegistrations"
+  },
+  "2782": {
+    "e": "Dundalk IT junior parkrun",
+    "ec": "Ireland",
+    "ed": "Sarah MCEneaney",
+    "en": "2782",
     "es": "AcceptingRegistrations"
   },
   "279": {
