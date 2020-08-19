@@ -12844,6 +12844,14 @@
       "longitude": 17.503069,
       "name": "Park Radoli\u0144skich"
     },
+    "parktalalikhina": {
+      "country_id": "79",
+      "event_id": "2664",
+      "latitude": 55.435256,
+      "local_name": "Park Talalikhina",
+      "longitude": 37.558998,
+      "name": "Park Talalikhina"
+    },
     "parkville": {
       "country_id": "3",
       "event_id": "1006",
