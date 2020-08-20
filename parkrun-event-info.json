@@ -9109,7 +9109,7 @@
   "2421": {
     "e": "Globe parkrun",
     "ec": "Germany",
-    "ed": "Helen Proctor & Gabi Schirmer",
+    "ed": "Gabi Schirmer & Ina R\u00fcbenstrunk",
     "en": "2421",
     "es": "Live"
   },
@@ -10869,6 +10869,13 @@
     "ed": "Stephen Moss & Charles Bruce",
     "en": "2662",
     "es": "Live"
+  },
+  "2664": {
+    "e": "parkrun Park Talalikhina",
+    "ec": "Russia",
+    "ed": "\u0414\u0430\u0440\u044c\u044f \u0420\u044b\u0436\u0438\u043a\u043e\u0432\u0430 & \u0410\u043d\u043d\u0430 \u0411\u043e\u0433\u0443\u0442",
+    "en": "2664",
+    "es": "AcceptingRegistrations"
   },
   "2665": {
     "e": "Outlook and District Regional parkrun",
