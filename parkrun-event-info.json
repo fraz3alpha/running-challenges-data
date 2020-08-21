@@ -30,7 +30,7 @@
   "1001": {
     "e": "Hereford parkrun",
     "ec": "United Kingdom",
-    "ed": "Barbara Spanjers",
+    "ed": "Jonathan Edwards",
     "en": "1001",
     "es": "Live"
   },
@@ -11589,6 +11589,13 @@
     "ec": "Ireland",
     "ed": "Sarah MCEneaney",
     "en": "2782",
+    "es": "AcceptingRegistrations"
+  },
+  "2784": {
+    "e": "Gadebridge Park junior parkrun",
+    "ec": "United Kingdom",
+    "ed": "Emma Coady",
+    "en": "2784",
     "es": "AcceptingRegistrations"
   },
   "279": {

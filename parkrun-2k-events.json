@@ -1031,6 +1031,14 @@
     "longitude": -0.162187,
     "name": "Friary Park juniors"
   },
+  "gadebridgepark-juniors": {
+    "country_id": "97",
+    "event_id": "2784",
+    "latitude": 51.760476,
+    "local_name": "Gadebridge Park juniors",
+    "longitude": -0.473894,
+    "name": "Gadebridge Park juniors"
+  },
   "gardenhurstestate-juniors": {
     "country_id": "97",
     "event_id": "2609",
