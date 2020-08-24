@@ -348,7 +348,7 @@
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
         "longname": "Albert parkrun, Melbourne",
-        "shortname": "albert-melbourne",
+        "shortname": "albertmelbourne",
         "time": "08:00"
       },
       "Albert parkrun, Middlesbrough": {
@@ -838,7 +838,7 @@
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
         "longname": "Cannon Hill parkrun, Birmingham",
-        "shortname": "cannon-hill",
+        "shortname": "cannonhill",
         "time": "09:00"
       },
       "Canons Park parkrun": {
@@ -1363,7 +1363,7 @@
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
         "longname": "Forest of Dean parkrun",
-        "shortname": "forest-of-dean",
+        "shortname": "forestofdean",
         "time": "09:00"
       },
       "Fort William parkrun": {
@@ -2350,7 +2350,7 @@
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
         "longname": "Oak Hill parkrun",
-        "shortname": "oak-hill",
+        "shortname": "oakhill",
         "time": "09:00"
       },
       "Ocean View parkrun": {
@@ -4850,7 +4850,7 @@
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
         "longname": "Forest of Dean parkrun",
-        "shortname": "forest-of-dean",
+        "shortname": "forestofdean",
         "time": "10:30"
       },
       "Foro Italico parkrun": {
@@ -6439,7 +6439,7 @@
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",
         "longname": "Oak Hill parkrun",
-        "shortname": "oak-hill",
+        "shortname": "oakhill",
         "time": "10:30"
       },
       "Old Deer Park parkrun": {
