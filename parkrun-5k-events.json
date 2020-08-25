@@ -95,7 +95,7 @@
     "longitude": -1.231788,
     "name": "Albert"
   },
-  "albert-melbourne": {
+  "albertmelbourne": {
     "country_id": "3",
     "event_id": "52",
     "latitude": -37.843521,
@@ -383,7 +383,7 @@
     "longitude": 152.972975,
     "name": "Ashgrove"
   },
-  "ashton-court": {
+  "ashtoncourt": {
     "country_id": "97",
     "event_id": "50",
     "latitude": 51.443592,
@@ -1135,14 +1135,6 @@
     "longitude": 37.548337,
     "name": "Bitsa"
   },
-  "black-park": {
-    "country_id": "97",
-    "event_id": "22",
-    "latitude": 51.540329,
-    "local_name": "Black Park",
-    "longitude": -0.5476,
-    "name": "Black Park"
-  },
   "blackbutt": {
     "country_id": "3",
     "event_id": "610",
@@ -1158,6 +1150,14 @@
     "local_name": "Blackhill",
     "longitude": -1.842366,
     "name": "Blackhill"
+  },
+  "blackpark": {
+    "country_id": "97",
+    "event_id": "22",
+    "latitude": 51.540329,
+    "local_name": "Black Park",
+    "longitude": -0.5476,
+    "name": "Black Park"
   },
   "blackpool": {
     "country_id": "97",
@@ -1943,7 +1943,7 @@
     "longitude": -1.99542,
     "name": "Cannock Chase"
   },
-  "cannon-hill": {
+  "cannonhill": {
     "country_id": "97",
     "event_id": "189",
     "latitude": 52.452637,
@@ -4135,6 +4135,14 @@
     "longitude": 27.881193,
     "name": "Ficksburg"
   },
+  "filatovlug": {
+    "country_id": "79",
+    "event_id": "2783",
+    "latitude": 55.594371,
+    "local_name": "Filatov Lug",
+    "longitude": 37.369968,
+    "name": "Filatov Lug"
+  },
   "fili": {
     "country_id": "79",
     "event_id": "2673",
@@ -4255,14 +4263,6 @@
     "longitude": -3.088135,
     "name": "Ford"
   },
-  "forest-of-dean": {
-    "country_id": "97",
-    "event_id": "68",
-    "latitude": 51.808701,
-    "local_name": "Forest of Dean",
-    "longitude": -2.605219,
-    "name": "Forest of Dean"
-  },
   "forestlake": {
     "country_id": "3",
     "event_id": "1202",
@@ -4270,6 +4270,14 @@
     "local_name": "Forest Lake",
     "longitude": 152.967745,
     "name": "Forest Lake"
+  },
+  "forestofdean": {
+    "country_id": "97",
+    "event_id": "68",
+    "latitude": 51.808701,
+    "local_name": "Forest of Dean",
+    "longitude": -2.605219,
+    "name": "Forest of Dean"
   },
   "forestrec": {
     "country_id": "97",
@@ -5087,7 +5095,7 @@
     "longitude": -0.000831,
     "name": "Gunpowder"
   },
-  "hackney-marshes": {
+  "hackneymarshes": {
     "country_id": "97",
     "event_id": "51",
     "latitude": 51.553686,
@@ -9215,14 +9223,6 @@
     "longitude": 139.006952,
     "name": "Nuriootpa"
   },
-  "oak-hill": {
-    "country_id": "97",
-    "event_id": "184",
-    "latitude": 51.637718,
-    "local_name": "Oak Hill",
-    "longitude": -0.153744,
-    "name": "Oak Hill"
-  },
   "oakey": {
     "country_id": "3",
     "event_id": "1739",
@@ -9238,6 +9238,14 @@
     "local_name": "Oak Grove",
     "longitude": -87.444258,
     "name": "Oak Grove"
+  },
+  "oakhill": {
+    "country_id": "97",
+    "event_id": "184",
+    "latitude": 51.637718,
+    "local_name": "Oak Hill",
+    "longitude": -0.153744,
+    "name": "Oak Hill"
   },
   "oaklands": {
     "country_id": "97",
