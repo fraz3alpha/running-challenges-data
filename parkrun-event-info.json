@@ -10870,6 +10870,13 @@
     "en": "2662",
     "es": "Live"
   },
+  "2663": {
+    "e": "parkrun Yoshkar-Ola Alleya Zdorovya",
+    "ec": "Russia",
+    "ed": "\u0421\u0435\u0440\u0433\u0435\u0439 \u041f\u043b\u043e\u0442\u043d\u0438\u043a\u043e\u0432 & \u0418\u0432\u0430\u043d \u0417\u0435\u043c\u0446\u043e\u0432",
+    "en": "2663",
+    "es": "AcceptingRegistrations"
+  },
   "2664": {
     "e": "parkrun Park Talalikhina",
     "ec": "Russia",
@@ -11603,6 +11610,13 @@
     "ec": "United Kingdom",
     "ed": "Emma Coady",
     "en": "2784",
+    "es": "AcceptingRegistrations"
+  },
+  "2789": {
+    "e": "Gracepoint parkrun",
+    "ec": "South Africa",
+    "ed": "Tristan Naidu",
+    "en": "2789",
     "es": "AcceptingRegistrations"
   },
   "279": {

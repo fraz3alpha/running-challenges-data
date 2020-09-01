@@ -7996,6 +7996,14 @@
       "longitude": 19.01659,
       "name": "Grabouw"
     },
+    "gracepoint": {
+      "country_id": "85",
+      "event_id": "2789",
+      "latitude": -26.002734,
+      "local_name": "Gracepoint",
+      "longitude": 28.033908,
+      "name": "Gracepoint"
+    },
     "grafton": {
       "country_id": "3",
       "event_id": "1343",
@@ -17691,6 +17699,14 @@
       "local_name": "York",
       "longitude": -1.101379,
       "name": "York"
+    },
+    "yoshkarolaalleyazdorovya": {
+      "country_id": "79",
+      "event_id": "2663",
+      "latitude": 56.626675,
+      "local_name": "Yoshkar-Ola Alleya Zdorovya",
+      "longitude": 47.908018,
+      "name": "Yoshkar-Ola Alleya Zdorovya"
     },
     "youyangs": {
       "country_id": "3",
