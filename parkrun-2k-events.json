@@ -359,6 +359,14 @@
     "longitude": -6.114437,
     "name": "Bray juniors"
   },
+  "braytonacademy-juniors": {
+    "country_id": "97",
+    "event_id": "2791",
+    "latitude": 53.774828,
+    "local_name": "Brayton Academy juniors",
+    "longitude": -1.084158,
+    "name": "Brayton Academy juniors"
+  },
   "brecklandleisurecentre-juniors": {
     "country_id": "97",
     "event_id": "2523",

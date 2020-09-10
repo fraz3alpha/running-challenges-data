@@ -7935,6 +7935,14 @@
     "longitude": 5.025433,
     "name": "M\u00e1xima"
   },
+  "maykopgorodskoypark": {
+    "country_id": "79",
+    "event_id": "2692",
+    "latitude": 44.599513,
+    "local_name": "Maykop Gorodskoy Park",
+    "longitude": 40.10295,
+    "name": "Maykop Gorodskoy Park"
+  },
   "maylandspeninsula": {
     "country_id": "3",
     "event_id": "1420",
@@ -9326,6 +9334,14 @@
     "local_name": "Ohio and Erie Canal Reservation",
     "longitude": -81.662319,
     "name": "Ohio and Erie Canal Reservation"
+  },
+  "oisoundokoen": {
+    "country_id": "46",
+    "event_id": "2762",
+    "latitude": 35.312527,
+    "local_name": "Oiso undokoen",
+    "longitude": 139.291032,
+    "name": "Oiso undokoen"
   },
   "okanagan": {
     "country_id": "14",
