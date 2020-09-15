@@ -7972,6 +7972,14 @@
       "longitude": 1.73069,
       "name": "Gorleston"
     },
+    "gorodskoyparksemya": {
+      "country_id": "79",
+      "event_id": "2634",
+      "latitude": 55.643956,
+      "local_name": "Gorodskoy Park Semya",
+      "longitude": 51.81936,
+      "name": "Gorodskoy Park Semya"
+    },
     "gorzowwielkopolski": {
       "country_id": "74",
       "event_id": "1737",

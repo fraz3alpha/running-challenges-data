@@ -1234,7 +1234,7 @@
   "1268": {
     "e": "Hove Promenade parkrun",
     "ec": "United Kingdom",
-    "ed": "Mark Brocklehurst & Georgia Carrick",
+    "ed": "Mark Brocklehurst",
     "en": "1268",
     "es": "Live"
   },
@@ -8150,7 +8150,7 @@
   "2284": {
     "e": "Penistone parkrun",
     "ec": "United Kingdom",
-    "ed": "Helen Hayton & Chris Hayton",
+    "ed": "Jolene Allen & Michael\tBarraclough",
     "en": "2284",
     "es": "Live"
   },
@@ -10667,6 +10667,13 @@
     "en": "2633",
     "es": "Live"
   },
+  "2634": {
+    "e": "parkrun Gorodskoy Park Semya",
+    "ec": "Russia",
+    "ed": "\u0420\u0430\u0438\u0441 \u0428\u0430\u0435\u0445\u043e\u0432 & \u0420\u0438\u044f\u0437 \u041c\u0438\u0444\u0442\u0430\u0445\u043e\u0432",
+    "en": "2634",
+    "es": "AcceptingRegistrations"
+  },
   "2635": {
     "e": "Wickford Memorial parkrun",
     "ec": "United Kingdom",
@@ -11790,7 +11797,7 @@
   "3": {
     "e": "Banstead Woods parkrun",
     "ec": "United Kingdom",
-    "ed": "Chris Phelan",
+    "ed": "David Freeman",
     "en": "3",
     "es": "Live"
   },
