@@ -11599,6 +11599,14 @@
     "longitude": 115.977875,
     "name": "Shipwreck"
   },
+  "shirahamakoen": {
+    "country_id": "46",
+    "event_id": "2786",
+    "latitude": 35.085906,
+    "local_name": "Shirahama koen",
+    "longitude": 137.166189,
+    "name": "Shirahama koen"
+  },
   "shiraztrail": {
     "country_id": "3",
     "event_id": "2322",
