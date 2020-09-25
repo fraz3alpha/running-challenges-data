@@ -9886,7 +9886,7 @@
   "2529": {
     "e": "Cape Pembroke Lighthouse parkrun",
     "ec": "United Kingdom",
-    "ed": "Rodrigo Cordeiro",
+    "ed": "Rodrigo Cordeiro & Richard Bullivant",
     "en": "2529",
     "es": "Live"
   },
@@ -10926,6 +10926,13 @@
     "en": "267",
     "es": "Live"
   },
+  "2670": {
+    "e": "parkrun Krzy\u017c \u015awi\u0119tego Brunona",
+    "ec": "Poland",
+    "ed": "Artur Songin",
+    "en": "2670",
+    "es": "AcceptingRegistrations"
+  },
   "2671": {
     "e": "Horspath parkrun",
     "ec": "United Kingdom",
@@ -11093,6 +11100,13 @@
     "ed": "Linda Michelmore & Tony Elberg",
     "en": "2696",
     "es": "Live"
+  },
+  "2697": {
+    "e": "St Mary\u2019s Campus junior parkrun",
+    "ec": "Ireland",
+    "ed": "Sinead Sheehan",
+    "en": "2697",
+    "es": "AcceptingRegistrations"
   },
   "2698": {
     "e": "Schoterbos parkrun",

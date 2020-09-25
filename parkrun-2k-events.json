@@ -2487,6 +2487,14 @@
     "longitude": -3.946307,
     "name": "Stirling juniors"
   },
+  "stmaryscampus-juniors": {
+    "country_id": "42",
+    "event_id": "2697",
+    "latitude": 51.90537,
+    "local_name": "St Mary\u2019s Campus juniors",
+    "longitude": -8.500633,
+    "name": "St Mary\u2019s Campus juniors"
+  },
   "stokesbay-juniors": {
     "country_id": "97",
     "event_id": "238",

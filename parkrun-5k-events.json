@@ -9023,14 +9023,6 @@
     "longitude": -4.481846,
     "name": "Nobles"
   },
-  "noblevillage": {
-    "country_id": "85",
-    "event_id": "2309",
-    "latitude": -25.917707,
-    "local_name": "Noble Village",
-    "longitude": 27.60878,
-    "name": "Noble Village"
-  },
   "noginskgorodskoypark": {
     "country_id": "79",
     "event_id": "2526",
