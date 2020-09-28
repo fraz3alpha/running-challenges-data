@@ -9319,6 +9319,14 @@
     "longitude": 136.957196,
     "name": "Odakaryokuchi"
   },
+  "offenthal": {
+    "country_id": "32",
+    "event_id": "2750",
+    "latitude": 49.987123,
+    "local_name": "Offenthal",
+    "longitude": 8.753985,
+    "name": "Offenthal"
+  },
   "ogrodsaski": {
     "country_id": "74",
     "event_id": "2431",
