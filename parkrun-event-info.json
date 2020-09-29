@@ -1143,7 +1143,7 @@
   "1255": {
     "e": "Dewsbury junior parkrun",
     "ec": "United Kingdom",
-    "ed": "Paul\tHayhurst",
+    "ed": "Paul Hayhurst",
     "en": "1255",
     "es": "Live"
   },
@@ -1703,7 +1703,7 @@
   "1331": {
     "e": "Colin Glen parkrun",
     "ec": "United Kingdom",
-    "ed": "Clodagh\tClaxton & Larry\tClaxton",
+    "ed": "Clodagh Claxton & Larry Claxton",
     "en": "1331",
     "es": "Live"
   },
@@ -8150,7 +8150,7 @@
   "2284": {
     "e": "Penistone parkrun",
     "ec": "United Kingdom",
-    "ed": "Jolene Allen & Michael\tBarraclough",
+    "ed": "Jolene Allen & Michael Barraclough",
     "en": "2284",
     "es": "Live"
   },
@@ -11422,6 +11422,13 @@
     "ed": "Louisa Parsons & Suzanne Nott",
     "en": "275",
     "es": "Live"
+  },
+  "2750": {
+    "e": "Offenthal parkrun",
+    "ec": "Germany",
+    "ed": "Susann Jaretzke & Gill Koeniger",
+    "en": "2750",
+    "es": "AcceptingRegistrations"
   },
   "2753": {
     "e": "Elder Park junior parkrun",
@@ -15150,7 +15157,7 @@
   "882": {
     "e": "Peckham Rye parkrun",
     "ec": "United Kingdom",
-    "ed": "Catherine McDonald",
+    "ed": "Catherine McDonald & Kevin Chadwick",
     "en": "882",
     "es": "Live"
   },

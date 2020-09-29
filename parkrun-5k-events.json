@@ -4351,6 +4351,14 @@
     "longitude": -1.290457,
     "name": "Frickley Country"
   },
+  "friedrichsau": {
+    "country_id": "32",
+    "event_id": "2739",
+    "latitude": 48.411138,
+    "local_name": "Friedrichsau",
+    "longitude": 10.012702,
+    "name": "Friedrichsau"
+  },
   "frimleylodge": {
     "country_id": "97",
     "event_id": "49",
