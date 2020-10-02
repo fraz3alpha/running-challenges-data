@@ -13271,6 +13271,14 @@
     "longitude": -2.013428,
     "name": "Upton House"
   },
+  "urayasushisogokoen": {
+    "country_id": "46",
+    "event_id": "2788",
+    "latitude": 35.636914,
+    "local_name": "Urayasushi sogo koen",
+    "longitude": 139.932099,
+    "name": "Urayasushi sogo koen"
+  },
   "urunga": {
     "country_id": "3",
     "event_id": "1741",
