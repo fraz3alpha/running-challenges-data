@@ -6519,7 +6519,7 @@
   "206": {
     "e": "Falkirk parkrun",
     "ec": "United Kingdom",
-    "ed": "Graeme Lawson",
+    "ed": "Ali McLaren",
     "en": "206",
     "es": "Live"
   },
@@ -11689,6 +11689,20 @@
     "en": "2791",
     "es": "Live"
   },
+  "2792": {
+    "e": "University of Waikato parkrun",
+    "ec": "New Zealand",
+    "ed": "Nicola Clayden & Melissa Westbury",
+    "en": "2792",
+    "es": "AcceptingRegistrations"
+  },
+  "2793": {
+    "e": "Owairaka parkrun",
+    "ec": "New Zealand",
+    "ed": "Julie Collard",
+    "en": "2793",
+    "es": "AcceptingRegistrations"
+  },
   "28": {
     "e": "South Manchester parkrun",
     "ec": "United Kingdom",
@@ -12637,7 +12651,7 @@
   "423": {
     "e": "Aberystwyth parkrun",
     "ec": "United Kingdom",
-    "ed": "Anita Worthing",
+    "ed": "Emily Foot & Nick Thompson",
     "en": "423",
     "es": "Live"
   },
@@ -14016,7 +14030,7 @@
   "64": {
     "e": "Andover parkrun",
     "ec": "United Kingdom",
-    "ed": "Simon Eggington",
+    "ed": "Rebecca McCoy",
     "en": "64",
     "es": "Live"
   },

@@ -6631,6 +6631,13 @@
         "shortname": "perryhall",
         "time": "10:30"
       },
+      "Perry Lakes parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Perry Lakes parkrun",
+        "shortname": "perrylakes",
+        "time": "08:00"
+      },
       "Perth parkrun": {
         "country_code": "uk",
         "country_domain": "www.parkrun.org.uk",

@@ -12748,6 +12748,14 @@
       "longitude": -107.069151,
       "name": "Outlook and District Regional"
     },
+    "owairaka": {
+      "country_id": "65",
+      "event_id": "2793",
+      "latitude": -36.896454,
+      "local_name": "Owairaka",
+      "longitude": 174.722758,
+      "name": "Owairaka"
+    },
     "oxford": {
       "country_id": "97",
       "event_id": "81",
@@ -16427,6 +16435,14 @@
       "local_name": "University of Stirling",
       "longitude": -3.924236,
       "name": "University of Stirling"
+    },
+    "universityofwaikato": {
+      "country_id": "65",
+      "event_id": "2792",
+      "latitude": -37.787436,
+      "local_name": "University of Waikato",
+      "longitude": 175.316456,
+      "name": "University of Waikato"
     },
     "upington": {
       "country_id": "85",

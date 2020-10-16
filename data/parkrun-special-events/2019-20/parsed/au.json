@@ -1667,6 +1667,13 @@
         "shortname": "penrithlakes",
         "time": "09:30"
       },
+      "Perry Lakes parkrun": {
+        "country_code": "au",
+        "country_domain": "www.parkrun.com.au",
+        "longname": "Perry Lakes parkrun",
+        "shortname": "perrylakes",
+        "time": "08:00"
+      },
       "Petrie parkrun": {
         "country_code": "au",
         "country_domain": "www.parkrun.com.au",
