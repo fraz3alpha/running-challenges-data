@@ -794,9 +794,9 @@
   "beckenhamplace": {
     "country_id": "97",
     "event_id": "99",
-    "latitude": 51.417952,
+    "latitude": 51.41853,
     "local_name": "Beckenham Place",
-    "longitude": -0.006042,
+    "longitude": -0.01959,
     "name": "Beckenham Place"
   },
   "beckton": {
@@ -10494,6 +10494,14 @@
     "local_name": "Puarenga",
     "longitude": 176.263229,
     "name": "Puarenga"
+  },
+  "pumicestone": {
+    "country_id": "3",
+    "event_id": "2796",
+    "latitude": -27.072293,
+    "local_name": "Pumicestone",
+    "longitude": 153.154462,
+    "name": "Pumicestone"
   },
   "pushkin": {
     "country_id": "79",
