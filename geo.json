@@ -12580,6 +12580,14 @@
       "longitude": -2.104118,
       "name": "Oldham"
     },
+    "oldthomsonriverroad": {
+      "country_id": "3",
+      "event_id": "2797",
+      "latitude": -23.436746,
+      "local_name": "Old Thomson River Road",
+      "longitude": 144.243624,
+      "name": "Old Thomson River Road"
+    },
     "olimpiyskayaderevnya": {
       "country_id": "79",
       "event_id": "1745",
