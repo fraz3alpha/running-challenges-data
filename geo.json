@@ -8940,6 +8940,14 @@
       "longitude": -0.539078,
       "name": "Homewood"
     },
+    "hondajima": {
+      "country_id": "46",
+      "event_id": "2800",
+      "latitude": 35.35618,
+      "local_name": "Hondajima",
+      "longitude": 136.836501,
+      "name": "Hondajima"
+    },
     "hoopstad": {
       "country_id": "85",
       "event_id": "2140",
@@ -10803,6 +10811,14 @@
       "local_name": "Maaraue",
       "longitude": 8.288876,
       "name": "Maaraue"
+    },
+    "maborikaiganyuhodo": {
+      "country_id": "46",
+      "event_id": "2700",
+      "latitude": 35.263762,
+      "local_name": "Maborikaigan yuhodo",
+      "longitude": 139.712655,
+      "name": "Maborikaigan yuhodo"
     },
     "macclesfield": {
       "country_id": "97",

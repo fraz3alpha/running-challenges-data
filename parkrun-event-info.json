@@ -4202,7 +4202,7 @@
   "1738": {
     "e": "Carisbrooke parkrun",
     "ec": "Australia",
-    "ed": "Jonathan Morgan & Michael Wetherley",
+    "ed": "Michael Wetherley",
     "en": "1738",
     "es": "Live"
   },
@@ -11730,6 +11730,13 @@
     "ed": "David Watson & Adrian Haughton",
     "en": "280",
     "es": "Live"
+  },
+  "2800": {
+    "e": "Hondajima parkrun",
+    "ec": "Japan",
+    "ed": "\u5c71\u4e0b\u3000\u7531\u559c",
+    "en": "2800",
+    "es": "AcceptingRegistrations"
   },
   "281": {
     "e": "Forest of Dean junior parkrun",
