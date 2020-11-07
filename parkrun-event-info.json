@@ -11136,6 +11136,13 @@
     "en": "270",
     "es": "Live"
   },
+  "2700": {
+    "e": "Maborikaigan yuhodo parkrun",
+    "ec": "Japan",
+    "ed": "\u5927\u68ee\u82f1\u4e00\u90ce",
+    "en": "2700",
+    "es": "AcceptingRegistrations"
+  },
   "2701": {
     "e": "Tsujido kaihin koen parkrun",
     "ec": "Japan",
@@ -11694,7 +11701,7 @@
     "ec": "New Zealand",
     "ed": "Nicola Clayden",
     "en": "2792",
-    "es": "AcceptingRegistrations"
+    "es": "Live"
   },
   "2793": {
     "e": "Owairaka parkrun",
@@ -11715,7 +11722,7 @@
     "ec": "Australia",
     "ed": "Anthony West & Justin Griffiths",
     "en": "2797",
-    "es": "AcceptingRegistrations"
+    "es": "Live"
   },
   "28": {
     "e": "South Manchester parkrun",
@@ -11736,6 +11743,13 @@
     "ec": "Japan",
     "ed": "\u5c71\u4e0b\u3000\u7531\u559c",
     "en": "2800",
+    "es": "AcceptingRegistrations"
+  },
+  "2801": {
+    "e": "Faversham Recreation Ground junior parkrun",
+    "ec": "United Kingdom",
+    "ed": "Kerry Pearce",
+    "en": "2801",
     "es": "AcceptingRegistrations"
   },
   "281": {
