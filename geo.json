@@ -1162,6 +1162,14 @@
       "longitude": 144.564012,
       "name": "Eynesbury Heritage Trail juniors"
     },
+    "favershamrec-juniors": {
+      "country_id": "97",
+      "event_id": "2801",
+      "latitude": 51.312083,
+      "local_name": "Faversham Recreation Ground juniors",
+      "longitude": 0.897824,
+      "name": "Faversham Recreation Ground juniors"
+    },
     "felixstoweprom-juniors": {
       "country_id": "97",
       "event_id": "2435",
