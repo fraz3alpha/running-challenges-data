@@ -2423,6 +2423,14 @@
     "longitude": -0.777535,
     "name": "Chichester"
   },
+  "chiltonfields": {
+    "country_id": "97",
+    "event_id": "2798",
+    "latitude": 52.197076,
+    "local_name": "Chilton Fields",
+    "longitude": 0.975934,
+    "name": "Chilton Fields"
+  },
   "chippenham": {
     "country_id": "97",
     "event_id": "348",
