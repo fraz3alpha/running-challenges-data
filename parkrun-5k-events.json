@@ -2922,9 +2922,9 @@
   "coombs": {
     "country_id": "3",
     "event_id": "1818",
-    "latitude": -35.321886,
+    "latitude": -35.326215,
     "local_name": "Coombs",
-    "longitude": 149.053395,
+    "longitude": 149.047518,
     "name": "Coombs"
   },
   "coomera": {
@@ -4462,6 +4462,14 @@
     "local_name": "Gardiners Creek",
     "longitude": 145.114787,
     "name": "Gardiners Creek"
+  },
+  "garveypark": {
+    "country_id": "3",
+    "event_id": "2799",
+    "latitude": -31.922558,
+    "local_name": "Garvey Park",
+    "longitude": 115.941181,
+    "name": "Garvey Park"
   },
   "gatchinaprioratsky": {
     "country_id": "79",
