@@ -1706,9 +1706,9 @@
   "bunyaville": {
     "country_id": "3",
     "event_id": "571",
-    "latitude": -27.376924,
+    "latitude": -27.377306,
     "local_name": "Bunyaville",
-    "longitude": 152.948549,
+    "longitude": 152.949138,
     "name": "Bunyaville"
   },
   "burgess": {
@@ -9666,9 +9666,9 @@
   "pallara": {
     "country_id": "3",
     "event_id": "2033",
-    "latitude": -27.608752,
+    "latitude": -27.609314,
     "local_name": "Pallara",
-    "longitude": 153.010563,
+    "longitude": 153.011071,
     "name": "Pallara"
   },
   "palmerston": {
