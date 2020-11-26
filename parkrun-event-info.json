@@ -11766,6 +11766,13 @@
     "en": "2801",
     "es": "AcceptingRegistrations"
   },
+  "2804": {
+    "e": "Melaleuca parkrun",
+    "ec": "Australia",
+    "ed": "Barbara Gilchrist & Samantha Smith",
+    "en": "2804",
+    "es": "AcceptingRegistrations"
+  },
   "281": {
     "e": "Forest of Dean junior parkrun",
     "ec": "United Kingdom",
@@ -13281,7 +13288,7 @@
   "504": {
     "e": "Logan River parkrun",
     "ec": "Australia",
-    "ed": "Fiona Edmonds & Genevieve Pattemore",
+    "ed": "awaiting replacement",
     "en": "504",
     "es": "Live"
   },
@@ -14625,7 +14632,7 @@
   "750": {
     "e": "Manjimup parkrun",
     "ec": "Australia",
-    "ed": "Russell Candy & Jodie Pearce",
+    "ed": "Jodie Pearce",
     "en": "750",
     "es": "Live"
   },
