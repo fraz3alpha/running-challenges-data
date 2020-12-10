@@ -702,7 +702,7 @@
   "1158": {
     "e": "Chipping Norton parkrun",
     "ec": "Australia",
-    "ed": "Awaiting replacement",
+    "ed": "Craig Campbell",
     "en": "1158",
     "es": "Live"
   },
@@ -7149,7 +7149,7 @@
   "2148": {
     "e": "Horseshoe Bay Reserve parkrun",
     "ec": "Australia",
-    "ed": "Anna Shields & Holly Gaddes",
+    "ed": "Anna Shields",
     "en": "2148",
     "es": "Live"
   },
@@ -11771,6 +11771,13 @@
     "ec": "Australia",
     "ed": "Barbara Gilchrist & Samantha Smith",
     "en": "2804",
+    "es": "AcceptingRegistrations"
+  },
+  "2805": {
+    "e": "Wittelsbacher Park parkrun",
+    "ec": "Germany",
+    "ed": "Sarah Thomas & Jennifer Eck",
+    "en": "2805",
     "es": "AcceptingRegistrations"
   },
   "281": {
