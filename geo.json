@@ -898,14 +898,6 @@
       "longitude": -3.809626,
       "name": "Conwy Nature Reserve juniors"
     },
-    "craigswood-juniors": {
-      "country_id": "97",
-      "event_id": "2258",
-      "latitude": 55.902126,
-      "local_name": "Craigswood juniors",
-      "longitude": -3.504524,
-      "name": "Craigswood juniors"
-    },
     "cranbrookcountrypark-juniors": {
       "country_id": "97",
       "event_id": "2308",
@@ -2593,14 +2585,6 @@
       "local_name": "South Park juniors",
       "longitude": -1.561141,
       "name": "South Park juniors"
-    },
-    "southport-juniors": {
-      "country_id": "3",
-      "event_id": "1938",
-      "latitude": -27.984126,
-      "local_name": "Southport juniors",
-      "longitude": 153.413924,
-      "name": "Southport juniors"
     },
     "spencerpark-juniors": {
       "country_id": "97",
@@ -6191,9 +6175,9 @@
     "cottesloe": {
       "country_id": "3",
       "event_id": "807",
-      "latitude": -31.997297,
+      "latitude": -32.006479,
       "local_name": "Cottesloe",
-      "longitude": 115.751967,
+      "longitude": 115.75182,
       "name": "Cottesloe"
     },
     "coventry": {
@@ -8868,14 +8852,6 @@
       "longitude": 32.27309,
       "name": "Hluhluwe"
     },
-    "hobart": {
-      "country_id": "3",
-      "event_id": "446",
-      "latitude": -42.804471,
-      "local_name": "Hobart",
-      "longitude": 147.332352,
-      "name": "Hobart"
-    },
     "hoblingwell": {
       "country_id": "97",
       "event_id": "309",
@@ -10915,6 +10891,14 @@
       "local_name": "Maldon Prom",
       "longitude": 0.68877,
       "name": "Maldon Prom"
+    },
+    "malenytrail": {
+      "country_id": "3",
+      "event_id": "2803",
+      "latitude": -26.760218,
+      "local_name": "Maleny Trail",
+      "longitude": 152.860806,
+      "name": "Maleny Trail"
     },
     "mallardspike": {
       "country_id": "97",
@@ -13735,9 +13719,9 @@
     "pumicestone": {
       "country_id": "3",
       "event_id": "2796",
-      "latitude": -27.072293,
+      "latitude": -27.065817,
       "local_name": "Pumicestone",
-      "longitude": 153.154462,
+      "longitude": 153.145072,
       "name": "Pumicestone"
     },
     "pushkin": {
@@ -14035,6 +14019,14 @@
       "local_name": "Rietvlei",
       "longitude": 28.079971,
       "name": "Rietvlei"
+    },
+    "risdonbrook": {
+      "country_id": "3",
+      "event_id": "446",
+      "latitude": -42.804471,
+      "local_name": "Risdon Brook",
+      "longitude": 147.332352,
+      "name": "Risdon Brook"
     },
     "risingsun": {
       "country_id": "97",
@@ -14943,9 +14935,9 @@
     "sirromet": {
       "country_id": "3",
       "event_id": "1396",
-      "latitude": -27.593438,
+      "latitude": -27.593935,
       "local_name": "Sirromet",
-      "longitude": 153.229925,
+      "longitude": 153.230817,
       "name": "Sirromet"
     },
     "sittingbourne": {
@@ -15459,14 +15451,6 @@
       "local_name": "Stonehouse",
       "longitude": -2.287804,
       "name": "Stonehouse"
-    },
-    "stonescorner": {
-      "country_id": "3",
-      "event_id": "796",
-      "latitude": -27.498722,
-      "local_name": "Stones Corner",
-      "longitude": 153.042469,
-      "name": "Stones Corner"
     },
     "stormont": {
       "country_id": "97",
@@ -17539,6 +17523,14 @@
       "local_name": "Wits",
       "longitude": 28.025331,
       "name": "Wits"
+    },
+    "wittelsbacherpark": {
+      "country_id": "32",
+      "event_id": "2805",
+      "latitude": 48.359791,
+      "local_name": "Wittelsbacher Park",
+      "longitude": 10.888041,
+      "name": "Wittelsbacher Park"
     },
     "witton": {
       "country_id": "97",

@@ -735,14 +735,6 @@
     "longitude": -3.809626,
     "name": "Conwy Nature Reserve juniors"
   },
-  "craigswood-juniors": {
-    "country_id": "97",
-    "event_id": "2258",
-    "latitude": 55.902126,
-    "local_name": "Craigswood juniors",
-    "longitude": -3.504524,
-    "name": "Craigswood juniors"
-  },
   "cranbrookcountrypark-juniors": {
     "country_id": "97",
     "event_id": "2308",
@@ -2430,14 +2422,6 @@
     "local_name": "South Park juniors",
     "longitude": -1.561141,
     "name": "South Park juniors"
-  },
-  "southport-juniors": {
-    "country_id": "3",
-    "event_id": "1938",
-    "latitude": -27.984126,
-    "local_name": "Southport juniors",
-    "longitude": 153.413924,
-    "name": "Southport juniors"
   },
   "spencerpark-juniors": {
     "country_id": "97",
