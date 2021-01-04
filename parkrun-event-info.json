@@ -611,7 +611,7 @@
   "1138": {
     "e": "Bill Rose Sports Complex parkrun",
     "ec": "Australia",
-    "ed": "Nicky Western & Beth Viertel",
+    "ed": "Nicky Western",
     "en": "1138",
     "es": "Live"
   },
@@ -1766,7 +1766,7 @@
   "1340": {
     "e": "Champion Lakes parkrun",
     "ec": "Australia",
-    "ed": "Jerry Peters",
+    "ed": "Matt Chapman",
     "en": "1340",
     "es": "Live"
   },
@@ -2172,7 +2172,7 @@
   "1399": {
     "e": "Panania parkrun",
     "ec": "Australia",
-    "ed": "Trish Bell",
+    "ed": "Kathy Crispin & Brett Crispin",
     "en": "1399",
     "es": "Live"
   },
@@ -2956,7 +2956,7 @@
   "1512": {
     "e": "Weipa parkrun",
     "ec": "Australia",
-    "ed": "Amanda Allender & Rose Robins",
+    "ed": "Rose Robins",
     "en": "1512",
     "es": "Live"
   },
@@ -5413,7 +5413,7 @@
   "1901": {
     "e": "Aplins Weir parkrun",
     "ec": "Australia",
-    "ed": "Timothy McKean & Deb Thorogood",
+    "ed": "Timothy McKean",
     "en": "1901",
     "es": "Live"
   },
@@ -6246,7 +6246,7 @@
   "2022": {
     "e": "Geeveston parkrun",
     "ec": "Australia",
-    "ed": "Nina Koops & Melissa Pollard",
+    "ed": "Nina Koops & Telina Selwyn",
     "en": "2022",
     "es": "Live"
   },
@@ -6589,7 +6589,7 @@
   "207": {
     "e": "Weymouth junior parkrun",
     "ec": "United Kingdom",
-    "ed": "Lee Roberts & Stella Campbell",
+    "ed": "Stella Campbell",
     "en": "207",
     "es": "Live"
   },
@@ -11181,7 +11181,7 @@
   "2709": {
     "e": "Centenary parkrun",
     "ec": "Australia",
-    "ed": "Jodie Hall",
+    "ed": "Ruth Brown",
     "en": "2709",
     "es": "Live"
   },
@@ -11772,6 +11772,13 @@
     "ed": "Sarah Thomas & Jennifer Eck",
     "en": "2805",
     "es": "Live"
+  },
+  "2807": {
+    "e": "Mount Pleasant parkrun",
+    "ec": "United Kingdom",
+    "ed": "Scott Boothby & Sean Kinsella",
+    "en": "2807",
+    "es": "AcceptingRegistrations"
   },
   "281": {
     "e": "Forest of Dean junior parkrun",
@@ -13547,7 +13554,7 @@
   "545": {
     "e": "Highlands parkrun",
     "ec": "Australia",
-    "ed": "Sarah Dakos",
+    "ed": "Sarah Dakos & Hayley Loftus",
     "en": "545",
     "es": "Live"
   },
@@ -14408,7 +14415,7 @@
   "701": {
     "e": "Pomphrey Hill parkrun",
     "ec": "United Kingdom",
-    "ed": "Charissa Scott",
+    "ed": "William Lee & Adrian Grimshaw",
     "en": "701",
     "es": "Live"
   },
@@ -14814,7 +14821,7 @@
   "793": {
     "e": "Yeppoon parkrun",
     "ec": "Australia",
-    "ed": "Natalie Butler & Kate Brown",
+    "ed": "Jenny Fitch",
     "en": "793",
     "es": "Live"
   },
@@ -15416,7 +15423,7 @@
   "916": {
     "e": "Shellharbour parkrun",
     "ec": "Australia",
-    "ed": "Brendan Scollary & Oliver Spake",
+    "ed": "Oliver Spake",
     "en": "916",
     "es": "Live"
   },
