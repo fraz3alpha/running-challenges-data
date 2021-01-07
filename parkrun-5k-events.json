@@ -13087,6 +13087,14 @@
     "longitude": -3.132727,
     "name": "Tremorfa"
   },
+  "trenthammemorial": {
+    "country_id": "65",
+    "event_id": "2812",
+    "latitude": -41.13057,
+    "local_name": "Trentham Memorial",
+    "longitude": 175.031273,
+    "name": "Trentham Memorial"
+  },
   "treviso": {
     "country_id": "44",
     "event_id": "1647",
