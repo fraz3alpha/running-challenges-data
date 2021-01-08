@@ -3285,7 +3285,7 @@
   "1596": {
     "e": "Cohuna parkrun",
     "ec": "Australia",
-    "ed": "Amy Treacy",
+    "ed": "Amy Treacy & Toni Kelly",
     "en": "1596",
     "es": "Live"
   },
@@ -4986,7 +4986,7 @@
   "1843": {
     "e": "Nightcliff parkrun",
     "ec": "Australia",
-    "ed": "Helen Thiele",
+    "ed": "Karen Strong & Kirsty Boath",
     "en": "1843",
     "es": "Live"
   },
@@ -6008,7 +6008,7 @@
   "1989": {
     "e": "Cannonvale junior parkrun",
     "ec": "Australia",
-    "ed": "Gavin Mathieson",
+    "ed": "Nikki McCarthy Hicks",
     "en": "1989",
     "es": "Live"
   },
@@ -8773,7 +8773,7 @@
   "2380": {
     "e": "River Valley parkrun, Edmonton",
     "ec": "Canada",
-    "ed": "Doran Walker & Tim Berrett",
+    "ed": "Tim Berrett & Jennifer Laughton",
     "en": "2380",
     "es": "Live"
   },
@@ -9921,7 +9921,7 @@
   "2535": {
     "e": "Third Creek Greenway parkrun",
     "ec": "United States",
-    "ed": "Joe Sparks & Meredith Hale",
+    "ed": "Meredith Hale",
     "en": "2535",
     "es": "Live"
   },
@@ -10446,7 +10446,7 @@
   "2606": {
     "e": "Wacol parkrun",
     "ec": "Australia",
-    "ed": "Mark Sleeman & Stacey Bloom",
+    "ed": "Andrew Wilson & Stacey Bloom",
     "en": "2606",
     "es": "Live"
   },
@@ -11786,6 +11786,20 @@
     "ed": "Catherine Bevan & Jennifer Harding",
     "en": "281",
     "es": "Live"
+  },
+  "2812": {
+    "e": "Trentham Memorial parkrun",
+    "ec": "New Zealand",
+    "ed": "Allan Hartley & Neil Haxton",
+    "en": "2812",
+    "es": "AcceptingRegistrations"
+  },
+  "2816": {
+    "e": "Bankton Mains Park junior parkrun",
+    "ec": "United Kingdom",
+    "ed": "Euan McInnes & Richard Pacey",
+    "en": "2816",
+    "es": "AcceptingRegistrations"
   },
   "282": {
     "e": "Wycombe Rye parkrun",
@@ -13372,7 +13386,7 @@
   "515": {
     "e": "Ipswich QLD parkrun",
     "ec": "Australia",
-    "ed": "Kristine Tracey & Thomas Anderson",
+    "ed": "Thomas Anderson",
     "en": "515",
     "es": "Live"
   },
