@@ -159,6 +159,14 @@
     "longitude": -5.709153,
     "name": "Bangor juniors"
   },
+  "banktonmainspark-juniors": {
+    "country_id": "97",
+    "event_id": "2816",
+    "latitude": 55.87326,
+    "local_name": "Bankton Mains Park juniors",
+    "longitude": -3.511448,
+    "name": "Bankton Mains Park juniors"
+  },
   "barkinganddagenham-juniors": {
     "country_id": "97",
     "event_id": "826",
