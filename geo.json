@@ -13724,14 +13724,6 @@
       "longitude": 176.263229,
       "name": "Puarenga"
     },
-    "pumicestone": {
-      "country_id": "3",
-      "event_id": "2796",
-      "latitude": -27.065817,
-      "local_name": "Pumicestone",
-      "longitude": 153.145072,
-      "name": "Pumicestone"
-    },
     "pushkin": {
       "country_id": "79",
       "event_id": "1912",
@@ -15275,6 +15267,14 @@
       "local_name": "Squerryes Winery",
       "longitude": 0.08667,
       "name": "Squerryes Winery"
+    },
+    "sskoopatrail": {
+      "country_id": "3",
+      "event_id": "2796",
+      "latitude": -27.065817,
+      "local_name": "S.S. Koopa Trail",
+      "longitude": 153.145072,
+      "name": "S.S. Koopa Trail"
     },
     "stadspark": {
       "country_id": "64",
