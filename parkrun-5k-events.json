@@ -7503,6 +7503,14 @@
     "longitude": -8.235512,
     "name": "Lough Key"
   },
+  "louishamonpark": {
+    "country_id": "3",
+    "event_id": "2809",
+    "latitude": -36.094049,
+    "local_name": "Louis Hamon Park",
+    "longitude": 145.442706,
+    "name": "Louis Hamon Park"
+  },
   "louistrichardt": {
     "country_id": "85",
     "event_id": "2237",
@@ -12766,14 +12774,6 @@
     "local_name": "The Entrance",
     "longitude": 151.493202,
     "name": "The Entrance"
-  },
-  "thefarmstead": {
-    "country_id": "85",
-    "event_id": "2290",
-    "latitude": -25.768803,
-    "local_name": "The Farmstead",
-    "longitude": 27.788522,
-    "name": "The Farmstead"
   },
   "thegrandcanalway": {
     "country_id": "42",
