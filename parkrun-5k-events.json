@@ -4503,6 +4503,14 @@
     "longitude": 138.750027,
     "name": "Gawler"
   },
+  "gayndahriverwalk": {
+    "country_id": "3",
+    "event_id": "2806",
+    "latitude": -25.624063,
+    "local_name": "Gayndah River Walk",
+    "longitude": 151.611063,
+    "name": "Gayndah River Walk"
+  },
   "gdansk": {
     "country_id": "74",
     "event_id": "345",
