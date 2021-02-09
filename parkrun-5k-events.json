@@ -4407,14 +4407,6 @@
     "longitude": -0.218493,
     "name": "Fulham Palace"
   },
-  "futakotamagawa": {
-    "country_id": "46",
-    "event_id": "2295",
-    "latitude": 35.606442,
-    "local_name": "Futakotamagawa",
-    "longitude": 139.633181,
-    "name": "Futakotamagawa"
-  },
   "gadebridge": {
     "country_id": "97",
     "event_id": "363",
@@ -5926,6 +5918,14 @@
     "local_name": "Hyndburn",
     "longitude": -2.376734,
     "name": "Hyndburn"
+  },
+  "hyogojimakoen": {
+    "country_id": "46",
+    "event_id": "2295",
+    "latitude": 35.606442,
+    "local_name": "Hyogojima koen",
+    "longitude": 139.633181,
+    "name": "Hyogojima koen"
   },
   "ifieldmillpond": {
     "country_id": "97",
@@ -10566,14 +10566,6 @@
     "local_name": "Pymmes",
     "longitude": -0.066953,
     "name": "Pymmes"
-  },
-  "python": {
-    "country_id": "85",
-    "event_id": "2243",
-    "latitude": -32.88268,
-    "local_name": "Python",
-    "longitude": 27.850447,
-    "name": "Python"
   },
   "queanbeyan": {
     "country_id": "3",
