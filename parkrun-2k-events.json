@@ -279,6 +279,14 @@
     "longitude": -5.870456,
     "name": "Belfast Victoria juniors"
   },
+  "bellevuepark-juniors": {
+    "country_id": "3",
+    "event_id": "2824",
+    "latitude": -27.994529,
+    "local_name": "Bellevue Park juniors",
+    "longitude": 153.396886,
+    "name": "Bellevue Park juniors"
+  },
   "betteshanger-juniors": {
     "country_id": "97",
     "event_id": "1465",

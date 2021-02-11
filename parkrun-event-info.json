@@ -11794,13 +11794,6 @@
     "en": "2812",
     "es": "Live"
   },
-  "2814": {
-    "e": "Pembroke parkrun",
-    "ec": "Australia",
-    "ed": "Glenn Moore",
-    "en": "2814",
-    "es": "Live"
-  },
   "2816": {
     "e": "Bankton Mains Park junior parkrun",
     "ec": "United Kingdom",
@@ -11814,6 +11807,13 @@
     "ed": "Alistair France & Nick Sendall",
     "en": "282",
     "es": "Live"
+  },
+  "2824": {
+    "e": "Bellevue Park junior parkrun",
+    "ec": "Australia",
+    "ed": "Renee Gimbert",
+    "en": "2824",
+    "es": "AcceptingRegistrations"
   },
   "283": {
     "e": "Page Park junior parkrun",
