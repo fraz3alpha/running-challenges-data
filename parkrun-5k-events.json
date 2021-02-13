@@ -12055,6 +12055,14 @@
     "longitude": 8.452175,
     "name": "Speyer Leinpfad"
   },
+  "sportparkrems": {
+    "country_id": "32",
+    "event_id": "2808",
+    "latitude": 48.814706,
+    "local_name": "Sportpark Rems",
+    "longitude": 9.540467,
+    "name": "Sportpark Rems"
+  },
   "springbok": {
     "country_id": "85",
     "event_id": "1486",
