@@ -9529,7 +9529,7 @@
   "2486": {
     "e": "Berwick Waters parkrun",
     "ec": "Australia",
-    "ed": "Catherine Grbic",
+    "ed": "Catherine Grbic & Gautam Panday",
     "en": "2486",
     "es": "Live"
   },
@@ -11814,6 +11814,13 @@
     "ed": "Alistair France & Nick Sendall",
     "en": "282",
     "es": "Live"
+  },
+  "2823": {
+    "e": "Puckapunyal parkrun",
+    "ec": "Australia",
+    "ed": "Deb Kaak & Narelle Patterson",
+    "en": "2823",
+    "es": "AcceptingRegistrations"
   },
   "2824": {
     "e": "Bellevue Park junior parkrun",
