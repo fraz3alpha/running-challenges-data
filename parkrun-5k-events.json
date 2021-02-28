@@ -2047,6 +2047,14 @@
     "longitude": -5.805285,
     "name": "Carrickfergus"
   },
+  "cascadesonclydewetlands": {
+    "country_id": "3",
+    "event_id": "2818",
+    "latitude": -38.100383,
+    "local_name": "Cascades on Clyde Wetlands",
+    "longitude": 145.325835,
+    "name": "Cascades on Clyde Wetlands"
+  },
   "cassiobury": {
     "country_id": "97",
     "event_id": "1152",
@@ -5622,6 +5630,14 @@
     "local_name": "Hillsborough",
     "longitude": -1.501973,
     "name": "Hillsborough"
+  },
+  "hillsboroughforest": {
+    "country_id": "97",
+    "event_id": "2819",
+    "latitude": 54.461336,
+    "local_name": "Hillsborough Forest",
+    "longitude": -6.076662,
+    "name": "Hillsborough Forest"
   },
   "hillside": {
     "country_id": "85",
