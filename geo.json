@@ -2354,6 +2354,14 @@
       "longitude": -0.207922,
       "name": "Reigate Priory juniors"
     },
+    "ringsend-juniors": {
+      "country_id": "42",
+      "event_id": "2831",
+      "latitude": 53.340373,
+      "local_name": "Ringsend juniors",
+      "longitude": -6.221004,
+      "name": "Ringsend juniors"
+    },
     "riverside-juniors": {
       "country_id": "97",
       "event_id": "2230",

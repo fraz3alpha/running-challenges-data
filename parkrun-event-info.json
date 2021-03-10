@@ -9802,7 +9802,7 @@
   "2521": {
     "e": "Sanukikodomonokuni parkrun",
     "ec": "Japan",
-    "ed": "Angela Fukutome",
+    "ed": "Angela Fukutome & Takenobu Kataoka",
     "en": "2521",
     "es": "Live"
   },
@@ -11849,6 +11849,13 @@
     "ed": "Tim Rawling & Lucy Cannon",
     "en": "283",
     "es": "Live"
+  },
+  "2831": {
+    "e": "Ringsend junior parkrun",
+    "ec": "Ireland",
+    "ed": "Anthony Owens & Paula Bradshaw",
+    "en": "2831",
+    "es": "AcceptingRegistrations"
   },
   "284": {
     "e": "Dumfries junior parkrun",
