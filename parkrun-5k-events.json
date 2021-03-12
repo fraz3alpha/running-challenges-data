@@ -10991,6 +10991,14 @@
     "longitude": 0.066415,
     "name": "Roding Valley"
   },
+  "roethelheimpark": {
+    "country_id": "32",
+    "event_id": "2830",
+    "latitude": 49.587224,
+    "local_name": "R\u00f6thelheimpark",
+    "longitude": 11.027071,
+    "name": "R\u00f6thelheimpark"
+  },
   "rogiet": {
     "country_id": "97",
     "event_id": "1797",
@@ -14614,6 +14622,14 @@
     "local_name": "Yamba",
     "longitude": 153.357271,
     "name": "Yamba"
+  },
+  "yarmarochnayaploshchad": {
+    "country_id": "79",
+    "event_id": "2795",
+    "latitude": 55.74608,
+    "local_name": "Yarmarochnaya Ploshchad",
+    "longitude": 48.743008,
+    "name": "Yarmarochnaya Ploshchad"
   },
   "yarrabilba": {
     "country_id": "3",

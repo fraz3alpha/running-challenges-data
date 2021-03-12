@@ -5931,7 +5931,7 @@
   "1979": {
     "e": "parkrun Readovsky Park",
     "ec": "Russia",
-    "ed": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u041b\u044f\u043c\u0438\u043d\u0430 & \u0418\u043b\u044c\u044f \u0427\u0435\u0431\u043e\u0434\u0430\u0435\u0432",
+    "ed": "\u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u0430 \u041e\u043b\u0435\u0441\u044f \u0413\u0435\u043d\u043d\u0430\u0434\u044c\u0435\u0432\u043d\u0430 & \u0411\u044b\u0431\u0438\u043d\u0430 \u0421\u0430\u0431\u0438\u043d\u0430 \u0414\u0430\u0433\u043b\u0430\u0440\u043e\u0432\u043d\u0430",
     "en": "1979",
     "es": "Live"
   },
@@ -6848,7 +6848,7 @@
   "2103": {
     "e": "Aggeneys parkrun",
     "ec": "South Africa",
-    "ed": "Adele Koegelenberg & Andr\u00e9 Myburgh",
+    "ed": "Adele Koegelenberg & Sylvia van den Heever",
     "en": "2103",
     "es": "Live"
   },
@@ -8633,7 +8633,7 @@
   "2362": {
     "e": "Hazeldean Farm parkrun",
     "ec": "South Africa",
-    "ed": "Ingrid Hauger & Peter Wilgenbus",
+    "ed": "Ingrid Hauger",
     "en": "2362",
     "es": "Live"
   },
@@ -11681,6 +11681,13 @@
     "ed": "Julie Collard",
     "en": "2793",
     "es": "Live"
+  },
+  "2795": {
+    "e": "parkrun Yarmarochnaya Ploshchad",
+    "ec": "Russia",
+    "ed": "\u041c\u0430\u043a\u0441\u0438\u043c \u0420\u044f\u0431\u044b\u0448\u0435\u0432  & \u0424\u0430\u0438\u043c \u0425\u0430\u0439\u0440\u0443\u043b\u043b\u0438\u043d",
+    "en": "2795",
+    "es": "AcceptingRegistrations"
   },
   "2796": {
     "e": "S.S. Koopa Trail parkrun",
