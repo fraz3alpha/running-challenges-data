@@ -631,14 +631,6 @@
     "longitude": -0.184225,
     "name": "Banstead Woods"
   },
-  "bapsfontein": {
-    "country_id": "85",
-    "event_id": "1724",
-    "latitude": -25.978656,
-    "local_name": "Bapsfontein",
-    "longitude": 28.396014,
-    "name": "Bapsfontein"
-  },
   "barberton": {
     "country_id": "85",
     "event_id": "1928",
@@ -8558,14 +8550,6 @@
     "local_name": "Mount Barker",
     "longitude": 138.867869,
     "name": "Mount Barker"
-  },
-  "mountbattenschool": {
-    "country_id": "97",
-    "event_id": "2254",
-    "latitude": 50.982149,
-    "local_name": "Mountbatten School",
-    "longitude": -1.469685,
-    "name": "Mountbatten School"
   },
   "mountbeauty": {
     "country_id": "3",
