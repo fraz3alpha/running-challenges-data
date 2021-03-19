@@ -3341,7 +3341,7 @@
   "1606": {
     "e": "Port Fairy parkrun",
     "ec": "Australia",
-    "ed": "Kate Winnen",
+    "ed": "Kate Winnen & Colin May",
     "en": "1606",
     "es": "Live"
   },
@@ -4867,7 +4867,7 @@
   "1828": {
     "e": "Medina I.O.W junior parkrun",
     "ec": "United Kingdom",
-    "ed": "Raymond Scovell",
+    "ed": "Adrian Lax & Mark Hill",
     "en": "1828",
     "es": "Live"
   },
@@ -6981,7 +6981,7 @@
   "2126": {
     "e": "Burslem Park junior parkrun",
     "ec": "United Kingdom",
-    "ed": "Victoria McCrea & Benjamin Weaver",
+    "ed": "Caroline Davies & Benjamin Weaver",
     "en": "2126",
     "es": "Live"
   },
@@ -11297,6 +11297,13 @@
     "en": "2733",
     "es": "Live"
   },
+  "2735": {
+    "e": "parkrun Nizhny Prud",
+    "ec": "Russia",
+    "ed": "\u0421\u0442\u0440\u0430\u0448\u043a\u043e \u0415\u0432\u0433\u0435\u043d\u0438\u044f & \u0420\u0443\u0441\u0438\u043d\u043e\u0432 \u041a\u0438\u0440\u0438\u043b\u043b",
+    "en": "2735",
+    "es": "AcceptingRegistrations"
+  },
   "2736": {
     "e": "Slades junior parkrun",
     "ec": "United Kingdom",
@@ -11836,10 +11843,24 @@
     "en": "2824",
     "es": "Live"
   },
+  "2827": {
+    "e": "Avondale University College parkrun",
+    "ec": "Australia",
+    "ed": "Jason Becker & Danielle Hart",
+    "en": "2827",
+    "es": "AcceptingRegistrations"
+  },
+  "2829": {
+    "e": "Des Connor Park junior parkrun",
+    "ec": "Australia",
+    "ed": "Pat Webster",
+    "en": "2829",
+    "es": "AcceptingRegistrations"
+  },
   "283": {
     "e": "Page Park junior parkrun",
     "ec": "United Kingdom",
-    "ed": "Tim Rawling & Lucy Cannon",
+    "ed": "Tim Rawling",
     "en": "283",
     "es": "Live"
   },

@@ -839,6 +839,14 @@
     "longitude": -0.819338,
     "name": "Desborough Green Space juniors"
   },
+  "desconnorpark-juniors": {
+    "country_id": "3",
+    "event_id": "2829",
+    "latitude": -27.441892,
+    "local_name": "Des Connor Park juniors",
+    "longitude": 152.978964,
+    "name": "Des Connor Park juniors"
+  },
   "devonport-juniors": {
     "country_id": "97",
     "event_id": "2032",

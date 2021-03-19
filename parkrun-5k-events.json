@@ -479,6 +479,14 @@
     "longitude": -6.225626,
     "name": "Avondale Forest"
   },
+  "avondaleuniversitycollege": {
+    "country_id": "3",
+    "event_id": "2827",
+    "latitude": -33.088354,
+    "local_name": "Avondale University College",
+    "longitude": 151.463247,
+    "name": "Avondale University College"
+  },
   "aylesbury": {
     "country_id": "97",
     "event_id": "450",
@@ -9054,6 +9062,14 @@
     "local_name": "Nizhny Novgorod Meshchersky",
     "longitude": 43.954552,
     "name": "Nizhny Novgorod Meshchersky"
+  },
+  "nizhnyprud": {
+    "country_id": "79",
+    "event_id": "2735",
+    "latitude": 54.711946,
+    "local_name": "Nizhny Prud",
+    "longitude": 20.513199,
+    "name": "Nizhny Prud"
   },
   "nkomazi": {
     "country_id": "85",
