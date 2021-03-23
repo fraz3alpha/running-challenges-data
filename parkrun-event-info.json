@@ -7622,13 +7622,6 @@
     "en": "2211",
     "es": "Live"
   },
-  "2212": {
-    "e": "Churchfields Farm parkrun",
-    "ec": "United Kingdom",
-    "ed": "Stephen Sherry & William Kerton",
-    "en": "2212",
-    "es": "Live"
-  },
   "2213": {
     "e": "The Pastures parkrun",
     "ec": "United Kingdom",
@@ -7884,7 +7877,7 @@
   "2251": {
     "e": "Clarens parkrun",
     "ec": "South Africa",
-    "ed": "Lynda Henri",
+    "ed": "Lynda Henri & Bastiaan Verhoek",
     "en": "2251",
     "es": "Live"
   },
@@ -11878,6 +11871,13 @@
     "en": "2831",
     "es": "AcceptingRegistrations"
   },
+  "2833": {
+    "e": "Landesgartenschau Park parkrun",
+    "ec": "Germany",
+    "ed": "Birgit Schulz & Christian Schimek",
+    "en": "2833",
+    "es": "AcceptingRegistrations"
+  },
   "284": {
     "e": "Dumfries junior parkrun",
     "ec": "United Kingdom",
@@ -12182,7 +12182,7 @@
   "34": {
     "e": "Hull parkrun",
     "ec": "United Kingdom",
-    "ed": "Vicky Coe",
+    "ed": "Vicky Coe & Jo Vince",
     "en": "34",
     "es": "Live"
   },
@@ -12504,7 +12504,7 @@
   "383": {
     "e": "Rondebosch Common parkrun",
     "ec": "South Africa",
-    "ed": "John Newmarch & David Smit",
+    "ed": "David Smit",
     "en": "383",
     "es": "Live"
   },
