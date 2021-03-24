@@ -5700,14 +5700,6 @@
       "longitude": 19.358722,
       "name": "Chrzan\u00f3w"
     },
-    "churchfieldsfarm": {
-      "country_id": "97",
-      "event_id": "2212",
-      "latitude": 52.252055,
-      "local_name": "Churchfields Farm",
-      "longitude": -2.183958,
-      "name": "Churchfields Farm"
-    },
     "churchill": {
       "country_id": "3",
       "event_id": "1400",
@@ -10219,6 +10211,14 @@
       "local_name": "Lancing Beach Green",
       "longitude": -0.323792,
       "name": "Lancing Beach Green"
+    },
+    "landesgartenschaupark": {
+      "country_id": "32",
+      "event_id": "2833",
+      "latitude": 49.289125,
+      "local_name": "Landesgartenschau Park",
+      "longitude": 11.455953,
+      "name": "Landesgartenschau Park"
     },
     "landsend": {
       "country_id": "97",
