@@ -1843,7 +1843,7 @@
   "1350": {
     "e": "Windmill Hill junior parkrun",
     "ec": "United Kingdom",
-    "ed": "Matt Varley & James Almond",
+    "ed": "Chris Whale",
     "en": "1350",
     "es": "Live"
   },
@@ -4944,7 +4944,7 @@
   "1839": {
     "e": "Gloucester City parkrun",
     "ec": "United Kingdom",
-    "ed": "Lana Smith",
+    "ed": "Lana Smith & Sharon Davis",
     "en": "1839",
     "es": "Live"
   },
@@ -10075,7 +10075,7 @@
   "2560": {
     "e": "Sutton Manor parkrun",
     "ec": "United Kingdom",
-    "ed": "Colin Briody",
+    "ed": "Kevin Outten &\u00a0Louise Thomas",
     "en": "2560",
     "es": "Live"
   },
@@ -11219,6 +11219,13 @@
     "ed": "Joyce Wolford & Mary Joan Pugh",
     "en": "2720",
     "es": "Live"
+  },
+  "2722": {
+    "e": "parkrun Internatsionalistov",
+    "ec": "Russia",
+    "ed": "\u0422\u0430\u0442\u044c\u044f\u043d\u0430 \u041c\u0438\u0440\u043e\u043d\u0435\u043d\u043a\u043e & \u041c\u0430\u043a\u0441\u0438\u043c \u0421\u0430\u043c\u043e\u0439\u043b\u043e\u0432",
+    "en": "2722",
+    "es": "AcceptingRegistrations"
   },
   "2723": {
     "e": "Nansenparken parkrun",
@@ -15416,7 +15423,7 @@
   "899": {
     "e": "Oakwell Hall parkrun",
     "ec": "United Kingdom",
-    "ed": "Amanda Walker & Natalie Sampson",
+    "ed": "Amanda Walker & Michelle Saville",
     "en": "899",
     "es": "Live"
   },

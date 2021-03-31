@@ -9172,6 +9172,14 @@
       "longitude": -9.977697,
       "name": "Inch Beach"
     },
+    "internatsionalistov": {
+      "country_id": "79",
+      "event_id": "2722",
+      "latitude": 59.859734,
+      "local_name": "Internatsionalistov",
+      "longitude": 30.401156,
+      "name": "Internatsionalistov"
+    },
     "invercargill": {
       "country_id": "65",
       "event_id": "1716",
