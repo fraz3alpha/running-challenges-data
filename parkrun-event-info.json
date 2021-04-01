@@ -11885,6 +11885,13 @@
     "en": "2833",
     "es": "AcceptingRegistrations"
   },
+  "2834": {
+    "e": "Kastanienallee parkrun",
+    "ec": "Germany",
+    "ed": "Matteo Fiorillo & Claire Garland-Dillon",
+    "en": "2834",
+    "es": "AcceptingRegistrations"
+  },
   "284": {
     "e": "Dumfries junior parkrun",
     "ec": "United Kingdom",
@@ -15024,7 +15031,7 @@
   "82": {
     "e": "Plymvalley parkrun",
     "ec": "United Kingdom",
-    "ed": "Katy Mogridge",
+    "ed": "Nina Bond",
     "en": "82",
     "es": "Live"
   },
@@ -15479,7 +15486,7 @@
   "910": {
     "e": "parkrun Izmailovo",
     "ec": "Russia",
-    "ed": "\u0418\u0440\u0438\u043d\u0430 \u0413\u0443\u0441\u0435\u0432\u0430",
+    "ed": "\u0422\u0435\u0431\u0430\u0439\u043a\u0438\u043d \u0421\u0435\u0440\u0433\u0435\u0439 \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0438\u0447 & \u041a\u0443\u0434\u0440\u044f\u0432\u0446\u0435\u0432 \u0421\u0435\u0440\u0433\u0435\u0439 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447",
     "en": "910",
     "es": "Live"
   },
@@ -15829,7 +15836,7 @@
   "978": {
     "e": "Cowra parkrun",
     "ec": "Australia",
-    "ed": "Leanne Jarman",
+    "ed": "Xavier Terrell",
     "en": "978",
     "es": "Live"
   },
