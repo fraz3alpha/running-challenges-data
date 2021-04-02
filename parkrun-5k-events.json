@@ -6287,6 +6287,14 @@
     "longitude": 139.941344,
     "name": "Kashiwanoha"
   },
+  "kastanienallee": {
+    "country_id": "32",
+    "event_id": "2834",
+    "latitude": 48.515457,
+    "local_name": "Kastanienallee",
+    "longitude": 9.046693,
+    "name": "Kastanienallee"
+  },
   "katereed": {
     "country_id": "3",
     "event_id": "2686",
