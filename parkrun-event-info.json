@@ -212,7 +212,7 @@
   "1040": {
     "e": "Nkomazi parkrun",
     "ec": "South Africa",
-    "ed": "Lordrick Mathonsi",
+    "ed": "Lordrick Mathonsi & Xoli Sithole",
     "en": "1040",
     "es": "Live"
   },
@@ -3922,7 +3922,7 @@
   "1698": {
     "e": "Hoedspruit parkrun",
     "ec": "South Africa",
-    "ed": "Michael Dickerson",
+    "ed": "Terry Papadopoulos & Belinda Barkas",
     "en": "1698",
     "es": "Live"
   },
@@ -5280,7 +5280,7 @@
   "1884": {
     "e": "W\u00f6hrder See parkrun",
     "ec": "Germany",
-    "ed": "Zehra Karakas & Yin Pang",
+    "ed": "Zehra Karakas",
     "en": "1884",
     "es": "Live"
   },
@@ -7884,7 +7884,7 @@
   "2252": {
     "e": "Blue Lagoon parkrun",
     "ec": "South Africa",
-    "ed": "Hoppy Hopkinson",
+    "ed": "Kirsten Robinson & Sandra Bruyns",
     "en": "2252",
     "es": "Live"
   },
@@ -9130,7 +9130,7 @@
   "2432": {
     "e": "Stratford Park parkrun, Stroud",
     "ec": "United Kingdom",
-    "ed": "Andrew Case & Ian Cutler",
+    "ed": "Ian Cutler",
     "en": "2432",
     "es": "Live"
   },
@@ -9725,7 +9725,7 @@
   "2513": {
     "e": "Tarrengower parkrun",
     "ec": "Australia",
-    "ed": "Susan Turner",
+    "ed": "Karen Shroder",
     "en": "2513",
     "es": "Live"
   },
@@ -9739,7 +9739,7 @@
   "2515": {
     "e": "Groeneweide parkrun",
     "ec": "South Africa",
-    "ed": "Brigitte Marais",
+    "ed": "Brigitte Marais & Elsie Veldman",
     "en": "2515",
     "es": "Live"
   },
@@ -10299,7 +10299,7 @@
   "2591": {
     "e": "Matlosana Bird parkrun",
     "ec": "South Africa",
-    "ed": "Bridget Klue",
+    "ed": "Bridget Klue & Catharina (Rina) Maritz",
     "en": "2591",
     "es": "Live"
   },
@@ -11890,6 +11890,13 @@
     "ec": "Germany",
     "ed": "Matteo Fiorillo & Claire Garland-Dillon",
     "en": "2834",
+    "es": "AcceptingRegistrations"
+  },
+  "2835": {
+    "e": "Tamagawa chuo koen parkrun",
+    "ec": "Japan",
+    "ed": "Chiharu Muraki",
+    "en": "2835",
     "es": "AcceptingRegistrations"
   },
   "284": {

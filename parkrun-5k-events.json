@@ -12591,6 +12591,14 @@
     "longitude": 17.879627,
     "name": "Szubianki, Zag\u00f3r\u00f3w"
   },
+  "tamagawachuokoen": {
+    "country_id": "46",
+    "event_id": "2835",
+    "latitude": 35.730167,
+    "local_name": "Tamagawa chuo koen",
+    "longitude": 139.326594,
+    "name": "Tamagawa chuo koen"
+  },
   "tamanpuduulu": {
     "country_id": "57",
     "event_id": "1922",
