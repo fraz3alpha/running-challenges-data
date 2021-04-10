@@ -10071,6 +10071,14 @@
     "longitude": 152.974425,
     "name": "Petrie"
   },
+  "petrovskayanaberezhnaya": {
+    "country_id": "79",
+    "event_id": "2755",
+    "latitude": 46.356053,
+    "local_name": "Petrovskaya naberezhnaya",
+    "longitude": 48.032658,
+    "name": "Petrovskaya naberezhnaya"
+  },
   "phillipisland": {
     "country_id": "3",
     "event_id": "1232",
@@ -14134,6 +14142,14 @@
     "local_name": "Weymouth",
     "longitude": -2.447398,
     "name": "Weymouth"
+  },
+  "whalanreserve": {
+    "country_id": "3",
+    "event_id": "2826",
+    "latitude": -33.75943,
+    "local_name": "Whalan Reserve",
+    "longitude": 150.79587,
+    "name": "Whalan Reserve"
   },
   "whanganuiriverbank": {
     "country_id": "65",
