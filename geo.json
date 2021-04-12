@@ -13804,6 +13804,14 @@
       "longitude": 30.42008,
       "name": "Pushkin"
     },
+    "puszczaniepolomicka": {
+      "country_id": "74",
+      "event_id": "2837",
+      "latitude": 50.014497,
+      "local_name": "Puszcza Niepo\u0142omicka",
+      "longitude": 20.240746,
+      "name": "Puszcza Niepo\u0142omicka"
+    },
     "pymmes": {
       "country_id": "97",
       "event_id": "254",
