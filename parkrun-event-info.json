@@ -2522,7 +2522,7 @@
   "1444": {
     "e": "Portland parkrun",
     "ec": "Australia",
-    "ed": "Blanket Cox & Kay Antony",
+    "ed": "Kay Antony",
     "en": "1444",
     "es": "Live"
   },
@@ -5259,7 +5259,7 @@
   "1881": {
     "e": "parkrun Solnechny ostrov",
     "ec": "Russia",
-    "ed": "\u0414\u0430\u043d\u0438\u0438\u043b \u041b\u044f\u043b\u0435\u043d\u043a\u043e & \u0415\u043b\u0438\u0437\u0430\u0432\u0435\u0442\u0430 \u041a\u043e\u0432\u0430\u043b\u0435\u0432\u0430",
+    "ed": "\u0410\u0441\u0442\u0430\u0444\u044c\u0435\u0432 \u0420\u043e\u043c\u0430\u043d \u041e\u043b\u0435\u0433\u043e\u0432\u0438\u0447 & \u0420\u0443\u0441\u0441\u043a\u0438\u0445 \u042e\u0440\u0438\u0439 \u0421\u0435\u0440\u0433\u0435\u0435\u0432\u0438\u0447",
     "en": "1881",
     "es": "Live"
   },
@@ -11142,6 +11142,13 @@
     "ed": "Craig Campbell",
     "en": "2707",
     "es": "Live"
+  },
+  "2708": {
+    "e": "parkrun Naberezhnaya Reki Velikoy",
+    "ec": "Russia",
+    "ed": "\u0421\u0435\u0440\u0433\u0435\u0439 \u0418\u0432\u0430\u043d\u043e\u0432 & \u0418\u0440\u0438\u043d\u0430 \u041c\u0430\u0440\u043a\u043e\u0432\u0430",
+    "en": "2708",
+    "es": "AcceptingRegistrations"
   },
   "2709": {
     "e": "Centenary parkrun",
