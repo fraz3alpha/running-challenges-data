@@ -8783,6 +8783,14 @@
     "longitude": -6.644948,
     "name": "Naas"
   },
+  "naberezhnayarekivelikoy": {
+    "country_id": "79",
+    "event_id": "2708",
+    "latitude": 57.816183,
+    "local_name": "Naberezhnaya Reki Velikoy",
+    "longitude": 28.33026,
+    "name": "Naberezhnaya Reki Velikoy"
+  },
   "nagaragawakoen": {
     "country_id": "46",
     "event_id": "2565",
