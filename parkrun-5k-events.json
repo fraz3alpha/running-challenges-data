@@ -7167,6 +7167,14 @@
     "longitude": -9.003332,
     "name": "Lees Road"
   },
+  "leetonsportandrecreationprecinct": {
+    "country_id": "3",
+    "event_id": "2832",
+    "latitude": -34.556093,
+    "local_name": "Leeton Sport and Recreation Precinct",
+    "longitude": 146.411376,
+    "name": "Leeton Sport and Recreation Precinct"
+  },
   "leeupan": {
     "country_id": "85",
     "event_id": "2511",
@@ -9646,6 +9654,14 @@
     "local_name": "Outlook and District Regional",
     "longitude": -107.069151,
     "name": "Outlook and District Regional"
+  },
+  "ovensrivertrail": {
+    "country_id": "3",
+    "event_id": "2838",
+    "latitude": -36.555094,
+    "local_name": "Ovens River Trail",
+    "longitude": 146.711688,
+    "name": "Ovens River Trail"
   },
   "owairaka": {
     "country_id": "65",
