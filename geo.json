@@ -42,7 +42,7 @@
     },
     {
       "id": "32",
-      "latitude": 50.6282725,
+      "latitude": 50.5801595,
       "longitude": 10.18059,
       "name": "www.parkrun.com.de",
       "parent_id": "1",
@@ -6699,6 +6699,14 @@
       "local_name": "Dr Bill Hammond Trails",
       "longitude": -81.735033,
       "name": "Dr Bill Hammond Trails"
+    },
+    "dreilaendergarten": {
+      "country_id": "32",
+      "event_id": "2844",
+      "latitude": 47.586611,
+      "local_name": "Dreil\u00e4ndergarten",
+      "longitude": 7.610583,
+      "name": "Dreil\u00e4ndergarten"
     },
     "drumblade": {
       "country_id": "85",
