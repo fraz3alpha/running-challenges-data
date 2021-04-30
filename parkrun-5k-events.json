@@ -5255,6 +5255,14 @@
     "longitude": -0.168185,
     "name": "Hampstead Heath"
   },
+  "hamptonoval": {
+    "country_id": "3",
+    "event_id": "2841",
+    "latitude": -20.666182,
+    "local_name": "Hampton Oval",
+    "longitude": 116.70334,
+    "name": "Hampton Oval"
+  },
   "hanley": {
     "country_id": "97",
     "event_id": "327",
@@ -6010,9 +6018,9 @@
   "ipswich": {
     "country_id": "97",
     "event_id": "74",
-    "latitude": 52.052293,
+    "latitude": 52.050923,
     "local_name": "Ipswich",
-    "longitude": 1.11585,
+    "longitude": 1.116032,
     "name": "Ipswich"
   },
   "ipswichqld": {
