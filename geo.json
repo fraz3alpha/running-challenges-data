@@ -114,7 +114,7 @@
     },
     {
       "id": "79",
-      "latitude": 53.317485000000005,
+      "latitude": 54.5689735,
       "longitude": 75.11378450000001,
       "name": "www.parkrun.ru",
       "parent_id": "1",
@@ -13827,6 +13827,14 @@
       "local_name": "Puarenga",
       "longitude": 176.263229,
       "name": "Puarenga"
+    },
+    "purnavolok": {
+      "country_id": "79",
+      "event_id": "2802",
+      "latitude": 64.538434,
+      "local_name": "Pur-Navolok",
+      "longitude": 40.508497,
+      "name": "Pur-Navolok"
     },
     "pushkin": {
       "country_id": "79",
