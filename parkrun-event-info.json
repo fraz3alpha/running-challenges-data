@@ -2116,7 +2116,7 @@
   "1389": {
     "e": "The Terrace parkrun",
     "ec": "Australia",
-    "ed": "Matt Godwin & Paul Tooney",
+    "ed": "Paul Tooney",
     "en": "1389",
     "es": "Live"
   },
@@ -5245,7 +5245,7 @@
   "188": {
     "e": "Colchester Castle parkrun",
     "ec": "United Kingdom",
-    "ed": "Gareth Gailey",
+    "ed": "Sue Cross & Katherine Burke",
     "en": "188",
     "es": "Live"
   },
@@ -11608,7 +11608,7 @@
   "2781": {
     "e": "Cambourne junior parkrun",
     "ec": "United Kingdom",
-    "ed": "Layla Fitzwilliam Hall & Kevin Morgan",
+    "ed": "Philip Abel & Kevin Morgan",
     "en": "2781",
     "es": "Live"
   },
@@ -11947,6 +11947,13 @@
     "ed": "Ruth Wallace",
     "en": "2838",
     "es": "Live"
+  },
+  "2839": {
+    "e": "parkrun Ekomarina",
+    "ec": "Poland",
+    "ed": "Kamil Adam Hirsz",
+    "en": "2839",
+    "es": "AcceptingRegistrations"
   },
   "284": {
     "e": "Dumfries junior parkrun",
@@ -14415,7 +14422,7 @@
   "669": {
     "e": "Blue Gum Hills parkrun",
     "ec": "Australia",
-    "ed": "Maria Murphy & Andrew Gardner",
+    "ed": "Andrew Gardner",
     "en": "669",
     "es": "Live"
   },
@@ -14625,7 +14632,7 @@
   "711": {
     "e": "Bryanston parkrun",
     "ec": "South Africa",
-    "ed": "Alex Barbosa",
+    "ed": "Avi Naidoo",
     "en": "711",
     "es": "Live"
   },
