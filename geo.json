@@ -7068,6 +7068,14 @@
       "longitude": -4.669662,
       "name": "Eglinton"
     },
+    "ekomarina": {
+      "country_id": "74",
+      "event_id": "2839",
+      "latitude": 53.875029,
+      "local_name": "Ekomarina",
+      "longitude": 21.316257,
+      "name": "Ekomarina"
+    },
     "elaginostrov": {
       "country_id": "79",
       "event_id": "959",
