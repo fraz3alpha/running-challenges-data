@@ -5012,6 +5012,14 @@
       "longitude": 37.518704,
       "name": "Butovo"
     },
+    "buzulukparkpushkina": {
+      "country_id": "79",
+      "event_id": "2813",
+      "latitude": 52.791924,
+      "local_name": "Buzuluk Park Pushkina",
+      "longitude": 52.278283,
+      "name": "Buzuluk Park Pushkina"
+    },
     "bydgoszcz": {
       "country_id": "74",
       "event_id": "1104",
