@@ -807,7 +807,7 @@
   "1185": {
     "e": "Lancefield parkrun",
     "ec": "Australia",
-    "ed": "Erin Foster & Nadine Robertson",
+    "ed": "Erin Foster",
     "en": "1185",
     "es": "Live"
   },
@@ -1444,7 +1444,7 @@
   "1296": {
     "e": "Surbiton junior parkrun",
     "ec": "United Kingdom",
-    "ed": "Claudia Burrough",
+    "ed": "Daisy Street",
     "en": "1296",
     "es": "Live"
   },
@@ -1822,7 +1822,7 @@
   "1348": {
     "e": "Rushmere parkrun",
     "ec": "United Kingdom",
-    "ed": "Tracy Cardno & Jon Hull",
+    "ed": "Tracy Cardno",
     "en": "1348",
     "es": "Live"
   },
@@ -3159,7 +3159,7 @@
   "1541": {
     "e": "Karkarook parkrun",
     "ec": "Australia",
-    "ed": "Mark Cant",
+    "ed": "Mark Cant & Rachael Roach",
     "en": "1541",
     "es": "Live"
   },
@@ -3348,7 +3348,7 @@
   "1609": {
     "e": "Westbury parkrun",
     "ec": "South Africa",
-    "ed": "Irene Jacobs",
+    "ed": "Irene Jacobs & Edmund Bailey",
     "en": "1609",
     "es": "Live"
   },
@@ -4447,7 +4447,7 @@
   "1772": {
     "e": "Koonwarra parkrun",
     "ec": "Australia",
-    "ed": "Felicity Castellan & Lani Cropley",
+    "ed": "Felicity Castellan",
     "en": "1772",
     "es": "Live"
   },
@@ -4706,7 +4706,7 @@
   "1807": {
     "e": "Standerton parkrun",
     "ec": "South Africa",
-    "ed": "Charl van Wyk & Marjorie Uys",
+    "ed": "Charl van Wyk",
     "en": "1807",
     "es": "Live"
   },
@@ -6470,7 +6470,7 @@
   "2055": {
     "e": "Meningie parkrun",
     "ec": "Australia",
-    "ed": "Angelika Bjersander & Rebecca Falkenhagen",
+    "ed": "Angelika Bjersander & Kym-Lea Angas",
     "en": "2055",
     "es": "Live"
   },
@@ -10264,7 +10264,7 @@
   "2588": {
     "e": "Skegness Boating Lake parkrun",
     "ec": "United Kingdom",
-    "ed": "Ian Bailey & Carole Tumber",
+    "ed": "Gordon Pearson",
     "en": "2588",
     "es": "Live"
   },
@@ -11587,7 +11587,7 @@
   "278": {
     "e": "Normanby Hall parkrun",
     "ec": "United Kingdom",
-    "ed": "Sue Zergi",
+    "ed": "Jason Frary",
     "en": "278",
     "es": "Live"
   },
@@ -12011,12 +12011,26 @@
     "en": "2851",
     "es": "AcceptingRegistrations"
   },
+  "2852": {
+    "e": "The Avenues parkrun",
+    "ec": "Australia",
+    "ed": "Steven Tiley",
+    "en": "2852",
+    "es": "AcceptingRegistrations"
+  },
   "286": {
     "e": "Conkers parkrun",
     "ec": "United Kingdom",
     "ed": "Roger Cobb & Nicola Briggs",
     "en": "286",
     "es": "Live"
+  },
+  "2865": {
+    "e": "Valentine Peak parkrun",
+    "ec": "United States",
+    "ed": "Jon Hermansen",
+    "en": "2865",
+    "es": "AcceptingRegistrations"
   },
   "287": {
     "e": "Evesham junior parkrun",
@@ -13169,7 +13183,7 @@
   "459": {
     "e": "Sunrise-on-Sea parkrun",
     "ec": "South Africa",
-    "ed": "Craig Arnold",
+    "ed": "Cindy Morgan & Cynthia Chaplin",
     "en": "459",
     "es": "Live"
   },
@@ -13568,7 +13582,7 @@
   "519": {
     "e": "Clair parkrun",
     "ec": "United Kingdom",
-    "ed": "Marion Hemsworth & Jay Wadey",
+    "ed": "Marion Hemsworth",
     "en": "519",
     "es": "Live"
   },
@@ -14814,7 +14828,7 @@
   "75": {
     "e": "Kingston parkrun",
     "ec": "United Kingdom",
-    "ed": "Terri Harris",
+    "ed": "Beverly Gow",
     "en": "75",
     "es": "Live"
   },
