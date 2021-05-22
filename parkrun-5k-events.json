@@ -12871,6 +12871,14 @@
     "longitude": -2.159373,
     "name": "Tewkesbury"
   },
+  "theavenues": {
+    "country_id": "3",
+    "event_id": "2852",
+    "latitude": -35.209252,
+    "local_name": "The Avenues",
+    "longitude": 138.709337,
+    "name": "The Avenues"
+  },
   "thebeaches": {
     "country_id": "3",
     "event_id": "1076",
@@ -13502,6 +13510,14 @@
     "local_name": "Vaal Marina",
     "longitude": 28.199742,
     "name": "Vaal Marina"
+  },
+  "valentinepeak": {
+    "country_id": "98",
+    "event_id": "2865",
+    "latitude": 37.842564,
+    "local_name": "Valentine Peak",
+    "longitude": -112.8173,
+    "name": "Valentine Peak"
   },
   "valentines": {
     "country_id": "97",
