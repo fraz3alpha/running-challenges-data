@@ -11743,7 +11743,7 @@
     "ec": "Russia",
     "ed": "\u0421\u0430\u043c\u0443\u0445\u0438\u043d \u041d\u0438\u043a\u0438\u0442\u0430  & \u0414\u0443\u0434\u043e\u0440\u043e\u0432\u0430 \u042e\u043b\u0438\u044f",
     "en": "2802",
-    "es": "AcceptingRegistrations"
+    "es": "Live"
   },
   "2803": {
     "e": "Maleny Trail parkrun",
@@ -11953,7 +11953,7 @@
     "ec": "Poland",
     "ed": "Kamil Adam Hirsz",
     "en": "2839",
-    "es": "AcceptingRegistrations"
+    "es": "Live"
   },
   "284": {
     "e": "Dumfries junior parkrun",
@@ -12016,7 +12016,14 @@
     "ec": "Australia",
     "ed": "Steven Tiley",
     "en": "2852",
-    "es": "AcceptingRegistrations"
+    "es": "Live"
+  },
+  "2855": {
+    "e": "St Nicholas junior parkrun",
+    "ec": "United Kingdom",
+    "ed": "Jude Baum & Lizzie Timmins",
+    "en": "2855",
+    "es": "Live"
   },
   "286": {
     "e": "Conkers parkrun",
