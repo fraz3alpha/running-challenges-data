@@ -2615,6 +2615,14 @@
     "longitude": -2.922804,
     "name": "The Mystery juniors"
   },
+  "thestation-juniors": {
+    "country_id": "97",
+    "event_id": "2854",
+    "latitude": 54.402135,
+    "local_name": "The Station juniors",
+    "longitude": -1.727371,
+    "name": "The Station juniors"
+  },
   "thewaterfront-juniors": {
     "country_id": "97",
     "event_id": "2411",
@@ -2722,9 +2730,9 @@
   "verulamium-juniors": {
     "country_id": "97",
     "event_id": "2305",
-    "latitude": 51.746545,
+    "latitude": 51.750365,
     "local_name": "Verulamium juniors",
-    "longitude": -0.348169,
+    "longitude": -0.354946,
     "name": "Verulamium juniors"
   },
   "vicarstown-juniors": {
@@ -3006,6 +3014,14 @@
     "local_name": "Worthing Leisure Centre juniors",
     "longitude": -0.407252,
     "name": "Worthing Leisure Centre juniors"
+  },
+  "wottoncommunityparc-juniors": {
+    "country_id": "97",
+    "event_id": "2853",
+    "latitude": 51.633891,
+    "local_name": "Wotton Community PARC juniors",
+    "longitude": -2.370035,
+    "name": "Wotton Community PARC juniors"
   },
   "wycomberye-juniors": {
     "country_id": "97",

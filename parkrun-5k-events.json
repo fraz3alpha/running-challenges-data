@@ -3023,14 +3023,6 @@
     "longitude": 148.703733,
     "name": "Cowra"
   },
-  "cradock": {
-    "country_id": "85",
-    "event_id": "2385",
-    "latitude": -32.155414,
-    "local_name": "Cradock",
-    "longitude": 25.616605,
-    "name": "Cradock"
-  },
   "crane": {
     "country_id": "97",
     "event_id": "390",
@@ -12086,6 +12078,14 @@
     "local_name": "South Oxhey",
     "longitude": -0.398653,
     "name": "South Oxhey"
+  },
+  "southparareservoir": {
+    "country_id": "3",
+    "event_id": "2845",
+    "latitude": -34.683829,
+    "local_name": "South Para Reservoir",
+    "longitude": 138.877987,
+    "name": "South Para Reservoir"
   },
   "southport": {
     "country_id": "97",

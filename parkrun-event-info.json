@@ -464,7 +464,7 @@
   "1098": {
     "e": "Menai parkrun",
     "ec": "Australia",
-    "ed": "Faye Forster & Sheree Cottell",
+    "ed": "Tracey Hobbs",
     "en": "1098",
     "es": "Live"
   },
@@ -3516,7 +3516,7 @@
   "1636": {
     "e": "Darebin parkrun",
     "ec": "Australia",
-    "ed": "Katherine Oborne & Nadine Barnes",
+    "ed": "Katherine Oborne",
     "en": "1636",
     "es": "Live"
   },
@@ -4377,7 +4377,7 @@
   "1763": {
     "e": "East Richmond parkrun",
     "ec": "Australia",
-    "ed": "Dean Sherratt",
+    "ed": "Karryn McGregor & Adam McGregor",
     "en": "1763",
     "es": "Live"
   },
@@ -5910,7 +5910,7 @@
   "1977": {
     "e": "Lochore Meadows parkrun",
     "ec": "United Kingdom",
-    "ed": "Isabel Carmichael & Karen Hunter",
+    "ed": "Karen Hunter",
     "en": "1977",
     "es": "Live"
   },
@@ -8770,13 +8770,6 @@
     "en": "2384",
     "es": "Live"
   },
-  "2385": {
-    "e": "Cradock parkrun",
-    "ec": "South Africa",
-    "ed": "Cara Fordyce",
-    "en": "2385",
-    "es": "Live"
-  },
   "2386": {
     "e": "Riemer parkrun",
     "ec": "Germany",
@@ -8794,7 +8787,7 @@
   "2388": {
     "e": "parkrun Zamek w Malborku",
     "ec": "Poland",
-    "ed": "Joanna Borkowska",
+    "ed": "Maciej Frankiewicz",
     "en": "2388",
     "es": "Live"
   },
@@ -9130,7 +9123,7 @@
   "2432": {
     "e": "Stratford Park parkrun, Stroud",
     "ec": "United Kingdom",
-    "ed": "Ian Cutler",
+    "ed": "Ian Cutler & Nicholas Tanner",
     "en": "2432",
     "es": "Live"
   },
@@ -9606,7 +9599,7 @@
   "2499": {
     "e": "Northside Beltline parkrun",
     "ec": "United States",
-    "ed": "Brett Clarence & Samantha Buzzard",
+    "ed": "Brett Clarence & Sean Randall",
     "en": "2499",
     "es": "Live"
   },
@@ -9816,7 +9809,7 @@
   "2527": {
     "e": "Campaspe parkrun",
     "ec": "Australia",
-    "ed": "Mary Orgill & Mathew Piper",
+    "ed": "Mary Orgill",
     "en": "2527",
     "es": "Live"
   },
@@ -11976,6 +11969,13 @@
     "en": "2844",
     "es": "Live"
   },
+  "2845": {
+    "e": "South Para Reservoir parkrun",
+    "ec": "Australia",
+    "ed": "Ali Jones & Matt Hale",
+    "en": "2845",
+    "es": "AcceptingRegistrations"
+  },
   "2847": {
     "e": "Alberton Ascot parkrun",
     "ec": "Australia",
@@ -12017,6 +12017,20 @@
     "ed": "Steven Tiley",
     "en": "2852",
     "es": "Live"
+  },
+  "2853": {
+    "e": "Wotton Community PARC junior parkrun",
+    "ec": "United Kingdom",
+    "ed": "Julie Jenner & Naomi Price",
+    "en": "2853",
+    "es": "AcceptingRegistrations"
+  },
+  "2854": {
+    "e": "The Station junior parkrun",
+    "ec": "United Kingdom",
+    "ed": "Jeanette Kendall",
+    "en": "2854",
+    "es": "AcceptingRegistrations"
   },
   "2855": {
     "e": "St Nicholas junior parkrun",
@@ -13890,7 +13904,7 @@
   "57": {
     "e": "Newcastle parkrun",
     "ec": "United Kingdom",
-    "ed": "Ian Kirtley",
+    "ed": "Peter Chamley",
     "en": "57",
     "es": "Live"
   },
@@ -14142,7 +14156,7 @@
   "613": {
     "e": "Sheffield Castle parkrun",
     "ec": "United Kingdom",
-    "ed": "Diane Cairns",
+    "ed": "Charlotte Hutton",
     "en": "613",
     "es": "Live"
   },
@@ -15759,7 +15773,7 @@
   "947": {
     "e": "Blandford parkrun",
     "ec": "United Kingdom",
-    "ed": "Mark Way",
+    "ed": "Luke Goddard",
     "en": "947",
     "es": "Live"
   },
