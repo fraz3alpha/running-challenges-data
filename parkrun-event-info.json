@@ -3513,6 +3513,13 @@
     "en": "1634",
     "es": "Live"
   },
+  "1635": {
+    "e": "parkrun Magnitogorsk Ecopark",
+    "ec": "Russia",
+    "ed": "\u042f\u043a\u043e\u0431\u0447\u0443\u043a \u0415\u043b\u0435\u043d\u0430 & \u0412\u0430\u043b\u044c\u0442\u0435\u0440 \u0414\u0430\u0440\u044c\u044f",
+    "en": "1635",
+    "es": "AcceptingRegistrations"
+  },
   "1636": {
     "e": "Darebin parkrun",
     "ec": "Australia",
@@ -3684,7 +3691,7 @@
   "166": {
     "e": "Roosevelt Island DC parkrun",
     "ec": "United States",
-    "ed": "Nick Young & Joyce Adams",
+    "ed": "Joyce Adams",
     "en": "166",
     "es": "Live"
   },
@@ -11535,6 +11542,13 @@
     "en": "2771",
     "es": "Live"
   },
+  "2773": {
+    "e": "parkrun park 850-letiya Moskvy",
+    "ec": "Russia",
+    "ed": "\u0410\u043b\u0451\u043d\u0430 \u0413\u0438\u0431\u0435\u0440\u0442 & \u0415\u0432\u0433\u0435\u043d\u0438\u044f \u0421\u0430\u043b\u044c\u043d\u0438\u043a\u043e\u0432\u0430",
+    "en": "2773",
+    "es": "AcceptingRegistrations"
+  },
   "2774": {
     "e": "Sandall Park junior parkrun",
     "ec": "United Kingdom",
@@ -12038,6 +12052,13 @@
     "ed": "Jude Baum & Lizzie Timmins",
     "en": "2855",
     "es": "Live"
+  },
+  "2858": {
+    "e": "Shingashigawa Ukima parkrun",
+    "ec": "Japan",
+    "ed": "Miho Ishikawa",
+    "en": "2858",
+    "es": "AcceptingRegistrations"
   },
   "286": {
     "e": "Conkers parkrun",
@@ -12903,7 +12924,7 @@
   "418": {
     "e": "parkrun des Dougnes, Cubnezais",
     "ec": "France",
-    "ed": "Anita Afonse",
+    "ed": "Ren\u00e9e Wildschut",
     "en": "418",
     "es": "Live"
   },
