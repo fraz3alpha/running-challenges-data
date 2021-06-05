@@ -7735,6 +7735,14 @@
     "longitude": -3.665573,
     "name": "Maesteg"
   },
+  "magnitogorskecopark": {
+    "country_id": "79",
+    "event_id": "1635",
+    "latitude": 53.405253,
+    "local_name": "Magnitogorsk Ecopark",
+    "longitude": 58.94911,
+    "name": "Magnitogorsk Ecopark"
+  },
   "maidenhead": {
     "country_id": "97",
     "event_id": "1109",
@@ -9783,6 +9791,14 @@
     "longitude": 153.396218,
     "name": "Paradise Point"
   },
+  "park850letiyamoskvy": {
+    "country_id": "79",
+    "event_id": "2773",
+    "latitude": 55.643571,
+    "local_name": "park 850-letiya Moskvy",
+    "longitude": 37.755892,
+    "name": "park 850-letiya Moskvy"
+  },
   "parke": {
     "country_id": "97",
     "event_id": "837",
@@ -11742,6 +11758,14 @@
     "local_name": "Shimanami Earthland",
     "longitude": 132.9713,
     "name": "Shimanami Earthland"
+  },
+  "shingashigawaukima": {
+    "country_id": "46",
+    "event_id": "2858",
+    "latitude": 35.788426,
+    "local_name": "Shingashigawa Ukima",
+    "longitude": 139.708478,
+    "name": "Shingashigawa Ukima"
   },
   "shipleycountry": {
     "country_id": "97",
