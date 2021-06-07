@@ -2487,7 +2487,7 @@
   "144": {
     "e": "Hemlington Lake junior parkrun",
     "ec": "United Kingdom",
-    "ed": "Dan Mooney & Andy Richardson",
+    "ed": "Dan Mooney",
     "en": "144",
     "es": "Live"
   },
@@ -6211,7 +6211,7 @@
   "2018": {
     "e": "River Oaks parkrun",
     "ec": "Canada",
-    "ed": "Chris Thatcher & Joanne Lozier",
+    "ed": "Joanne Lozier",
     "en": "2018",
     "es": "Live"
   },
@@ -8178,7 +8178,7 @@
   "2294": {
     "e": "Glass House Mountains Conservation parkrun",
     "ec": "Australia",
-    "ed": "Warwick King & Jennifer Rickards",
+    "ed": "awaiting new ED",
     "en": "2294",
     "es": "Live"
   },
@@ -12066,6 +12066,20 @@
     "ed": "Roger Cobb & Nicola Briggs",
     "en": "286",
     "es": "Live"
+  },
+  "2860": {
+    "e": "parkrun B\u0142onie",
+    "ec": "Poland",
+    "ed": "Piotr \u015awi\u0119ch & Leszek Wojciechowicz",
+    "en": "2860",
+    "es": "AcceptingRegistrations"
+  },
+  "2861": {
+    "e": "parkrun Las D\u0119bi\u0144ski",
+    "ec": "Poland",
+    "ed": "Joanna Klausa-Wartacz & S\u0142awomir Wartacz",
+    "en": "2861",
+    "es": "AcceptingRegistrations"
   },
   "2865": {
     "e": "Valentine Peak parkrun",
