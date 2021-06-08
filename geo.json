@@ -4420,6 +4420,14 @@
       "longitude": 25.595048,
       "name": "Bloemhof"
     },
+    "blonie": {
+      "country_id": "74",
+      "event_id": "2860",
+      "latitude": 52.249399,
+      "local_name": "B\u0142onie",
+      "longitude": 17.076015,
+      "name": "B\u0142onie"
+    },
     "bluegumhills": {
       "country_id": "3",
       "event_id": "669",
@@ -10347,6 +10355,14 @@
       "local_name": "Las Anio\u0142owski",
       "longitude": 19.139758,
       "name": "Las Anio\u0142owski"
+    },
+    "lasdebinski": {
+      "country_id": "74",
+      "event_id": "2861",
+      "latitude": 52.367188,
+      "local_name": "Las D\u0119bi\u0144ski",
+      "longitude": 16.920031,
+      "name": "Las D\u0119bi\u0144ski"
     },
     "laudium": {
       "country_id": "85",
