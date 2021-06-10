@@ -9820,14 +9820,6 @@
       "longitude": -2.272804,
       "name": "Kingsway"
     },
-    "kingwilliamstown": {
-      "country_id": "85",
-      "event_id": "1380",
-      "latitude": -32.89146,
-      "local_name": "King Williams Town",
-      "longitude": 27.4088,
-      "name": "King Williams Town"
-    },
     "kirkcaldy": {
       "country_id": "97",
       "event_id": "754",
@@ -10391,9 +10383,9 @@
     "leakinpark": {
       "country_id": "98",
       "event_id": "270",
-      "latitude": 39.30401,
+      "latitude": 39.303486,
       "local_name": "Leakin Park",
-      "longitude": -76.695322,
+      "longitude": -76.707602,
       "name": "Leakin Park"
     },
     "leamington": {
